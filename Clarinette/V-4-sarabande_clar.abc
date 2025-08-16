@@ -1,0 +1,49 @@
+X:1
+T:4 - Sarabande
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/8
+%Mabc Q:1/4=50
+%%MIDI program 71 % clarinette
+K:Fmaj clef=treble_8
+%% 1
+A,(F,^C,D,) B,,2 |
+% 2
+D(B,^F,G,) ^C,2 |
+% 3
+E(B,^F,G,) A,,A, |
+% 4
+G,(F,^C,D,) D,,2 |
+% 5
+(D,F,B,A,)(_ED) |$
+% 6
+(E,G,CB,)(DC) |
+% 7
+(B,A,E,F,)(C,E,) |
+% 8
+F,,6 :|
+% 9
+|: C(A,E,F,) _E,,2 |
+%10
+C(A,^F,G,) A,,2 |$
+% 11
+_E(C^F,G,)(D,,D) |
+% 12
+CB,^F,G, G,,2 |
+% 13
+F,,(D,G,F,)(C=B,) |
+% 14
+E,,(E,A,G,)(D^C) |
+% 15
+D(B,^G,A,)(^C,D,) |$
+% 16
+(A,,E,A,^G,)(D^C) |
+% 17
+F(D^G,A,)(=B,,F) |
+% 18
+E(_B,^F,G,)(^C,A,) |
+% 19
+G,(F,^C,D,)A,,^C |
+% 20
+(D,,A,,G,F,) D2 :|$
+%%%%%%%%%

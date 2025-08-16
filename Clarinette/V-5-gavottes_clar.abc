@@ -1,0 +1,131 @@
+X:1
+T:5 - Gavottes
+%%%% C:Jean-Sébastien Bach
+M:C|
+L:1/8
+%Mabc Q:1/2=60
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+K:Fmaj clef=treble_8
+P:Gavotte I
+%% 1
+{D,F,}A,2 D2 | {G,}B,2 (CA,) {E,}B,2 (CG,) |
+% 2
+A,2 (F,^C,) D,2 (B,F,) |
+% 3
+G,2 (E,=B,,) (^C,E,) A,2 |
+% 4
+{D,,A,,}!ptrill!F,2 (E,D,) (A,F,)(DA,) |$
+% 5
+(B,G,)(C^F,) (B,G,)(CE,) |
+% 6
+(A,F,)(B,E,) (A,F,)(CA,) |
+% 7
+(D_B,)(_EA,) (D_B,)(FA,) |
+% 8
+(E_B,)(FE) (DC)(=B,A,) |$
+% 9
+{D,}=B,2 (CA,) {F,}=B,2 (D=B,) |
+% 10
+{E,}C2 (D=B,) {D,}C2 (FD) |
+% 11
+E2 {C,E,}A,2 ({D,}C=B,) {E,}A,^G, |
+% 12
+{A,,E,}A,4 :|$
+% 13
+|: {A,,E,}C2 A,2 | {D,,A,,}^F,2 (G,E,) {C,}^F,2 (DF,) |
+% 14
+{B,,}G,2 (A,^F,) G,2 (DG,) |
+% 15
+{^F,}A,2 (_B,G,) {D,^F,}A,2 (DA,) |
+% 16
+({G,}CB,A,G,) (_B,A,G,=F,) |$
+% 17
+(E,B,,)(F,D,) (E,B,,)(CE,) |
+% 18
+(F,A,,)(G,E,) (F,A,,)(CF,) |
+% 19
+(G,C,)(A,F,) (G,C,)(CG,) |
+% 20
+(B,A,)(G,F,) {D,F,}B,2 {C,F,}A,2 |$
+% 21
+({B,,}G,F,G,E,) {B,,F,}D2 {A,,F,}C2 |
+% 22
+({G,,B,,}F,E,F,D,) {G,,B,,}E,2 {E,}B,2 |
+% 23
+({F,}B,G,A,F,) ({C,}A,G,F,E,) |
+% 24
+{F,,C,}F,4 {F,,C,}A,2 F,2 |$
+% 25
+{E,}C2 (D=B,) C2 ({^F,}DA,) |
+% 26
+({G,}C=B,)(A,G,) ({G,}=B,A,)(^CB,) |
+% 27
+({^G,}D^C)(E^C) D(=F,E,D,) |$
+% 28
+(A,,E,)(D^C) (FA,)(_B,G,) |
+% 29
+(EG,)(A,F,) (DF,)(G,E,) |
+% 30
+({A,,E,}D^C=B,A,) (DF,)(G,E,) |
+% 31
+(^CE,)(F,D,) (_B,D,)(E,^C,) |$
+% 32
+{G,,^C,E,}A,G,F,E, {F,,}D,2 (F,D,) |
+% 33
+{G,,D,}E,2 (F,D,) {_B,,}E,2 (G,E,) |
+% 34
+{A,,}F,2 (G,E,) {G,,D,}F,2 (B,G,) |
+% 35
+A,2 {F,,}D,2 ({G,,D,}F,E,)(A,,^C,) |
+% 36
+{D,,}D,4 !fermata!:|$
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%vskip 0.5cm
+P:Gavotte II
+%%setbarnb 1
+% 1
+[M:4/4][L:1/8] |: (3A,G,A, (3_B,A,G, | A,2-(3A,G,F, (3E,F,G, (3F,E,D, |
+% 2
+(3^C,D,E, (3A,,^C,E, (3A,G,A, (3_B,A,G, |$
+% 3
+(3A,G,F, (3E,F,G, (3F,E,D, (3^C,D,E, |
+% 4
+D,2 D,,2 :: (3F,E,F, (3G,F,E, |
+% 5
+F,2-(3F,G,A, (3_B,A,G, (3A,G,F, |$
+% 6
+(3E,F,G, (3C,E,G, (3C=B,C (3DC=B, |
+% 7
+(3C=B,A, (3FED (3C=B,A, (3^G,A,=B, |
+% 8
+A,2 A,,2 (3A,G,A, (3_B,A,G, |$
+% 9
+A,2-(3A,G,F, (3E,F,G, (3F,E,D, |
+% 10
+(3^C,D,E, (3A,,^C,E, (3A,G,A, (3_B,A,G, |
+% 11
+(3A,G,F, (3E,F,G, (3F,E,D, (3^C,D,E, |$
+% 12
+(3D,A,,F,, (3D,,F,,A,, (3D,F,A, (3DE^C |
+% 13
+D2-(3D=CB, (3A,B,C (3B,A,G, |
+% 14
+(3^F,G,A, (3D,E,F, (3G,^F,G, (3A,G,F, |$
+% 15
+(3G, (=F,_E,(3D,E,F,) (3_E, (^F,G,(3A,G,F,) |
+% 16
+(3G, (D,C,(3=B,,C,D,) (3C, (^F,G,(3A,G,F,) |
+% 17
+(3^C, (G,A,(3_B,A,G,) (3DCB, (3A,G,^F, |$
+% 18
+(3G,A,_B, (3A,_B,G, (3^CDE (3DE^C |
+% 19
+(3D=CB, (3A,G,F, (3_B,A,G, (3F,E,D, |$
+% 20
+(3^C,D,E, (3A,,^C,E, (3A,G,A, (3_B,A,G, |
+% 21
+(3A,G,F, (3E,F,G, (3F,E,D, (3^C,D,E, |
+% 22
+"@-30,-45Gavotte I da Capo"D,2 D,,2 :|$
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

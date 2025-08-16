@@ -1,0 +1,57 @@
+X:1
+T:3 - Courante
+%%%% C:Jean-Sébastien Bach
+M:3/2
+L:1/8
+%Mabc Q:1/2=65
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+K:Fmaj clef=treble_8
+D, | {D,,}D,3 E, (F,G,A,B,) (A,G,A,F,) |
+% 2
+{E,,^C,}G,3 F, (F,E,D,^C,) D,3 E, |
+% 3
+{D,,}A,,3 D,/2^C,/2 D,2 E,2 (G,F,E,D,) |$
+% 4
+{G,,D,G,}B,3 G, {D}^C2 {F,}D2 {A,,}E,3 A, |
+% 5
+{D,,A,,}F,3 E, (D,E,F,G,) (A,B,DC) |
+% 6
+{A,,F,}C3 B, (A,G,F,E,) (E,F,)=B,,3/2G,/2 |$
+% 7
+(F,E,D,C,) C3 D (C=B,CA,) |
+% 8
+{F,}D3 C (C=B,A,^G,) A,3 =B, |
+% 9
+{E,}A,^G,^F,E, E2 {^G,}D^C {F,}D2 {E,}E2 |$
+% 10
+{D,A,}F3 E DC=B,C !trill!^G,3 A, |
+% 11
+(=B,,^G,DE) {A,,E,D}C2 D,3/2=B,/2 {E,}!trill!B,3 A, |
+% 12
+A,2- A,/2G,/2F,/2E,/2 F,3/2D,/2 {A,,}A,4 z :|$
+% 13
+|: E | {A,,^C}E3 F ED^CD/2E/2 A,3 B, |
+% 14
+{=B,,}G,3 F, (E,F,G,_B,) {^C,}A,2 {A,,}G,2 |
+% 15
+{D,}G,F,E,D, B,2 {C,E,}A,2 {B,,F,}D3 _E |$
+% 16
+{A,,}!trill!^F,3 G, (A,B,CD) _E2 {^F,}D2 |
+% 17
+({G,}CB,A,G,) (F,_E,)(F,D,) E,(G,A,_B,) |
+% 18
+(B,A,G,F,) {D,B,}F3 G {F,}!trill!C3 B, |$
+% 19
+B,3 A, (B,CDE) !trill!E3 D/2E/2 |
+% 20
+{A,}F3 C D2 {F,}A,2 ({G,}A,B,)D,C |
+% 21
+{F,}B,A,(G,F,) (A,=B,A,B,) !trill!B,3 A,/2=B,/2 |$
+% 22
+{E,}C3 =B, (D^C) {F,}D2 ({G,}=C_B,) ({E,}A,G,) |
+% 23
+{^C,}G,2 A,,A, {D,}F,2 G,,E, {A,,}!trill!E,3 D, |
+% 24
+D,3 (A,,/2G,,/2 F,,/2G,,/2A,,) {D,,A,,F,}D4 z :|$
+%%%%%%%%%%%%%%%%%

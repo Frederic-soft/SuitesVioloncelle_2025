@@ -1,0 +1,76 @@
+X:1
+T:1 - Prélude
+M:4/4
+L:1/16
+%Mabc Q:1/4=80
+K:Amaj clef=treble_8
+%%MIDI program 71 % clarinette
+%% 1
+(A,,E,C)B, CE,CE, (A,,E,C)B, CE,CE, |
+(A,,F,D)C DF,DF, (A,,F,D)C DF,DF, |
+(A,,G,D)C DG,DG, (A,,G,D)C DG,DG, |$
+%% 4
+(A,,A,C)B, CA,CA, (A,,A,C)B, CA,CG, |
+(A,,F,C)B, CA,G,A, F,A,G,A, C,E,^D,C, |
+(^D,A,B,)A, B,A,B,A, (D,A,B,)A, B,A,B,A, |
+%% 7
+(G,B,E)^D EB,A,B, G,B,A,B, E,G,F,E, |$
+%% 8
+(F,,C,)A,G, A,C,A,C, (F,,C,A,)G, A,C,A,C, |
+F,,^D,E,F, E,D,C,B,, (A,G,F,)E ^DCB,A, |
+%% 10
+(G,F,E,)E B,EG,B, (E,F,G,)B, A,G,F,E, |
+^A,(E,=G,F,) G,E,^A,E, C(E,=G,F,) G,E,^A,E, |$
+%% 12
+(D,F,B,)C DB,F,E, (D,F,B,)C DB,^G,F, |
+%% 13
+(^E,G,E,G,) B,G,B,G, (E,G,E,G,) B,G,B,G, |
+(A,G,F,)A, G,A,B,G, A,G,F,E, D,C,B,,A,, |
+(G,,D,E,)D, E,D,E,D, (G,,D,E,)D, E,D,E,D, |$
+%% 16
+(A,,C,=G,)F, G,C,G,C, (A,,C,=G,)F, G,C,G,C, |
+(A,,D,F,)E, F,D,F,D, (A,,D,F,)E, F,D,F,D, |
+(A,,G,D)C DG,DG, (A,,G,D)C DG,DG, |
+%% 19
+(A,,E,C)B, CA,G,F, E,D,C,B,, A,,G,,F,,E,, |$
+%% 20
+(^D,,B,,F,)G, A,F,G,A, (D,,B,,F,)G, A,F,G,A, |
+(=D,,B,,E,)F, G,E,F,G, (D,,B,,E,)F, G,E,F,G,|
+%% 22
+(D,,B,,E,)G, (B,^D!fermata!E2-) EB,,C,=D, E,F,G,A, |
+B,G,E,F, G,A,B,C DB,G,A, B,CDE |$
+%% 24
+(=FE^DE) (E=DCD) DB,G,^F, E,B,,C,D, |
+%% 25
+E,,(B,,E,)G, B,CDB, (CA,E,)D, C,A,,B,,C, |
+(E,,A,,C,)E, A,B,CA, (^DCB,=C) (CB,^A,B,) |$
+%% 27
+(B,=A,G,)A, A,F,^D,C, (B,,D,F,)A, B,^DED |
+%% 28
+(EB,G,)F, G,B,E,G, B,,E,^D,C, B,,A,,G,,F,, |
+E,,2(=DC B,A,G,F,) E,(DCB, A,G,F,E,) |$
+%% 30
+D,(CB,A, G,F,E,D,) C,(B,A,G, F,E,D,C,) |
+%% 31
+B,,(A,G,F,) G,B,E,B, F,B,G,B, A,B,F,B, |
+%% 32
+G,B,E,B, A,B,F,B, G,B,E,B, A,B,F,B, |$
+%% 33
+G,B,E,B, F,B,G,B, A,B,B,B, CB,E,B, |
+%% 34
+B,B,CB, DB,E,B, CB,DB, EB,CB, |
+%% 35
+DB,CB, DB,B,B, CB,B,B, CB,A,B, |$
+%% 36
+B,B,A,B, B,B,G,B, A,B,G,B, A,B,F,B, |
+%% 37
+G,B,E,F, =G,E,^G,E, A,E,^A,E, B,E,=CE, |
+%% 38
+^CE,DE, ^DE,EE, =FE,^FE, =GE,^GE, |$
+%% 39
+(ACE,)C ACAC (ACE,)C ACAC |
+%% 40
+(AB,E,)B, AB,AB, (AB,E,)B, AB,AB, |
+(GDE,)D GDGD (GDE,)D GDGD |
+!fermata!{A,,C}A16 |]$
+%%%%%%%%%%%%%%%%%%%%%%%%%

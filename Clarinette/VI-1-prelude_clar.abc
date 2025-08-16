@@ -1,0 +1,264 @@
+%% /octava{ % usage: w x y octava
+%%   exch -10 add exch 2 copy
+%%   M 0 10 RM /Times-Roman 16 selectfont(8)show
+%%   /Times-Roman 12 selectfont(va)show
+%%   M 0 6 RL currentpoint stroke M
+%%   [6] 0 setdash 30 add 0 RL currentpoint stroke M
+%%   [] 0 setdash 0 -6 RL stroke}!
+%%beginps
+/octavastart{ % usage: x y octava
+  gsave
+  2 copy
+  M 0 12 RM /Times-Roman 16 selectfont(8)show
+  /Times-Roman 12 selectfont(va)show
+  M -6 0 RM 0 10 RL currentpoint stroke M [6] 0 setdash 70 0 RL stroke
+  grestore
+}!
+/octavaend{ % usage: x y octava
+  gsave
+  M 10 0 RM 0 10 RL currentpoint stroke M [6] 0 setdash -70 0 RL stroke
+  grestore
+}!
+%%endps
+%%deco 8vastart 3 octavastart 24 0 0
+%%deco 8vaend 3 octavaend 24 0 0
+X:1
+T:1 - Prélude
+%%%% C:Jean-Sébastien Bach
+M:12/8
+L:1/8
+%Mabc Q:3/8=70
+K:Emaj clef=treble_8
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+%%%%
+%% 1
+!f!(E,E,)E, (E,E,)G, (E,E,)B, (E,E,)E |
+%% 2
+!p!(E,E,)E, (E,E,)G, (E,E,)B, (E,E,)E |
+%% 3
+!f!C(E,A,) (CDE) B,(E,G,) (B,DE) |
+%% 4
+!p!C(E,A,) (CDE) B,(E,G,) (B,DE) |$
+%% 5
+!f!(A,F,G,) (A,E,G,) (A,D,G,) (A,B,,A,) |
+%% 6
+(G,E,F,) (G,D,F,) (G,C,E,) (G,B,,E,) |
+%% 7
+(F,^A,,E,) (F,B,,D,) (E,B,,D,) (E,^A,,C,) |
+%% 8
+D,(B,,D,) (F,G,^A,) B,(D,F,) (^A,B,C) |$
+%% 9
+D(F,^A,) (B,DE) F(B,D) (FG^A) |
+%% 10
+B(B,C) (DF)C (DB)F (DF)D |(B,B)C (DF)C (DB)F (DF)D |
+%% 11
+(B,B,)B, (B,B,)D (B,B,)F (B,B,)B |$
+%% 13
+!p!(B,B,)B, (B,B,)D (B,B,)F (B,B,)B |
+%% 14
+!f!G(B,E) (G^AB) F(B,D) (F^AB) |
+%% 15
+!p!G(B,E) (G^AB) F(B,D) (F^AB) |
+%% 16
+!f!(ECD) (EB,D) (E^A,D) (EF,E) |$
+%% 17
+(DB,C) (D^A,C) (DG,B,) (DF,B,) |
+%% 18
+(=D^E,)D (CD)B, (GB,)=D (CD)B, |
+%% 19
+=A,(F,A,) (CD^E) F(A,C) (^EFG) |
+%% 20
+A(C^E) (FAB) c(FA) (cd^e) |$
+%% 21
+f(FG) (Ac)G (Af)c (Ac)A |
+%% 22
+(Ff)G (Ac)G (Af)c (Ac)A |
+%% 23
+(FF)^E (FF)G (AF)G (FF)^E |
+%% 24
+(FF)^E (FF)G (AF)G (FF)^E |$
+%% 25
+(FF)A (^EF)G (FF)A (^EF)G |
+%% 26
+(FF)A (GF)B (AF)F (GF)B |
+%% 27
+(AF)G (AF)B (cF)B (AF)G |
+%% 28
+(AF)G (AF)B (cF)B (AF)G |$
+%% 29
+(AF)c (GF)B (AF)c (GF)B |
+%% 30
+(AF)F (GF)^E (FF)A (GF)^E |
+%% 31
+(FF)A (=EF)G (DF)F (CF)E |
+%%%%%%%%
+%% 32
+(^B,F)D (B,F)D G,(AG FED) |$
+%% 33
+(ECG) (ECG) (ECD) (EFG) |
+%% 34
+(A,CE) (Gc^B) (cAF) (edc) |
+%% 35
+(^BF)d (BF)d (^BF)G (AGF) |
+%% 36
+(Ec)G (Ec)G (Ec)=B (^ABc) |$
+%% 37
+^^F(=ED) E(^A,G,) A,(ED) (E^FE) |
+%% 38
+D(^FE) D(FC) (^B,CD) (A,G,F,) |
+%% 39
+(E,G,C) (=B,A,G,) (A,F,E,) (D,E,F,) |
+%% 40
+(^B,,D,G,) (F,E,D,) (E,C,=B,,) (^A,,B,,C,) |$
+%% 41
+(^^F,,C,E,) (F,,C,E,) (CDE) (D^B,C) |
+%% 42
+(G,,C,E,) (G,,C,E,) (CDE) (D^B,C) |
+%% 43
+(A,,C,F,) (CDE) (D^B,C) (^^F^B,C) |
+%% 44
+G(DE) (cBA) (GFE) (=DFC) |$
+%% 45
+(^B,=A,G,) (F,E,D,) (E,G,C) (G,C^B,) |
+%% 46
+(CG,F,) (E,G,D,) (E,C,E,) (G,CG,) |
+%% 47
+(E,CG,) (E,G,D,) (E,C,E,) (G,B,^A,) |
+%% 48
+(B,F,E,) (D,F,C,) (D,B,,D,) (F,B,F,) |$
+%%%%%%%%%%
+%% 49
+(D,=A,F,) (D,F,C,) (D,B,,D,) (F,G,A,) |
+%% 50
+(G,B,A,) (G,B,F,) (G,E,F,) (G,B,C) |
+%% 51
+(=DB,A,) (G,B,F,) (G,E,G,) (B,C=D) |
+%% 52
+(CA,)B, (CE)B, (CA)E (CE)B, |$
+%% 53
+!p!(CA,)B, (CE)B, (CA)E CA,E, |
+%% 54
+!f!(A,,A,,)A,, (A,,A,,)C, (A,,A,,)E, (A,,A,,)A, |
+%% 55
+!p!(A,,A,,)A,, (A,,A,,)C, (A,,A,,)E, (A,,A,,)A, |
+%% 56
+!f!F,(A,,=D,) (F,G,A,) E,(A,,C,) (E,G,A,) |$
+%% 57
+F,(A,,=D,) (F,G,A,) E,(A,,C,) (E,G,A,) |
+%% 58
+(=D,B,,C,) (D,B,,A,,) (G,,B,,C,) (=D,B,,G,,) |
+%% 59
+(E,,G,,B,,) (=D,E,G,) (B,EB,) (G,E,=D,) |
+%% 60
+(C,A,,B,,) (C,E,B,,) (C,A,,B,,) (C,A,B,,) |$
+%% 61
+(C,A,,B,,) (C,E,B,,) (C,A,,B,,) (C,A,F,) |
+%% 62
+D,(B,,C,) (D,F,G,) A,(F,E,) (D,F,C,) |
+%% 63
+D,(B,,C,) (D,F,G,) (A,B,C) (DEF) |
+%% 64
+G,(E,F,) (G,B,)F, G,(E,F,) (G,E)F, |$
+%% 65
+G,(E,F,) (G,B,)F, G,(E,F,) (G,E)C |
+%% 66
+(^A,F,G,) (A,CD) (ECB,) (^A,CG,) |
+%% 67
+(^A,F,G,) (A,CD) (EFG) (^ABc) |
+%% 68
+(DB,C) (DFG) (=AFE) (DFC) |$
+%% 69
+(DB,C) (DFG) (ABc) (def) |
+%% %% 70
+%% (Bg)e' (ge)f (ge')f (ge')e |
+%% %% 71
+%% (Ba)f' (af)g (af'g) (af'f) |
+%% %% 72
+%% (Bb)g' (bg)a (bg')a (bg')g |$
+%% %% 73
+%% (Bc')a' (c'a)b (c'a')b (c'a')a |
+%% %% 74
+%% (Bd')a' (g'f'e') (d'g'f') (e'd'c') |
+%% %% 75
+%% b(g'f' g')(ag a)(f'e' f')(gf |
+%% %% 76
+%% g)(e'd' e')(fe f)(d'c' d')bg |$
+%% %% 77
+%% (ec'b) (c'af) (dba) (bge) |
+%% %% 78
+%% (cag) (afd) B3/2(c/2d/4e/4f/4g/4) afd |
+%%%%%%%%%
+%% 70
+!8vastart!(B,,G,)E (G,E,)F, (G,E)F, (G,E)E, |
+%% 71
+(B,,A,)F (A,F,)G, (A,FG,) (A,FF,) |
+%% 72
+(B,,B,)G (B,G,)A, (B,G)A, (B,G)G, |$
+%% 73
+(B,,C)A (CA,)B, (CA)B, (CA)A, |
+%% 74
+(B,,D)A (GFE) (DGF) (EDC) |
+%% 75
+B,(GF G)(A,G, A,)(FE F)(G,F, |
+%% 76
+G,)(ED E)(F,E, F,)(DC D)B,G, |$
+%% 77
+(E,CB,) (CA,F,) (D,B,A,) (B,G,E,) |
+%% 78
+(C,A,G,) (A,F,D,) B,,3/2(C,/2D,/4E,/4F,/4G,/4) A,F,!8vaend!D, |
+%%%%%%%%%%%
+%% 79
+(B,GF) (GEC) A,3/2(B,/4C/4D/2E/2) (FDB,) |$
+%%%%%%%%%%
+%% 80
+(G,ED) (ECA,) (F,3/2G,/4A,/4B,/2C/2) (DB,G,) |
+%% 81
+E,(CA,) (F,D,)B, C,(A,F,) (D,B,,)G, |
+%% 82
+A,,(F,D,) (B,,G,,)E, (F,,A,,B,,) (D,F,G,) |$
+%% 83
+(A,B,D) (FAB) d3- [L:1/16]d(cBAGF) |
+%% 84
+(BAGFED) (GFEDCB,) (EDCB,^A,G,) (CB,A,G,F,E,) |$
+%% 85
+(D,F,B,DFB) (FDB,F,D,B,,) (D,F,B,DFB) (FDB,F,D,B,,) |
+%% 86
+(=A,,F,B,DFB) (FDB,F,D,B,,) (A,,F,B,DFB) (FDB,F,D,B,,) |$
+%% 87
+G,,(B,,C,=D,C,B,,) E,,(B,,C,D,C,B,,) G,(B,C=DCB,) G(B,CDCB,) |
+%% 88
+(CE=DCB,A,) (CB,A,G,F,E,) (F,A,G,F,E,^D,) (G,F,E,D,C,B,,) |$
+%% 89
+(=G,F,E,F,G,)E, ^A,,(E,F,=G,F,E,) C(E,F,=G,F,E,) E(E,F,G,F,E,) |
+%% 90
+[L:1/8](B,B,)B, (B,B,)D (B,B,)F (B,B,)B |$
+%% 91
+(B,B,)B, (B,B,)D (B,B,)F (B,B,)B |
+%% 92
+(E,E,)E, (E,E,)G, (E,E,)B, (E,E,)E |
+%% 93
+(E,E,)E, (E,E,)G, (E,E,)B, (E,E,)E |$
+%% 94
+[L:1/16](^A,B,CDEF) (EF)(DF)(EF) (EF)(DF)(EF) (EF)(DF)(CF) |
+%% 95
+(=A,B,DEFE) (DF)(CF)(DF) (DF)(CF)(DF) (DF)(CF)(B,F) |$
+%% 96
+[L:1/8]G,(FB) (EDC) F,(EA) (DCB,) |
+%% 97
+E,(B,G) (c^AB) (BG=A) (AF=G) |
+%% 98
+(=GE=F) (F^DE) {C,^A,}Ezz {=C,=A,}Ezz |$
+%% 99
+{B,,G,}Ezz {^A,,=G,}Ezz {B,,F,}Ezz {B,,F,}Dzz |
+%% 100
+(E,G,B,) (EB,G,) (E,G,B,) (=DB,G,) |
+%% 101
+(E,A,C) (ECE) (AEA) (cAF) |$
+%% 102
+(DFE) (FAG) (AcB) (ced) |
+%% 103
+(eBG) (BGE) (GEB,) (EB,G,) |
+%% 104
+B,G,E, G,E,B,, E,,B,,G, !fermata!E3 |]$
+%%%%%%%%%%

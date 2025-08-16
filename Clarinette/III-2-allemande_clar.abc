@@ -1,0 +1,58 @@
+X:1
+T:2 - Allemande
+%%%% C:Jean-Sébastien Bach
+M:C
+L:1/16
+%Mabc Q:1/4=60
+K:D clef=treble_8
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+%%%%
+xA,B,C | (DC/2B,/2A,)G, (F,A,/2G,/2F,)E, (D,A,,/2G,,/2F,,)E,, D,,D,E,F, |
+%% 2
+(G,F,/2E,/2F,)A, (E,D,/2C,/2D,)A, C,2(!trill!B,,A,,) (A,/2G,/2F,/2G,/2A,)F, |$
+%% 3
+B,,A,DF, (G,/2F,/2E,/2F,/2G,)E, A,,G,CE, (F,/2E,/2D,/2E,/2F,)D, |
+%% 4
+(G,,/2B,,/2C,/2D,/2E,)G, F,D,A,,C, D,2D,,2 (F,/2E,/2D,/2C,/2D,)F, |$
+%% 5
+^G,B,EG, A,C,!trill!B,,A,, {^G,,B,,E,}B,3(E,/2F,/2 ^G,/2A,/2B,/2C/2D)B, |
+%% 6
+CE,/2D,/2E,F, =G,B,,C,G, {D,}F,D,,{E,}^G,D,, {F,}A,D,,{^G,}B,A,, |$
+%% 7
+{A,}CA,,{B,}DA,, {C}EA,,{D}FA,, (^G/2D/2E,/2D/2G)D (C/2E/2F/2^G/2A)C |
+%% 8
+B,A^GE, (A,/2C/2D/2E/2F)A, ^G,FEC, (F,/2A,/2B,/2C/2D)F, |$
+%% 9
+E,DCA,, (D,/2C,/2D,)F,(C, D,)(^G,/2F,/2G,)(D,/2C,/2 D,)(A,/2^G,/2A,)(D,/2C,/2 |
+%% 10
+D,)(B,/2A,/2B,)D, (C,/2E,/2F,/2^G,/2A,)E D(^G,/2F,/2G,)B,, (A,,/2C,/2D,/2E,/2F,)C |$
+%% 11
+B,(E,/2D,/2E,)^G,, (F,,/2A,,/2B,,/2C,/2D,)A, (^G,/2B,/2C/2D/2E)D, C,A,E,,^G, |
+%% 12
+A,(C/2D/2E)(A,/2B,/2 C)A,E,^G, {A,,}A,4 z :|$
+%% 13
+|: EF^G | (A^G/2F/2E)D (CE/2D/2C)B, (A,E,/2D,/2C,)B,, A,,CDE |
+%% 14
+(F/2E/2D/2C/2D)B, (=G,E,/2F,/2G,)C ^A,^G,F,E, (D,/2C,/2D,/2E,/2F,)D, |$
+%% 15
+G,,B,,D,F, (E,/2D,/2E,/2F,/2G,)E, ^A,E,F,,C (D/2C/2B,/2C/2D)B, |
+%% 16
+(G,/2F,/2E,/2F,/2G,)E, (C,/2B,,/2^A,,/2B,,/2C,)E, F,,3(F,/2^G,/2 ^A,/2B,/2C/2D/2E)C |$
+%% 17
+(D/2C/2B,/2^A,/2B,)D, E,CF,^A, {B,,F,}B,3(D/2E/2 F)(B,/2C/2D)(F,/2G,/2 |
+%% 18
+A,)(=C/2B,/2C)D, F,,=C!trill!B,A, B,(G,/2F,/2G,)B, (^D,/2E,/2F,/2G,/2A,)B,, |$
+%% 19
+E,,(E,/2F,/2G,)(G,/2A,/2 B,)(^C/2D/2E)D (C/2G,/2A,,/2G,/2C)G, (F,/2A,/2B,/2C/2D)F, |
+%% 20
+E,DCA,, (D,/2F,/2G,/2A,/2B,)D, C,B,A,F,, (B,,/2D,/2E,/2F,/2G,)B,, |$
+%% 21
+A,,G,F,D,, G,,(B,/2A,/2G,)(G,/2F,/2 E,)(D/2C/2D)(C/2B,/2 A,)(G,/2F,/2E,)C |
+%% 22
+D2(B,,/2=C/2B,/2A,/2) (G,/2F,/2G,)B,(F, G,)(^C/2B,/2C)(G,/2F,/2 G,)(D/2C/2D)(G,/2F,/2 |$
+%% 23
+G,)(E/2D/2E)G, (F,/2E,/2D,/2E,/2F,)A, (DC/2B,/2A,)G, F,D,A,,C, |
+%% 24
+D,,(D/2C/2D)(A,/2G,/2 A,)(F,/2E,/2F,)D, {D,,A,,F,}D4 z :|$
+%%%%%%%%%%%%%%%%%%%%%%%%

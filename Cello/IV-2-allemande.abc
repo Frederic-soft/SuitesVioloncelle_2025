@@ -1,0 +1,135 @@
+X:1
+T:2 - Allemande
+%%%% C:Jean-Sébastien Bach
+M:C
+L:1/16
+%Mabc Q:1/4=70
+V:1 clef=bass octave=-1
+V:2 clef=bass octave=-1
+%%staves (1 2)
+%%MIDI program 1 42 %% violoncelle
+%%MIDI program 2 42 %% violoncelle
+K:Eb clef=bass octave=-1
+[V:1] B2 | (e2dc) BAGA BAGF EDCB, |
+[V:2] x2 | x4 x4 x4 x4 |
+% 2
+[V:1] (CEFG) (AGFE) (DEFD) !trill!B,2A,2 |
+[V:2] x4 x4 x4 x4 |
+% 3
+[V:1] G,(B,CD) E2_d2 A,2c2F2E2 |$
+[V:2] x4 x4 x4 x4 |
+%% 4
+[V:1] F,(A,B,C) D2c2 G,2B2E2D2 |
+[V:2] x4 x4 x4 x4 |
+% 5
+[V:1] E,(G,A,B,) C2B2 F,2A2 D2(BA) |
+[V:2] x4 x4 x4 x4 |
+% 6
+[V:1] (GFEG) (FEDF) E4- EFDE |
+[V:2] x4 x4 [E,B,]4 x4 |
+% 7
+[V:1] (FEDC) (B,CDE) (FGAF) (GFEF) |$
+[V:2] x4 x4 x4 x4 |
+%% 8
+[V:1] (GFED) (CDEF) (G=ABG) (=AGFG) |
+[V:2] x4 x4 x4 x4 |
+% 9
+[V:1] (=AGFE) D2c2 (G,B,CD) E2d2 |
+[V:2] x4 x4 x4 x4 |
+% 10
+[V:1] (cB=AG) F2e2 (B,DEF) G2f2 |$
+[V:2] x4 x4 x4 x4 |
+%% 11
+[V:1] (edcB) =A2g2 (fedc) B2_A2 |
+[V:2] x4 x4 x4 x4 |
+% 12
+[V:1] (GFED) C2B,2 (=A,E)G2- G2(FE) |
+[V:2] x4 x4 x4 x4 |
+% 13
+[V:1] (DCB,)D (CB,=A,)C (B,DCB,) (CEDC) |$
+[V:2] x4 x4 x4 x4 |
+%% 14
+[V:1] (DEFG) _A2B,2 E,2A2 (GFED) |
+[V:2] x4 x4 x4 x4 |
+% 15
+[V:1] (CDEF) G2B2 (=ABcB AGFE) |
+[V:2] x4 x4 x4 x4 |
+% 16
+[V:1] (DCB,)D (CB,=A,)C B,6 :|
+[V:2] x4 x4 x6 :|
+% 16
+[V:1] |: F2 |
+[V:2] |: x2 |
+% 17
+[V:1] (B2=AG) (FEDE) FEDC B,_A,G,F, |
+[V:2] x4 x4 x4 x4 |
+%% 18
+[V:1] G,(EFG) D(AGF) (GABG) (E2DC) |
+[V:2] x4 x4 x4 x4 |
+% 19
+[V:1] (=B,CDE) F2A2 (dc=B=A) G2F2 |$
+[V:2] x4 x4 x4 x4 |
+% 20
+[V:1] (CDEF G=Bcd) (edc_B AGFE) |
+[V:2] x4 x4 x4 x4 |
+%% 21
+[V:1] (AGFE DC=B,=A,) (FEDC =B,=A,G,F,) |
+[V:2] x4 x4 x4 x4 |
+% 22
+[V:1] E,2c2G,2=B2 c4- c2(cd) |$
+[V:2] x4 x4 [C,G,E]4 x4 |
+% 23
+[V:1] (ed)(ed) (c_B)(cB) (_AB)(AB) (cd)(cd) |
+[V:2] x4 x4 x4 x4 |
+% 24
+[V:1] (ed)(ed) (cBAG) (^FG=Ac) d2C2 |
+[V:2] x4 x4 x4 x4 |
+%% 25
+[V:1] B,2d2 (EG=AB) c2=A,2 (D^FG=A) |$
+[V:2] x4 x4 x4 x4 |
+% 26
+[V:1] (B=AGB) (AG^FA) G2D2 G,2(Bc) |
+[V:2] x4 x4 x4 x4 |
+% 27
+[V:1] (_dc)(dc) (B_A)(BA) (GF)(GF) (=EG)(AB) |
+[V:2] x4 x4 x4 x4 |
+% 28
+[V:1] (cBAc) (BAGB) A2F2 F,2(FG) |$
+[V:2] x4 x4 x4 x4 |
+%% 29
+[V:1] (AGFE) (DEFG) (ABcd) (ed)(ed) |
+[V:2] x4 x4 x4 x4 |
+% 30
+[V:1] (edcB) (AGFE) (FEDC) B,2F2 |
+[V:2] x4 x4 x4 x4 |
+% 31
+[V:1] (B,CDE) F2G2 C2A2D2A2 |$
+[V:2] x4 x4 x4 x4 |
+% 32
+[V:1] (EFGA) B2c2 F2_d2G2d2 |
+[V:2] x4 x4 x4 x4 |
+%% 33
+[V:1] (cBAG) A2c2 (fede) (fedc) |
+[V:2] x4 x4 x4 x4 |
+% 34
+[V:1] (BAGF) G2B2 (edcd) (edcB) |$
+[V:2] x4 x4 x4 x4 |
+% 35
+[V:1] (AGFG) (AGFE) (DCB,C) (DCB,A,) |
+[V:2] x4 x4 x4 x4 |
+% 36
+[V:1] (G,B,CD) E2_d2 A,2d2 (cBAG) |
+[V:2] x4 x4 x4 x4 |
+%% 37
+[V:1] (AGFE) =D2c2 G,2c2 (BAGF) |$
+[V:2] x4 x4 x4 x4 |
+% 38
+[V:1] (GFED) (CB,A,G,) F,(AGF) B,(AGF) |
+[V:2] x4 x4 x4 x4 |
+% 39
+[V:1] E,(GFE) =A,(_GFE) (DF)c2- c2(B_A |
+[V:2] x4 x4 x4 x4 |
+% 40
+[V:1] G)FEF B,2d2 e6 :|]$
+[V:2] x4 x4 [E,B,G]6 :|]
+%%%%%%%%%%%%%%%

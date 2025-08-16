@@ -1,0 +1,59 @@
+X:1
+T:4 - Sarabande
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/16
+%Mabc Q:1/4=50
+K:D clef=treble_8
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+%%%%
+%% 1
+{D,,A,,F,}D4 {E,}D3B, C4 |
+%% 2
+{D,,A,,F,}=C4 {G,}C3A, B,4 |
+%% 3
+{^C,}E,2(F,G,) {D,,A,,}G,3E, F,2G,2 |
+%% 4
+(D,C,D,B,,) C,2E,2 A,,2G,,2 |$
+%% 5
+{F,,D,}A,4 {B,,}A,3F, (^G,E,G,B,) |
+%% 6
+{E,,B,,^G,}D4 {A,,E,}D3B, (DCB,A,) |
+%%%% 7
+{^D,A,}B,2(=C=D) {E,}C2(B,C) =F2^G,2 |
+%% 8
+A,4 {A,,}A,8 :|$
+%% 9
+|: {A,,^C,}E,2(G,F,) {A,,^C,}G,3F, (E,D,C,B,,) |
+%% 10
+{^A,,C,}E,2(G,F,) {^A,,C,}G,3F, (E,D,E,C,) |
+%% 11
+(D,F,^A,C) (B,3C/2D/2) E,2C2 |$
+%%%% 12
+(B,2^G,2) (B,^A,^G,F,) (!trill!E,2^D,E,) |
+%% 13
+^D,2B,2 F2(AG) A2F2 |
+%% 14
+^D2 =C4 B,A, (G,F,)(A,^D,) |
+%% 15
+E,2G2A,2F2 (B,CE^D) |$
+%% 16
+E4 {E,,B,,G,}E8 |
+%% 17
+{D,,B,,}^G,3(A,/2B,/2) (A,G,F,G,) (A,F,G,B,) |
+%%%% 18
+{B,,^G,}D3(E/2F/2) (EDCD) (ECDF) |
+%% 19
+E2C,2D,2B,2 {E,}C2D2 |$
+%% 20
+{A,,E,}D2C2B,2C2 A,2B,,2 |
+%% 21
+=C,2(F,G,) ({B,,}A,G,F,A,) G,2^C,2 |
+%% 22
+D,2(^G,A,) ({C,}B,A,G,B,) (A,EA,=G,) |
+%% 23
+F,2D,2G,,2E,2 A,,2(D,C,) |
+%% 24
+D,4 {D,,A,,F,}D8 :|$
+%%%%%%%%%%%%%%%%%%%%%

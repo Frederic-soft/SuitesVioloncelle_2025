@@ -1,0 +1,57 @@
+X:1
+T:6 - Gigue
+M:6/8
+L:1/8
+K:G clef=bass
+%%MIDI program 42 %% violoncelle
+%% 0
+D, |
+G,(D,E,) E,(C,D,) |
+D,G,D, B,,G,,D, |
+(G,/A,/B,)A, (A,/B,/C)B, |
+(T[G,,D,B,]3 [D,A,]2) A, |
+B,(F,G,) G,(E,G,) |
+A,(E,F,) F,(D,F,) |$
+%% 7
+G,B,G, E,B,,D, |
+%% 8
+(^C,E,A,) A,,2 E, |
+(=F,E,)G, (G,F,)A, |
+(A,G,)_B, (B,A,)G, |
+(=F,E,)D, (A,,D,)^C, |
+%% 12
+D,A,,^F,, D,,2 ::
+%% 12
+A, |
+%% 13
+(A,F,G,) (G,E,F,) |
+(F,/G,/A,)F, D,(CB,) |
+%% 15
+(B,G,A,) (A,F,G,) |
+(G,/A,/B,)G, E,(DC) |
+A,(DC) D,(CB,) |$
+%% 18
+G,(CB,) C,(B,A,) |
+%% 19
+(G,F,)E, (B,,E,)^D, |
+E,B,,G,, E,,2 G, |
+%% 21
+A,(F,G,) (^C/D/E)F, |
+%% 22
+G,(E,=F,) (B,/C/D)E, |
+=F,(D,E,) (A,/B,/C)A, |$
+%% 24
+(^F,/G,/A,)F, D,2 A, |
+(_B,A,C) (CB,D) |
+(DC_E) (EDC) |
+_B,(A,G,) (D,G,)F, |
+%% 28
+G,(=B,,/C,/D,) (G,,B,,)D, |
+%% 29
+G,(E,/=F,/G,) (B,,C,)E, |$
+%% 30
+A,(^F,/G,/A,) (^C,D,)F, |
+B,(G,/A,/B,) (^D,E,)C |
+(E,F,)D (F,G,)E |
+(D,E,/F,/G,/A,/) (B,G,)F, |
+G,D,B,, G,,2 !fermata!:|$

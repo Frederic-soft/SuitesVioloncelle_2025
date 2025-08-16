@@ -1,0 +1,137 @@
+X:1
+T:1 - Prélude
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/16
+%Mabc Q:1/4=70
+K:Em clef=treble_8
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+%%%%
+%% 1
+E,2G,2 B,4- B,(G,F,E,) |
+%% 2
+(^D,F,A,B,) C4- C(B,A,G,) |
+%% 3
+(F,A,C^D) F3C (B,A,G,F,) |
+%% 4
+(G,A,B,G,) (E,2D,2C,2B,,2) |$
+%% 5
+(C,E,G,B,) E3D (CB,A,G,) |
+%% 6
+(F,A,CE) DB,CA, G,F,A,C, |
+%% 7
+(B,,D,F,A,) D3C (B,A,G,F,) |
+%% 8
+(E,G,B,D) CA,B,G, (F,G,B,G,) |$
+%% 9
+(A,,C,E,G,) C3B, (A,G,F,A,) |
+%% 10
+(B,,D,F,A,) (DB,F,A,) (G,B,E,=F,) |
+%% 11
+(E,B,,C,E,) (A,CB,D) CA,EG, |$
+%% 12
+(F,^C,D,F,) A,E,F,D, =C,A,,F,C, |
+%% 13
+G,,2B,,2 D,4- D,(C,B,,A,,) |
+%% 14
+(^G,,B,,C,D,) (E,,D,C,B,,) (^G,=F,E,D,) |
+%% 15
+(C,B,,A,,C,) E,4- E,D,C,B,, |$
+%% 16
+(^A,,^C,D,E,) (F,,E,D,C,) (^A,=G,F,E,) |
+%% 17
+(D,^C,B,,D,) G,F,G,^A, B,G,E,D, |
+%% 18
+(^C,E,^A,^C) E3D (^CB,^A,B,) |$
+%% 19
+(D,F,B,D) F3D (^CB,^A,B,) |
+%% 20
+(E,G,B,E) G3F (ED^CE) |
+%% 21
+F,(ED^C) B,(DCB,) E,(CB,^A,) |$
+%% 22
+D,(B,=A,G,) ^D,(A,G,F,) E,(G,F,E,) |
+%% 23
+^A,,(E,F,G,) ^C(G,F,E,) ^A,,(E,D,^C,) |
+%% 24
+(B,,^C,D,F,) B,^CDB, F,D,B,,=A,, |$
+%% 25
+(^G,,B,,D,E,) =F,3E, (D,=C,D,)B, |
+%% 26
+(C,B,,C,)E, A,,(=F,G,A,) B,,(A,G,F,) |
+%% 27
+(E,D,E,)G, C,(A,B,C) ^D,(CB,A,) |$
+%% 28
+(G,F,G,)B, E,(CDE) F,(EDC) |
+%% 29
+(B,A,B,)D G,(EFG) A,(GFE) |
+%% 30
+^D(A,G,F,) B,,(F,G,A,) ^D(=CB,A,) |$
+%% 31
+(G,A,B,)^D E(B,A,G,) B,(G,F,E,) |
+%% 32
+^A,(E,F,G,) B,,(G,F,E,) ^A,(=G,F,E,) |
+%% 33
+(^D,^C,D,)F, B,(F,D,F,) B,,(A,G,F,) |$
+%% 34
+(G,F,G,)B, E(B,G,B,) E,(DCB,) |
+%% 35
+(A,G,A,)^D FDA,D B,,(A,G,F,) |
+%% 36
+E,B,EF GEB,G, E,DCB, |$
+%% 37
+(A,B,C)E, =F,G,A,B, CA,=FA, |
+%% 38
+(G,A,B,)^D, E,F,G,A, B,G,EG, |
+%% 39
+(F,G,A,)C, B,,^C,^D,E, F,=C,A,C, |$
+%% 40
+^D,,2B,,2 A,4- A,(CB,A,) |
+%% 41
+(G,F,E,)F, G,E,B,G, EB,G,E, |
+%% 42
+^A,,2G,2 E4- EGFE |$
+%% 43
+^D^CB,C DB,EB, FB,GB, |
+%% 44
+AF^DF B,^DFG AGAF |
+%% 45
+GE^DE B,^DEF GFGE |$
+%% 46
+F^D^CD B,CDE FEFD |
+%% 47
+E(^CB,C) (G,^A,^C)^D EDEC |
+%% 48
+{A,,F,}!fermata!^D4 z4 z4 |$
+%% 49
+=C(A,^G,A,) =F,A,E,A, F,A,CE, |
+%% 50
+(^D,^F,A,B,) C3B, (A,^G,A,)F |
+%% 51
+=G,ECA, B,G,F,A, G,E,^D,F, |$
+%% 52
+E,C,B,,A,, (^G,,B,,D,=F,) E,D,C,B,, |
+%% 53
+C,A,,^G,,A,, =F,,A,,E,,A,, (F,,A,,C,)E,, |
+%% 54
+{^D,,C,}A,3(G, F,E,^D,^C, B,,A,,G,,F,,) |$
+%% 55
+(E,,B,,E,F,) (G,F,E,D, C,B,,A,,G,,) |
+%% 56
+(F,,B,,^D,F,) (A,G,F,E, ^D,^C,B,,A,,) |
+%% 57
+(G,,B,,E,G,) B,E,G,B, ECDB, |$
+%% 58
+A,,E,A,B, C(A,^G,A,) =FA,EA, |
+%% 59
+{B,,A,}^D12 |
+%% 60
+{B,,G,}E12 |
+%% 61
+{B,,F,}E12 |
+%% 62
+{B,,F,}^D12 |
+%% 63
+{E,,B,,G,}E12 |]$
+%%%%%%%%%%%%%%%%

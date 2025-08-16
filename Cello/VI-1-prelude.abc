@@ -1,0 +1,220 @@
+X:1
+T:1 - Prélude
+%%%% C:Jean-Sébastien Bach
+M:12/8
+L:1/8
+%Mabc Q:3/8=70
+K:D clef=bass octave=-1
+%%MIDI program 42 %% Violoncelle
+%% 1
+!f!(DD)D (DD)F (DD)A (DD)d |
+%% 2
+!p!(DD)D (DD)F (DD)A (DD)d |
+%% 3
+!f!B(DG) (Bcd) A(DF) (Acd) |
+%% 4
+!p!B(DG) (Bcd) A(DF) (Acd) |$
+%% 5
+!f!(GEF) (GDF) (GCF) (GA,G) |
+%% 6
+(FDE) (FCE) (FB,D) (FA,D) |
+%% 7
+(E^G,D) (EA,C) (DA,C) (D^G,B,) |
+%% 8
+C(A,C) (EF^G) A(CE) (^GAB) |$
+%% 9
+c(E^G) (Acd) e(Ac) [K: clef=alto octave=-1](ef^g) |
+%% 10
+a(AB) (ce)B (ca)e (ce)c |(Aa)B (ce)B (ca)e (ce)c |
+%% 11
+(AA)A (AA)c (AA)e (AA)a |$
+%% 13
+!p!(AA)A (AA)c (AA)e (AA)a |
+%% 14
+!f!f(Ad) (f^ga) e(Ac) (e^ga) |
+%% 15
+!p!f(Ad) (f^ga) e(Ac) (e^ga) |
+%% 16
+!f!(dBc) (dAc) (d^Gc) (dEd) |$
+%% 17
+(cAB) (c^GB) (cFA) (cEA) |
+%% 18
+(=c^D)c (Bc)A (fA)=c (Bc)A |
+%% 19
+=G(EG) (Bc^d) e(GB) (^def) |
+%% 20
+g(B^d) (ega) b(eg) (bc'^d') |$
+%% 21
+e'(ef) (gb)f (ge')b (gb)g |
+%% 22
+(ee')f (gb)f (ge')b (gb)g |
+%% 23
+(ee)^d (ee)f (ge)f (ee)^d |
+%% 24
+(ee)^d (ee)f (ge)f (ee)^d |$
+%% 25
+(ee)g (^de)f (ee)g (^de)f |
+%% 26
+(ee)g (fe)a (ge)e (fe)a |
+%% 27
+(ge)f (ge)a (be)a (ge)f |
+%% 28
+(ge)f (ge)a (be)a (ge)f |$
+%% 29
+(ge)b (fe)a (ge)b (fe)a |
+%% 30
+(ge)e (fe)^d (ee)g (fe)^d |
+%% 31
+(ee)g (=de)f (ce)e (Be)d |
+%% 32
+(^Ae)c (Ae)c F(gf edc) |$
+%% 33
+(dBf) (dBf) (dBc) (def) |
+%% 34
+(GBd) (fb^a) (bge) (d'c'b) |
+%% 35
+(^ae)c' (ae)c' (^ae)f (gfe) |
+%% 36
+(db)f (db)f (db)=a (^gab) |$
+%% 37
+^e(=dc) d(^GF) G(dc) (d=ed) |
+%% 38
+c(=ed) c(eB) [K:clef=bass octave=-1](^ABc) (GFE) |
+%% 39
+(DFB) (=AGF) (GED) (CDE) |
+%% 40
+(^A,CF) (EDC) (DB,=A,) (^G,A,B,) |$
+%%newpage
+%% 41
+(^E,B,D) (E,B,D) (Bcd) (c^AB) |
+%% 42
+(F,B,D) (F,B,D) (Bcd) (c^AB) |
+%% 43
+(G,B,E) (Bcd) (c^AB) [K: clef=alto octave=-1](^e^AB) |
+%% 44
+f(cd) (bag) (fed) (=ceB) [K:clef=bass octave=-1]|$
+%% 45
+(^A=GF) (EDC) (DFB) (FB^A) |
+%% 46
+(BFE) (DFC) (DB,D) (FBF) |
+%% 47
+(DBF) (DFC) (DB,D) (FA^G) |
+%% 48
+(AED) (CEB,) (CA,C) (EAE) |$
+%%%%%%%%%%
+%% %%newpage
+%% 49
+(C=GE) (CEB,) (CA,C) (EFG) |
+%% 50
+(FAG) (FAE) (FDE) (FAB) |
+%% 51
+(=cAG) (FAE) (FDF) (AB=c) |
+%% 52
+(BG)A (Bd)A (Bg)d (Bd)A |$
+%% 53
+!p!(BG)A (Bd)A (Bg)d BGD |
+%% 54
+!f!(G,G,)G, (G,G,)B, (G,G,)D (G,G,)G |
+%% 55
+!p!(G,G,)G, (G,G,)B, (G,G,)D (G,G,)G |$
+%% 56
+!f!E(G,=C) (EFG) D(G,B,) (DFG) |
+%% 57
+E(G,=C) (EFG) D(G,B,) (DFG) |
+%% 58
+(=CA,B,) (CA,G,) (F,A,B,) (=CA,F,) |$
+%% 59
+(D,F,A,) (=CDF) (AdA) (FD=C) |
+%% 60
+(B,G,A,) (B,DA,) (B,G,A,) (B,GA,) |
+%% 61
+(B,G,A,) (B,DA,) (B,G,A,) (B,GE) |$
+%% 62
+C(A,B,) (CEF) G(ED) (CEB,) |
+%% 63
+C(A,B,) (CEF) (GAB) (cde) |
+%% 64
+F(DE) (FA)E F(DE) (Fd)E |$
+%% 65
+F(DE) (FA)E F(DE) (Fd)B |
+%% 66
+(^GEF) (GBc) (dBA) (^GBF) |
+%% 67
+(^GEF) (G[K:clef=alto octave=-1]Bc) (def) (^gab) |$
+%% 68
+(cAB) (cef) (=ged) (ceB) |
+%% 69
+(cAB) (cef) (gab) (c'd'e') |
+%% 70
+(Af)d' (fd)e (fd')e (fd')d [K:clef=alto1 octave=-1]|$
+%% 71
+(Ag)e' (ge)f (ge'f) (ge'e) |
+%% 72
+(Aa)f' (af)g (af')g (af')f |
+%% 73
+(Ab)g' (bg)a (bg')a (bg')g |$
+%% 74
+(Ac')g' (f'e'd') (c'f'e') (d'c'b) |
+%% 75
+a(f'e' f')(gf g)(e'd' e')(fe |
+%% 76
+f)(d'c' d')(ed e)(c'b c')af |$
+%% 77
+(dba) (bge) (cag) (afd) |
+%% 78
+(Bgf) (gec) A3/2(B/2c/4d/4e/4f/4) gec [K:clef=bass octave=-1]|
+%% 79
+(Afe) (fdB) G3/2(A/4B/4c/2d/2) (ecA) |$
+%%%%%%%%%%
+%% %%newpage
+%% 80
+(Fdc) (dBG) (E3/2F/4G/4A/2B/2) (cAF) |
+%% 81
+D(BG) (EC)A B,(GE) (CA,)F |
+%% 82
+G,(EC) (A,F,)D (E,G,A,) (CEF) |$
+%% 83
+(GAc) [K:clef=alto octave=-1](ega) c'3- [L:1/16]c'(bagfe) |
+%% 84
+(agfedc) (fedcBA) [K:clef=bass octave=-1](dcBA^GF) (BAGFED) |$
+%% 85
+(CEAcea) (ecAECA,) (CEAcea) (ecAECA,) |
+%% 86
+(=G,EAcea) (ecAECA,) (G,EAcea) (ecAECA,) |$
+%% 87
+F,(A,B,=CB,A,) D,(A,B,CB,A,) F(AB=cBA) f(ABcBA) |
+%% 88
+(Bd=cBAG) (BAGFED) (EGFED^C) (FEDCB,A,) |$
+%% 89
+(=FEDEF)D ^G,(DE=FED) B(DE=FED) d(DEFED) [K:clef=alto octave=-1]|
+%% 90
+[L:1/8](AA)A (AA)c (AA)e (AA)a |$
+%% 91
+(AA)A (AA)c (AA)e (AA)a [K:clef=bass octave=-1]|
+%% 92
+(DD)D (DD)F (DD)A (DD)d |
+%% 93
+(DD)D (DD)F (DD)A (DD)d |$
+%% 94
+[L:1/16](^GABcde) (de)(ce)(de) (de)(ce)(de) (de)(ce)(Be) |
+%% 95
+(=GAcded) (ce)(Be)(ce) (ce)(Be)(ce) (ce)(Be)(Ae) [K:clef=alto octave=-1]|$
+%% 96
+[L:1/8]F(ea) (dcB) E(dg) (cBA) |
+%% 97
+D(Af) (b^ga) (af=g) (ge=f) |
+%% 98
+(=fd_e) (e^cd) [K:clef=bass octave=-1][B,^Gd]zz [_B,=Gd]zz |$
+%% 99
+[A,Fd]zz [^G,=Fd]zz [A,Ed]zz [A,Ec]zz |
+%% 100
+(DFA) (dAF) (DFA) (=cAF) |
+%% 101
+(DGB) (dBd) [K:clef=alto octave=-1](gdg) (bge) |$
+%% 102
+(ced) (egf) (gba) (bd'c') |
+%% 103
+(d'af) (afd) (fdA) [K:clef=bass octave=-1](dAF) |
+%% 104
+AFD FDA, D,A,F !fermata!d3 |]$
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

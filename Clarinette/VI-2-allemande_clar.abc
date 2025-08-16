@@ -1,0 +1,50 @@
+X:1
+T:2 - Allemande
+%%%% C:Jean-Sébastien Bach
+M:C
+L:1/32
+%Mabc Q:1/8=60
+K:Emaj clef=treble_8
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+%
+G2 | {E,B,}G8- G(FAG!beambr2!FEF/2D/2E) ({F,}E4!trill!D3E/2F/2) (EDCB,!beambr2!C/2D/2C/2D/2DC/2D/2)|
+%% 2
+{G,}E6B2- ({C}BAGF!beambr2!E/2D/2E/2F/2G/2F/2A/2G/2) ({F,C}A3(3G/2F/2G/2!beambr2!AGAc) (!trill!{B,}A6GA) |$
+%% 3
+(!trill!{E,B,}G4F2GE) {G}e6{G}e2 (^A,Fce!beambr2!dc^B/2c/2e/2d/2) d4^B,3F |
+%% 4
+C2(FA!beambr2!GFEF/2D/2) E3(C/2D/2!beambr2!EFGB/2^A/2) {G,D}B3(^A,!beambr2!B,CDB,) !trill!^E,3(B!beambr2!cB^AB) |$
+%% 5
+{F,C}B2^A2G2F2 {D}F6{D}F2 {G,D}F2(G^A!beambr2!BABG) !trill!E3(D!beambr2!CEGB) |
+%% 6
+({F,E}^ABcB!beambr2!AGFG/2E/2) (!trill!D3C!beambr2!B,^A,B,D) ({E,D}G3F!beambr2!EDEG) (c^ABG!beambr2!FDEC) |$
+%% 7
+(B,G,^A,CF3)E, D,3(F!beambr2!EDCB,) E,(GFE!beambr2!D^A,B,E) {F,}C6B,2 |
+%% 8
+(B,3C!beambr2!DEF=A) (GFED!beambr2!ECB^A) (B3FD2CB,) B,,6 :|$
+%% 9
+|:F2 | {B,,F,D}F4-F(AGF EDCD!beambr2!EDCD/2B,/2) {A,,F,D}B6(AG FEDC!beambr2!B,A,G,A,) |
+%% 10
+!trill!G,3((3B,/2C/2D/2!beambr2!ECA,G,) F,2(AG!beambr2!AFDB,) E,2(B,C!beambr2!DEFG/2A/2) G3(E,/2F,/2!beambr2!G,E,F,G,) |$
+%% 11
+=D,,6B,2 (CB,C=D!beambr2!CD!trill!DC/2D/2) {C,A,}E6C,2 (=D,C,D,E,!beambr2!D,/2E,/2E,3/2D,/2E,/2F,/2) |
+%% 12
+B,,4^A,,3G (G^^F^AG!beambr2!BAcE) ^^F,3(D!beambr2!cBc^A) {G,D}B3(^A!beambr2!G^FEF/2D/2)|$
+%% 13
+{C,G,}E3(D!beambr2!CB,=A,B,/2G,/2) A,3((3E,/2F,/2G,/2!beambr2!A,B,CD/2E/2) E2!trill!^^F,4(G,^A,) (D,C,2E,D,2E,C,) |
+%% 14
+B,,(G^AB)!beambr2!(CB^Ac) {D}G4!trill!^^F3G G3(D!beambr2!G^ABA) (Bc=dB!beambr2!^E^FEF) |$
+%% 15
+!trill!{C,G,}^E3((3B,/2C/2=D/2)D3((3B,/2C/2D/2) D2CB!beambr2!!trill!A3/2G/4A/4BG {F,C}A6(Bc) (BAGF!beambr2!=E^DFE) |
+%% 16
+E2(C,D,!beambr2!E,F,G,E,) (^A,CF,G,!beambr2!A,B,CD) (EDCD!beambr2!ECDB,) B3(=A,!beambr2!B,A,G,A,) |$
+%% 17
+G,3(B!beambr2!AGFE) (=DCDB)!beambr2!(DCDB,) (^E,G,C^E!beambr2!GBAG) A2(F,G,!beambr2!A,B,C=E) |
+%% 18
+(^DFB,D!beambr2!FAGF) G2(E,F,!beambr2!G,A,B,=D,) A,,3(G!beambr2!cBAG) (F^DEC!beambr2!B,G,A,F,)|$
+%% 19
+(E,C,D,F,!beambr2!B,DF^A) B2(G,,B,!beambr2!=A,G,F,E,) A,,(CB,A,!beambr2!G,D,E,A,) {B,,}F,6E,2 |
+%% 20
+E,3(F,!beambr2!G,A,B,=D) (CB,A,G,!beambr2!A,F,E^D) E3B,!trill!G,2F,E, E,,6 :|]$
+%%%%%%%%%%%%%%%%%%%%%%%%

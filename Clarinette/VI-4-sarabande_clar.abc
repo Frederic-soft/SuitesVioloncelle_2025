@@ -1,0 +1,75 @@
+X:1
+T:4 - Sarabande
+%%%% C:Jean-Sébastien Bach
+M:3/2
+L:1/4
+%Mabc Q:1/2=44
+K:Emaj clef=treble_8
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+%%%%
+%% 1
+{E,B,}G2 {B,}G3 A |
+%% 2
+({A,,A,}F{A,}D) {G,}E3 c |
+%% 3
+({B,,G,E}BG) {F,D}A3 B |
+%% 4
+({E,B,}AG) (AF) G2 |$
+%% 5
+{C,E,C}G2 {E}^A3 B |
+%% 6
+({^A,,F,E}cD) {F,}E3 F |
+%% 7
+({B,,F,}ED) ({E,}DC) ({F,}CE) |
+%% 8
+({B,,F,}ED) D4 :|$
+%% 9
+|:{B,,F,D}F2 {A,,F,D}F3 F |
+%% 10
+({G,B,}FD) ^E B,/2C/2 =D F, |
+%% 11
+{^E,=D}(G B,) C (G/2A/2) B ^E, |
+%% 12
+({F,C}BG) {C}A3 A |$
+%% 13
+({B,}AG) (=dE) F A, |
+%% 14
+G,FE =d {A,E}c2 |
+%% 15
+({C,A,}EF) ({=D,A,}FG) ({E,=D}GA) |
+%% 16
+({A,,E,=D}AB,) {C}A3 c |$
+%% 17
+({A,E}c{C}A) ({C}AF) (F^D) |
+%% 18
+(DB,) (B,A,) (A,B) |
+%% 19
+({G,E}B{B,}G) ({B,}GE) (EC) |
+%% 20
+(CA,) (A,G,) (G,A) |$
+%% 21
+{F,D}(A{G,}E) {G,}(E{F,}D) {F,}(D{E,}C) |
+%% 22
+{E,C}(A{F,}D) {F,}(D{E,}C) {E,}C{D,F,}B, |
+%% 23
+{D,F,}(B,A) ({E,B,}AG) ({C,E,C}G^A) |
+%% 24
+{B,,F,D}(^AB) {D}B3 {=A,}D |$
+%% 25
+{B,,G,E}(B{B,}G) {B,}(G{G,}E) {G,}(E{F,}D) |
+%% 26
+{B,,F,D}(BA,) ({A,}DF,) (F,{=G,}E) |
+%% 27
+{B,,=G,E}(B{B,}=G) {B,}(G{=G,}E) {G,}(E{F,}D) |
+%% 28
+{B,,F,}(D E/2)F/2 {^B,,G,D}F3 E |$
+%% 29
+{C,G,}E (F/2G/4A/4) (AG) {E,=D}(GF) |
+%% 30
+{A,,A,C}(F {B,}G) {B,}(G {A,}F) {A,}(F {G,}E) |
+%% 31
+({A,,G,}EF,) ({B,,F,}EA,) ({A,}DG,) |
+%% 32
+({E,,B,,G,}DE) {G,}E4 :|$
+%%%%%%%%%%%%%%%%%%%%%

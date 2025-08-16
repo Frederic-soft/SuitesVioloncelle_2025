@@ -1,0 +1,286 @@
+X:1
+T:1 - Prélude
+%%%% C:Jean-Sébastien Bach
+M:C|
+L:1/8
+%Mabc Q:1/2=60
+K:Eb clef=bass octave=-1
+%%staves (1 2)
+%%MIDI program 1 42 %% Violoncelle
+%%MIDI program 2 42 %% Violoncelle
+%% 1
+[V:1][L:1/8]E,eBG BEGB, |
+[V:2][L:1/4] x x x x |
+% 2
+[V:1][L:1/8]E,eBG BEGB, |
+[V:2][L:1/4] x x x x |
+% 3
+[V:1][L:1/8]E,_dBG BEGB, |
+[V:2][L:1/4] x x x x |
+% 4
+[V:1][L:1/8]E,_dBG BEGB, |
+[V:2][L:1/4] x x x x |
+% 5
+[V:1][L:1/8]E,cAE ACEA, |$
+[V:2][L:1/4] x x x x |
+%% 6
+[V:1][L:1/8]E,cAE ACEA, |
+[V:2][L:1/4] x x x x |
+% 7
+[V:1][L:1/8]E,AFD FB,DA, |
+[V:2][L:1/4] x x x x |
+% 8
+[V:1][L:1/8]E,AFD FB,DA, |
+[V:2][L:1/4] x x x x |
+% 9
+[V:1][L:1/8]E,GEB, EG,B,E, |
+[V:2][L:1/4] x x x x |
+% 10
+[V:1][L:1/8]D,GEB, EG,B,D, |$
+[V:2][L:1/4] x x x x |
+%% 11
+[V:1][L:1/8]C,ecG cEGC |
+[V:2][L:1/4] x x x x |
+% 12
+[V:1][L:1/8]B,ecG cEGB, |
+[V:2][L:1/4] x x x x |
+% 13
+[V:1][L:1/8]=A,ecF =ACEA, |
+[V:2][L:1/4] x x x x |
+% 14
+[V:1][L:1/8]F,ec=A cFAE |
+[V:2][L:1/4] x x x x |
+% 15
+[V:1][L:1/8]B,dBF BDFB, |$
+[V:2][L:1/4] x x x x |
+%% 16
+[V:1][L:1/8]A,_dBF B_DFA, |
+[V:2][L:1/4] x x x x |
+% 17
+[V:1][L:1/8]G,_dBE GB,EG, |
+[V:2][L:1/4] x x x x |
+% 18
+[V:1][L:1/8]E,_dBG BEG_D |
+[V:2][L:1/4] x x x x |
+% 19
+[V:1][L:1/8]A,cAE ACEA, |
+[V:2][L:1/4] x x x x |
+% 20
+[V:1][L:1/8]G,cAE ACEG, |$
+[V:2][L:1/4] x x x x |
+%% 21
+[V:1][L:1/8]F,AD=B, DA,B,F, |
+[V:2][L:1/4] x x x x |
+% 22
+[V:1][L:1/8]E,AFC FA,CE, |
+[V:2][L:1/4] x x x x |
+% 23
+[V:1][L:1/8]D,AF=B, FG,A,D, |
+[V:2][L:1/4] x x x x |
+% 24
+[V:1][L:1/8]C,AFC FA,CF, |
+[V:2][L:1/4] x x x x |
+% 25
+[V:1][L:1/8]=B,dAF ADFB, |$
+[V:2][L:1/4] x x x x |
+%% 26
+[V:1][L:1/8]G,d=BF ADF=B, |
+[V:2][L:1/4] x x x x |
+% 27
+[V:1][L:1/8]C,ecG cEGC |
+[V:2][L:1/4] x x x x |
+% 28
+[V:1][L:1/8]C,ecG cEGC |
+[V:2][L:1/4] x x x x |
+% 29
+[V:1][L:1/8]B,=ecG c=EGC |
+[V:2][L:1/4] x x x x |
+% 30
+[V:1][L:1/8]B,=ecG c=EGB, |$
+[V:2][L:1/4] x x x x |
+%% 31
+[V:1][L:1/8]A,fcA cFA=E |
+[V:2][L:1/4] x x x x |
+% 32
+[V:1][L:1/8]FcA=E FCFA, |
+[V:2][L:1/4] x x x x |
+% 33
+[V:1][L:1/8]=E,_dBG B=EGC |
+[V:2][L:1/4] x x x x |
+% 34
+[V:1][L:1/8]_DBG=E GB,_D=E, |
+[V:2][L:1/4] x x x x |
+% 35
+[V:1][L:1/8]F,BA=E FA,CF, |$
+[V:2][L:1/4] x x x x |
+%% 36
+[V:1][L:1/8]_E,AFC FA,CE, |
+[V:2][L:1/4] x x x x |
+% 37
+[V:1][L:1/8]D,AFD FB,DF |
+[V:2][L:1/4] x x x x |
+% 38
+[V:1][L:1/8]AD,F,B, DB,AF |
+[V:2][L:1/4] x x x x |
+% 39
+[V:1][L:1/8]E,GEB, EG,B,E, |
+[V:2][L:1/4] x x x x |
+% 40
+[V:1][L:1/8]G,B,EB, GEBG |$
+[V:2][L:1/4] x x x x |
+%% 41
+[V:1][L:1/8]c=A,C^F =AFcA |
+[V:2][L:1/4] x x x x |
+% 42
+[V:1][L:1/8]eG,CE GEcG |
+[V:2][L:1/4] x x x x |
+% 43
+[V:1][L:1/8]e^F,=A,C EC^FC |
+[V:2][L:1/4] x x x x |
+% 44
+[V:1][L:1/8]=AD^FA cAdA |
+[V:2][L:1/4] x x x x |
+% 45
+[V:1][L:1/8]G,BGD GB,DG, |$
+[V:2][L:1/4] x x x x |
+%% 46
+[V:1][L:1/8]=F,BGD GB,DG, |
+[V:2][L:1/4] x x x x |
+% 47
+[V:1][L:1/8]E,BGD GB,DG, |
+[V:2][L:1/4] x x x x |
+% 48
+[V:1][L:1/8]D,BGD GB,DG, |
+[V:2][L:1/4] x x x x |
+% 49
+[V:1][L:1/8]!fermata!^C,2 z2 z [L:1/16](^CD =E^FG=A |$
+[V:2][L:1/4] x x x x |
+%%newpage
+%%vskip 1.0cm
+%% 50
+[V:1][L:1/16]B=AG^F G=E^CD =E^FG=A BAGA |
+[V:2][L:1/4] x x x x |
+% 51
+[V:1][L:1/16]Bcdc edcB =ABcB AG^FG) |
+[V:2][L:1/4] x x x x |
+% 52
+[V:1][L:1/8] D,c=A^F ADF=A, |$
+[V:2][L:1/4] x x x x |
+% 53
+[V:1][L:1/8]D,c=A^F ADF=A, |
+[V:2][L:1/4] x x x x |
+%% 54
+[V:1][L:1/8]D,BGD GB,DG, |
+[V:2][L:1/4] x x x x |
+% 55
+[V:1][L:1/8]D,BGD GB,DG, |
+[V:2][L:1/4] x x x x |
+% 56
+[V:1][L:1/16]D,(^c_B=A B^cB=A BcBA BcBA) |$
+[V:2][L:1/4] x x x x |
+% 57
+[V:1][L:1/16](GBG^F GBGF GBGF GBGF) |
+[V:2][L:1/4] x x x x |
+%% 58
+[V:1][L:1/16](=EGED ^CEC=B,) (=A,CA,G,) (^F,A,F,=E,) |
+[V:2][L:1/4] x x x x |
+% 59
+[V:1][L:1/16] _e4- e(dcB =AG^F=E DCB,=A,) |$
+[V:2][L:1/4][D,=A,^F] x x x |
+% 60
+[V:1][L:1/16](d3c) (B=ABG) (B3=A) (G^FG^C) |
+[V:2][L:1/4][D,B,G]  x [^CG]  x |
+%% 61
+[V:1][L:1/16] (G3=A) (G^FG=E) [L:1/8]!trill!^F3 G |
+[V:2][L:1/4] [D=A] x x x |
+% 62
+[V:1][L:1/8]G,BGD GB,D^F, |
+[V:2][L:1/4] x x x x |
+% 63
+[V:1][L:1/8]G,B,DG BGd=F |$
+[V:2][L:1/4] x x x x |
+% 64
+[V:1][L:1/8]G,_dBG B=EGB, |
+[V:2][L:1/4] x x x x |
+% 65
+[V:1][L:1/8]_DG,B,=E GE_dE |
+[V:2][L:1/4] x x x x |
+%% 66
+[V:1][L:1/8]A,cAF ACFA, |
+[V:2][L:1/4] x x x x |
+% 67
+[V:1][L:1/8]CFAF cF=dF |$
+[V:2][L:1/4] x x x x |
+% 68
+[V:1][L:1/8]=A,ec=A cE_GC |
+[V:2][L:1/4] x x x x |
+% 69
+[V:1][L:1/8]E=A,CE _G=Ace |
+[V:2][L:1/4] x x x x |
+% 70
+[V:1][L:1/8]B,(d_c/2B/2=A) B(d_c/2B/2=A) |
+[V:2][L:1/4] x x x x |
+%% 71
+[V:1][L:1/8]B(_cB/2_A/2G) A(_cB/2A/2G) |$
+[V:2][L:1/4] x x x x |
+% 72
+[V:1][L:1/8]A(BA/2_G/2F) _G(BA/2G/2F) |
+[V:2][L:1/4] x x x x |
+% 73
+[V:1][L:1/8]_G(G_F/2E/2D) E(_G_F/2E/2D) |
+[V:2][L:1/4] x x x x |
+% 74
+[V:1][L:1/8]E_CEA _cAec |
+[V:2][L:1/4] x x x x |
+%% 75
+[V:1][L:1/8]A_cAE _CA,FA, |$
+[V:2][L:1/4] x x x x |
+% 76
+[V:1][L:1/8]C,=A,_GD [L:1/16](E_GED) (EGED) |
+[V:2][L:1/4] x x x x |
+% 77
+[V:1][L:1/16](E=A_GF) (_G=AGF) (GcGF) (GeGF) |
+[V:2][L:1/4] x x x x |
+% 78
+[V:1][L:1/8]_GB,EG BGeB |
+[V:2][L:1/4] x x x x |
+%% 79
+[V:1][L:1/8]_GEBG EB,GE |$
+[V:2][L:1/4] x x x x |
+% 80
+[V:1][L:1/16]_F4-F(_G_FG ABAB _cBcB |
+[V:2][L:1/4][A,_c] x x x |
+% 81
+[V:1][L:1/16]A_GAG _FEDE) [L:1/8]D3 E |
+[V:2][L:1/4] x x B,2 |
+% 82
+[V:1][L:1/8]E,eBG BEGB, |
+[V:2][L:1/4] x x x x |
+%% 83
+[V:1][L:1/8]E,eBG BEGB, |$
+[V:2][L:1/4] x x x x |
+% 84
+[V:1][L:1/8]E,_dBG BEGB, |
+[V:2][L:1/4] x x x x |
+% 85
+[V:1][L:1/8]E,_dBG BEGB, |
+[V:2][L:1/4] x x x x |
+% 86
+[V:1][L:1/8]E,cAE ACEA, |
+[V:2][L:1/4] x x x x |
+% 87
+[V:1][L:1/8]E,cAE ACEA, |
+[V:2][L:1/4] x x x x |
+%% 88
+[V:1][L:1/16]D4- D(CB,C DEFG AFGA |$
+[V:2][L:1/4] x x x x |
+% 89
+[V:1][L:1/16]DEFB, CDEF GABc dced) |
+[V:2][L:1/4] x x x x |
+% 90
+[V:1][L:1/16]!trill!d4- d(BAG FEDC B,A,G,F,) |
+[V:2][L:1/4] x x x x |
+% 91
+[V:1][L:1/4]  e z z2 |]$
+[V:2][L:1/4] [E,B,G] x x2 |]
+%%

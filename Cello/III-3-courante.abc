@@ -1,0 +1,177 @@
+X:1
+T:3 - Courante
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/8
+%Mabc Q:1/4=140
+V:1
+%%MIDI program 1 42 %% violoncelle
+K:C clef=bass octave=-1
+%%setbarnb 1
+[V:1] c | cGECG,E, |
+%% 2
+C,(cdcBc) | \
+%% 3
+dBGDB,G, |
+%% 4
+F,(dcBAG) |
+%% 5
+c(BAGFE) |
+%% 6
+FDG,AGF |
+%% 7
+(EDCB,C)G, |$
+%% 8
+C,3 (C/2D/2E^F) |
+%% 9
+B,(DGABc) |
+%% 10
+^GdE(dcB) |
+%% 11
+cBA^GAE |
+%% 12
+(CDE)CA,=G, |
+%% 13
+^F,A,DE^FG |
+%% 14
+A^FDcBA |$
+%% 15
+(BAG)^FGD |
+%% 16
+(B,CD)B,G,=F, |
+%% 17
+E,(GAG^FG) |
+%% 18
+CDCB,A,G, |
+%% 19
+^F,(ABAGA) |
+%% 20
+CEDCB,A, |
+%% 21
+G,(BcB)EB |$
+%% 22
+A,(cdc)^Fc |
+%% 23
+B,(dedcB) |
+%% 24
+(AG=FEF)D |
+%% 25
+C,(FEDEC) |
+%% 26
+B,(CDE^FG) |
+%% 27
+A,(DE^FGA) |
+%% 28
+G,(E^FGAB) |$
+%% 29
+D,cAc^Fc |
+%% 30
+DcAc^Fc |
+%% 31
+D_BGB^FB |
+%% 32
+D_BGB^FB |
+%% 33
+_EAGA^FA |
+%% 34
+_EAGA^FA |
+%% 35
+cA^FDA,^F, |$
+%% 36
+D,3 D^FA |
+%% 37
+(Bcd)ABG |
+%% 38
+(ABc)GA^F |
+%% 39
+GDECA,^F |
+%% 40
+G,4z ::d |
+%% 41
+dBGDB,D |
+%% 42
+(FDB,A,B,)G, |$
+%% 43
+C,FEDEG |
+%% 44
+(cde)BcA |
+%% 45
+(FGA)EFD |
+%% 46
+B,(ABcdB) |
+%% 47
+^G^FGABG |
+%% 48
+EB^GEeD |
+%% 49
+CAECB,=G |$
+%% 50
+A,FCA,G,E |
+%% 51
+F,DA,F,E,C |
+%% 52
+D,(cBcd^G) |
+%% 53
+C,(edcBA) |
+%% 54
+E(dcBA^G) |
+%% 55
+A(EDCDE) |
+%% 56
+A,3 (A/2B/2c/2B/2c/2A/2) |$
+%% 57
+GECEG_B |
+%% 58
+E,(dc_BAG) |
+%% 59
+A(FEF)CF |
+%% 60
+A,CF,AGA |
+%% 61
+(_BAG)FEG |
+%% 62
+^CEG,(_B,A,G,) |
+%% 63
+F,E,F,G,A,F, |$
+%% 64
+D,F,A,(DEF) |
+%% 65
+^G,(FEDCB,) |
+%% 66
+A,CFAFD |
+%% 67
+B,(AGFED) |
+%% 68
+CEAcAF |
+%% 69
+D(cBAGF) |
+%% 70
+EGcecA |$
+%% 71
+F(edcBA) |
+%% 72
+BdBGDB, |
+%% 73
+G,FDFB,F |
+%% 74
+G,FDFB,F |
+%% 75
+G,_ECEB,E |
+%% 76
+G,_ECEB,E |
+%% 77
+_A,DCDB,D |$
+%% 78
+_A,DCDB,D |
+%% 79
+FG,B,DFB |
+%% 80
+d3 cBA |
+%% 81
+(GFE)GFD |
+%% 82
+(EDC)EDB, |
+%% 83
+CGAFDB |
+%% 84
+[C,G,Ec]4 z :|]

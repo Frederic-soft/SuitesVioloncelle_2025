@@ -1,0 +1,69 @@
+X:1
+T:3 - Courante
+M:3/4
+L:1/16
+%Mabc Q:1/4=116
+K:Amaj clef=treble_8
+%%MIDI program 71 %% clarinette
+%% 0
+A,2 |
+A,2E,2 A,,2(CD EDCB,) |
+C2E,2 A,,2(A,B, C2)A,2 |
+F,2D,2 D,,2(B,C DCB,A,) |
+G,2E,2 E,,2(E,F, G,A,B,C) |$
+%% 5
+(DCD)B, (DCD)B, E,DCB, |
+(CB,C)A, (CB,C)A, D,CB,A, |
+(G,B,E)E, A,2C,2 E,,2G,2 |
+{A,,}A,6 (CB, A,G,F,E,) |$
+%% 9
+F2^D2 B,2(CD) E(G,F,E,) |
+B,,2E2 !trill!^D2(CB,) EB,CG, |
+(A,G,A,)F, (A,G,A,)F, B,,A,G,F, |$
+%% 12
+(G,F,G,)E, (G,F,G,)E, A,,G,F,E, |
+%% 13
+(E^DCB,) E2(DC) B,A,G,F, |
+(E,F,E,)G, (E,F,E,)A, (E,F,E,)B, |$
+%% 15
+(E,F,E,)C (E,F,E,)^D (E,F,E,)E |
+%% 16
+(A,G,F,E, ^D,C,B,,)A, !trill!G,3F, |
+%% 17
+(B,A,CB, A,G,F,E,) B,,2^D,2 |
+%% 18
+E,,8 z2 ::
+%% 18
+B,2 |
+B,2G,2 E,2(F,G, A,G,F,E,) |
+E2G,2 D,2(C,D, E,D,C,B,,) |
+%% 21
+C,(A,B,C DCB,A,) G,2E2 |$
+%% 22
+C2A,2 A,,2(CB, DCB,A,) |
+B,2G,2 ^E,(B,CD CB,A,G,) |
+A,2F,2 F,,2(A,G, B,A,G,F,) |$
+%% 25
+(=G,F,G,)B, (G,F,G,)B, DCDB, |
+^E4- E(=DCB,) (A,G,)(B,^E,) |
+A,,2C2 (B,A,)(G,F,) C,2^E,2 |
+F,,6 (F,G, A,B,CD) |$
+%% 29
+E2=G,2 C,2(F,=G, A,G,F,E,) |
+F,2D,2 D,,2(D,E, F,^G,A,F,) |
+(^D,A,B,)A, B,A,D,A, D,A,B,A, |
+(=D,G,B,)G, B,G,D,G, D,G,B,G, |$
+%% 33
+C,(E,F,=G,) A,,(=G,F,E,) F,(EDC) |
+^G,(B,CD) E,(DCB,) C2A,,2 |
+D,,2(CB, DCB,A,) E,2G,2 |$
+%% 36
+(A,,B,,A,,)C, (A,,B,,A,,)D, (A,,B,,A,,)E, |
+(A,,B,,A,,)F, (A,,B,,A,,)G, (A,,B,,A,,)A,|
+(DCB,A, G,F,E,)D !trill!C3B, |$
+%% 39
+(EDE)C (EDE)C F,EDC |
+(DCD)B, (DCD)B, E,DCB, |
+CB,CA, D,CB,A, E,2G,2 |
+A,,8 z2 :|$
+%%%%%%%%%%%%%%%%%

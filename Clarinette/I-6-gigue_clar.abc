@@ -1,0 +1,58 @@
+X:1
+T:6 - Gigue
+M:6/8
+L:1/8
+K:Amaj clef=treble_8
+%%MIDI program 71 %% clarinette
+%% 0
+E, |
+A,(E,F,) F,(D,E,) |
+E,A,E, C,A,,E, |
+(A,/2B,/2C)B, (B,/2C/2D)C |
+{A,,E,}!trill!C3 {E,}B,2 B, |
+C(G,A,) A,(F,A,) |
+B,(F,G,) G,(E,G,) |$
+%% 7
+A,CA, F,C,E, |
+%% 8
+(^D,F,B,) B,,2 F, |
+(=G,F,)A, (A,G,)B, |
+(B,A,)=C (CB,)A, |
+(=G,F,)E, (B,,E,)^D, |
+%% 12
+E,B,,^G,, E,,2 ::
+%% 12
+B, |
+%% 13
+(B,G,A,) (A,F,G,) |
+(G,/2A,/2B,)G, E,(DC) |
+%% 15
+(CA,B,) (B,G,A,) |
+(A,/2B,/2C)A, F,(ED) |
+B,(ED) E,(DC) |$
+%% 18
+A,(DC) D,(CB,) |
+%% 19
+(A,G,)F, (C,F,)^E, |
+F,C,A,, F,,2 A, |
+%% 21
+B,(G,A,) (^D/2E/2F)G, |
+%% 22
+A,(F,=G,) (C/2D/2E)F, |
+=G,(E,F,) (B,/2C/2D)B, |$
+%% 24
+(^G,/2A,/2B,)G, E,2 B, |
+(=CB,D) (DCE) |
+(ED=F) (FED) |
+=C(B,A,) (E,A,)G, |
+%% 28
+A,(^C,/2D,/2E,) (A,,C,)E, |
+%% 29
+A,(F,/2=G,/2A,) (C,D,)F, |$
+%% 30
+B,(^G,/2A,/2B,) (^D,E,)G, |
+C(A,/2B,/2C) (^E,F,)D |
+(F,G,)E (G,A,)F |
+(E,F,/2G,/2A,/2B,/2) (CA,)G, |
+A,E,C, A,,2 !fermata!:|$
+% %%%%%%%

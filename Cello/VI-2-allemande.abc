@@ -1,0 +1,72 @@
+X:1
+T:2 - Allemande
+%%%% C:Jean-Sébastien Bach
+M:C
+L:1/32
+%Mabc Q:1/8=60
+V:1 clef=alto octave=-1
+V:2 clef=alto octave=-1
+%%staves (1 2)
+%%MIDI program 1 42 %% violoncelle
+%%MIDI program 2 42 %% violoncelle
+K:D clef=alto octave=-1
+[V:1] f2 | f8- f(egf!beambr2!ede/2c/2d) (d4!trill!c3d/2e/2) (dcBA!beambr2!B/2c/2B/2c/2cB/2c/2)|
+[V:2] x2 | [DA]8 x8             E8                    x8    |
+%% 2
+[V:1] d6a2- (agfe!beambr2!d/2c/2d/2e/2f/2e/2g/2f/2) (g3(3f/2e/2f/2!beambr2!gfgb) (!trill!g6fg) |$
+[V:2] F6x2   B4           z4                         [EB]6                   x2        A8    |
+%% 3
+[V:1](!trill!f4e2fd) d'6d'2 (^Gebd'!beambr2!c'b^a/2b/2d'/2c'/2) c'4^A3e |
+[V:2][DA]4     x4    f6f2    x8                                 x8      |
+%% 4
+[V:1]B2(eg!beambr2!fede/2c/2) d3(B/2c/2!beambr2!defa/2^g/2) [ca]2 x6 !trill!^D3(a!beambr2!ba^ga) |$
+[V:2]x8                       x8                        F3(^G!beambr2!ABcA) x8               |
+%% 5
+[V:1] a2^g2f2e2 e6e2 e2(f^g!beambr2!agaf) !trill!d3(c!beambr2!Bdfa) |
+[V:2] [EB]4 x4  c6c2 [Fc]2 x6                    x8 |
+%% 6
+[V:1](^gaba!beambr2!gfef/2d/2) (!trill!c3B!beambr2!A^GAc) (f3e!beambr2!dcdf) (b^gaf!beambr2!ecdB) |$
+[V:2][Ed]2x2 x4                        x8                  [Dc]2x2 x4         x8        |
+%% 7
+[V:1](AF^GBe3)D C3(e!beambr2!dcBA) D(fed!beambr2!c^GAd) B6A2 |
+[V:2]x8         x8                 x8                   E8 |
+%% 8
+[V:1](A3B!beambr2!cde=g) (fedc!beambr2!dBa^g) (a3ec2BA) A,6 :|
+[V:2]A2x6                 x8                   x8       x6  :|
+%% 9
+[V:1]|:[K:clef=bass octave=-1] e2 | e4-e(gfe dcBc!beambr2!dcBc/2A/2) a6(gf edcB!beambr2!AGFG) |
+[V:2]|:[K:clef=bass octave=-1] x2 | [A,Ec]4x4 x8                      [G,Ec]6x2   x8       |
+%% 10
+[V:1]!trill!F3((3A/2B/2c/2!beambr2!dBGF) E2(gf!beambr2!gecA) D2(AB!beambr2!cdef/2g/2) f3(D/2E/2!beambr2!FDEF) |$
+[V:2]       x8                           x8                  x8                       x8                      |
+%% 11
+[V:1]=C,6A2 (BAB=c!beambr2!Bc!trill!cB/2c/2) [Gd]6x2 (=CB,CD!beambr2!C/2D/2D3/2C/2D/2E/2) |
+[V:2]x8      x8                              B,6B,2   x8 |
+%% 12
+[V:1]A,4^G,3[K:clef=alto octave=-1]f (f^e^gf!beambr2!agbd) ^E3(c!beambr2!bab^g) a3(^g!beambr2!f=ede/2c/2)[K:clef=bass octave=-1]|$
+[V:2]x8                               x8                    x8                  [Fc]3xx4 [K:clef=bass octave=-1]|
+%% 13
+[V:1]d3(c!beambr2!BA=GA/2F/2) G3((3D/2E/2F/2!beambr2!GABc/2d/2) d2!trill!^E4(F^G) (CB,2DC2DB,) |
+[V:2][B,F]3xx4                x8                              x8                 x8         |
+%% 14
+[V:1]A,[K:clef=alto octave=-1](f^ga)!beambr2!(Ba^gb) f4!trill!^e3f f3(c!beambr2!f^gag) (ab=c'a!beambr2!^d=ede) |$
+[V:2]x8                                               c4x4          x8                   x8                     |
+%% 15
+[V:1]!trill!^d3((3A/2B/2=c/2)c3((3A/2B/2c/2) c2Ba!beambr2!!trill!g3/2f/4g/4af g6(ab) (agfe!beambr2!=d^ced) |
+[V:2][B,F]6x2                                x8                               [EB]6x2 x8                   |
+%% 16
+[V:1]d2[K:clef=bass octave=-1](B,C!beambr2!DEFD) (^GBEF!beambr2!GABc) (dcBc!beambr2!dBcA) [K:clef=alto octave=-1]a3(=G!beambr2!AGFG) |$
+[V:2]x2[K:clef=bass octave=-1]x6                  x8                   x8                 [K:clef=alto octave=-1]x8 |
+%% 17
+[V:1]F3(a!beambr2!gfed) (=cBca)!beambr2!(cBcA) (^DFB^d!beambr2!fagf) g2(EF!beambr2!GAB=d) |
+[V:2]x8                  x8                     x8                   x8                   |
+%% 18
+[V:1](^ceAc!beambr2!egfe) f2(DE!beambr2!FGA=C) G,3(f!beambr2!bagf) (e^cdB!beambr2!AFGE)[K:clef=bass octave=-1]|$
+[V:2]x8                   x8                   x8                   x8                 [K:clef=bass octave=-1]|
+%% 19
+[V:1](DB,CE!beambr2!Ace^g) a2(F,A!beambr2!=GFED) G,(BAG!beambr2!FCDG) E6D2 |
+[V:2]x8                    x8                    x8                   A,8  |
+%% 20
+[V:1]D3(E!beambr2!FGA=c) (BAGF!beambr2!GEd^c) d3A!trill!F2ED D,6 :|]$
+[V:2]x8                   x8                  x8             x6  :|]
+%%%%%%%%%%%%%%%%%%%%%%%%

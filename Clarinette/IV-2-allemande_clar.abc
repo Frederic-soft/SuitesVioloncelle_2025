@@ -1,0 +1,90 @@
+X:1
+T:2 - Allemande
+%%%% C:Jean-Sébastien Bach
+M:C
+L:1/16
+%Mabc Q:1/4=70
+%%MIDI program 1 71 %% clarinette
+%%MIDI gracedivider 2
+K:Fmaj clef=treble_8
+%%%%
+C2 | (F2ED) CB,A,B, CB,A,G, F,E,D,C, |
+% 2
+(D,F,G,A,) (B,A,G,F,) (E,F,G,E,) !trill!C,2B,,2 |
+% 3
+A,,(C,D,E,) F,2_E2 B,,2D2G,2F,2 |$
+%% 4
+G,,(B,,C,D,) E,2D2 A,,2C2F,2E,2 |
+% 5
+F,,(A,,B,,C,) D,2C2 G,,2B,2 E,2(CB,) |
+% 6
+(A,G,F,A,) (G,F,E,G,) {F,,2C,2}F,4- F,G,E,F, |$
+% 7
+(G,F,E,D,) (C,D,E,F,) (G,A,B,G,) (A,G,F,G,) |
+%% 8
+(A,G,F,E,) (D,E,F,G,) (A,=B,CA,) (=B,A,G,A,) |
+% 9
+(=B,A,G,F,) E,2D2 (A,,C,D,E,) F,2E2 |$
+% 10
+(DC=B,A,) G,2F2 (C,E,F,G,) A,2G2 |
+%% 11
+(FEDC) =B,2A2 (GFED) C2_B,2 |
+% 12
+(A,G,F,E,) D,2C,2 (=B,,F,)A,2- A,2(G,F,) |$
+% 13
+(E,D,C,)E, (D,C,=B,,)D, (C,E,D,C,) (D,F,E,D,) |
+%% 14
+(E,F,G,A,) _B,2C,2 F,,2B,2 (A,G,F,E,) |
+% 15
+(D,E,F,G,) A,2C2 (=B,CDC B,A,G,F,) |$
+% 16
+(E,D,C,)E, (D,C,=B,,)D, C,6 :||: G,2 |
+% 17
+(C2=B,A,) (G,F,E,F,) G,F,E,D, C,_B,,A,,G,, |
+%% 18
+A,,(F,G,A,) E,(B,A,G,) (A,B,CA,) (F,2E,D,) |$
+% 19
+(^C,D,E,F,) G,2B,2 (ED^C=B,) A,2G,2 |
+% 20
+(D,E,F,G, A,^CDE) (FED=C B,A,G,F,) |
+%% 21
+(B,A,G,F, E,D,^C,=B,,) (G,F,E,D, ^C,=B,,A,,G,,) |$
+% 22
+F,,2D2A,,2^C2 {D,,2A,,2F,2}D4- D2(DE) |
+% 23
+(FE)(FE) (D=C)(DC) (_B,C)(B,C) (DE)(DE) |
+% 24
+(FE)(FE) (DCB,A,) (^G,A,=B,D) E2D,2 |$
+%% 25
+C,2E2 (F,A,=B,C) D2=B,,2 (E,^G,A,=B,) |
+% 26
+(C=B,A,C) (B,A,^G,B,) A,2E,2 A,,2(CD) |
+% 27
+(_ED)(ED) (C_B,)(CB,) (A,G,)(A,G,) (^F,A,)(B,C) |$
+% 28
+(DCB,D) (CB,A,C) B,2G,2 G,,2(G,A,) |
+%% 29
+(B,A,G,F,) (E,F,G,A,) (B,CDE) (FE)(FE) |
+% 30
+(FEDC) (B,A,G,F,) (G,F,E,D,) C,2G,2 |$
+% 31
+(C,D,E,F,) G,2A,2 D,2B,2E,2B,2 |
+% 32
+(F,G,A,B,) C2D2 G,2_E2A,2E2 |
+%% 33
+(DCB,A,) B,2D2 (GFEF) (GFED) |
+% 34
+(CB,A,G,) A,2C2 (FEDE) (FEDC) |$
+% 35
+(B,A,G,A,) (B,A,G,F,) (E,D,C,D,) (E,D,C,B,,) |
+% 36
+(A,,C,D,E,) F,2_E2 B,,2E2 (DCB,A,) |
+%% 37
+(B,A,G,F,) =E,2D2 A,,2D2 (CB,A,G,) |$
+% 38
+(A,G,F,E,) (D,C,B,,A,,) G,,(B,A,G,) C,(B,A,G,) |
+% 39
+F,,(A,G,F,) =B,,(_A,G,F,) (E,G,)D2- D2(C_B, |
+% 40
+A,)G,F,G, C,2E2 {F,,2C,2A,2}F6 :|$
+%%%%%%%%%%%%%%%

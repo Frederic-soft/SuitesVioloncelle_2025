@@ -1,0 +1,94 @@
+X:1
+T:6 - Gigue
+%%%% C:Jean-Sébastien Bach
+M:12/8
+L:1/8
+%Mabc Q:3/8=100
+K:Fmaj clef=treble_8
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+%% 1
+F, | (F,E,F,) (C,D,E,) (F,E,F,) (A,G,A,) |
+% 2
+(F,E,F,) (C,D,E,) F,,3- F,,2 A, |
+% 3
+(G,F,G,) (CA,B,) (A,G,A,) (F,G,A,) |$
+%% 4
+(G,F,G,) (CA,B,) (A,G,A,) (F,A,G,) |
+% 5
+(F,E,F,) (D=B,C) (B,A,B,) (G,B,G,) |
+% 6
+(F,E,F,) (D=B,C) (B,A,B,) (G,B,F,) |$
+% 7
+(E,D,E,) (E=B,C) (F,E,F,) (E=B,C) |
+%% 8
+(G,F,G,) (E=B,C) (A,G,A,) (E=B,C) |
+% 9
+(F,E,F,) (D,F,C,) (=B,,F,A,,) (B,,F,G,,) |$
+% 10
+(C,E,G,) (CE,G,) C,3- C,2 :||: C |
+% 11
+(C=B,C) (G,A,B,) (C=B,C) (EDE) |
+%% 12
+(C=B,C) (G,A,=B,) C,3- C,2 E |$
+% 13
+(EDE) (_B,A,B,) (G,F,G,) (^C,G,E) |
+% 14
+(EDE) (B,A,B,) (G,F,G,) (^C,E,G,) |
+% 15
+(F,E,F,) (D,F,=C,) (B,,D,G,) (B,DF,) |$
+%% 16
+(E,D,E,) (C,E,B,,) (A,,C,F,) (A,CE,) |
+% 17
+(D,C,D,) (B,,D,A,,) (G,,B,,E,) (G,B,D,) |
+% 18
+(^C,E,A,) (^CEG,) (F,A,D) (A,D^C) |$
+%% 19
+(D^CD) (A,=B,^C) (DCD) (FEF) |
+% 20
+(D^CD) (F,G,A,) (D,F,^G,) (=B,DB,) |
+% 21
+(^G,=B,D) (FED) (C=B,A,) (E,A,^G,) |$
+%% 22
+(A,^G,A,) (C^G,A,) (D,C,D,) (C^G,A,) |
+% 23
+(E,D,E,) (C^G,A,) (F,E,F,) (C^G,A,) |
+% 24
+(=B,DA,) (^G,D^F,) (E,D^F,) (^G,DA,) |$
+%% 25
+(=B,DA,) (^G,D^F,) (E,D^F,) (^G,DE,) |
+% 26
+(C=B,A,) (E,A,^G,) (A,E,C,) A,,2 F, |
+% 27
+(F,E,F,) (C,D,E,) (F,E,F,) (A,G,A,) |$
+% 28
+(F,E,F,) (C,D,E,) F,,3- F,,2 A, |
+%% 29
+(G,F,G,) (CA,B,) (A,G,A,) (F,G,A,) |
+% 30
+(G,F,G,) (CA,B,) (A,G,A,) (F,A,B,) |$
+% 31
+(CB,C) (FD_E) (DCD) (B,CD) |
+%% 32
+(CB,C) (FD_E) (DCD) (B,CD) |
+% 33
+(_A,G,A,) (F,E,F,) (D,C,D,) (=B,,D,F,) |$
+% 34
+(_A,G,A,) (F,E,F,) (D,C,D,) (=B,,D,F,) |
+%% 35
+(E,D,E,) (C,E,_B,,) (A,,C,F,) (A,C_E,) |
+% 36
+(D,C,D,) (B,,D,A,,) (G,,B,,=E,) (G,B,D,) |$
+% 37
+(C,B,,C,) (A,,C,G,,) (^F,,A,,D,) (^F,A,C,) |
+% 38
+(B,,A,,B,,) (G,,B,,=F,,) (E,,G,,C,) (E,G,B,,) |
+%% 39
+(A,,G,,A,,) (A,E,F,) (B,,A,,B,,) (A,E,F,) |$
+% 40
+(C,B,,C,) (A,E,F,) (D,C,D,) (A,E,F,) |
+% 41
+(B,A,B,) (G,B,F,) (E,B,D,) (E,B,C,) |
+% 42
+(F,A,C) FA,,C, F,,3- F,,2 !fermata!:|$
+%%%%%%%%%%%%%%%%

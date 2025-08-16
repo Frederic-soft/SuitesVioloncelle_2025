@@ -1,0 +1,76 @@
+X:1
+T:3 - Courante
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/16
+%Mabc Q:1/4=100
+K:Em treble_8
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+%%%%
+%% 1
+E | EB,G,B, E,G,A,B, CB,CA, |
+%% 2
+{B,}^D,4- D,E,F,G, A,G,A,F, |
+%% 3
+G,E,F,=D, (C,B,,C,)B, A,G,F,E, |$
+%% 4
+^D,F,(B,,^C, ^D,E,F,G, A,)=CB,F, |
+%% 5
+G,B,(E,F, G,A,B,C D)CED |
+%% 6
+{G,B,}D4- DCB,A, (G,=F,)(E,F,) |$
+%% 7
+E,(C,B,,C,) E,C,^F,C, G,C,A,C, |
+%% 8
+(F,,A,,D,)E, F,G,A,B, (CB,)(CA,) |
+%% 9
+B,(G,F,G,) B,G,CG, DG,EG, |$
+%% 10
+(^D,F,B,)^C ^DEFG (AG)(AF) |
+%% 11
+(E,B,G)F EDED ^CB,CB, |
+%% 12
+(^A,B,^C)F, G,F,G,E, F,D,E,^C, |$
+%% 13
+D,(B,^CD CB,^A,B,) E,B,F,B, |
+%% 14
+G,(B,^CD CB,^A,B,) G,B,F,B, |
+%% 15
+^E,(B,^CD CB,^A,B,) F,B,F,^A, |
+%% 16
+B,F,^D,F, B,,D,F,^A, B,3 :|$
+%% 17
+|:F | F^DB,D F,G,A,B, (CA,)(^DA,) |
+%% 18
+{G,}E4- EB,EF GEB,=D |
+%% 19
+^CG,E,G, A,,E,G,A, ^CG,EG, |$
+%% 20
+F,A,(D,E, F,G,A,B, =C)EDA, |
+%% 21
+% {B,,}G,(DCB, A,G,=F,E, F,)DG,F, |
+{G,}B,(DCB, A,G,=F,E, F,)DG,F, |
+%% 22
+{C,}E,4- E,^F,G,A, B,CDE |
+%% 23
+F,(C,B,,A,,) B,,G,A,,G,, (D,,A,,G,)F, |$
+%% 24
+G,(B,CB, A,G,F,G,) A,F,G,E, |
+%% 25
+^D,A,^C,A, B,,A,C,A, D,A,B,,A, |
+%% 26
+G,E,G,B, EB,EF GB,G,E, |$
+%% 27
+A,,(E,A,B,) CAB,G A,FG,E |
+%% 28
+^DEFD B,DCD B,DA,D |
+%% 29
+G,(EFG FE^DE) A,EB,E |$
+%% 30
+C(EFG FE^DE) CEB,E |
+%% 31
+^A,(EFG FE^DE) B,EB,^D |
+%% 32
+EB,G,B, E,G,B,,E, E,,3 :|$
+%%%%%%%%%%%%%%%%%%%%%%%%

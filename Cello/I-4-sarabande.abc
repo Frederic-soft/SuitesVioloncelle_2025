@@ -1,0 +1,54 @@
+%%measurenb 0
+X:1
+T:4 - Sarabande
+M:3/4
+L:1/8
+%Mabc Q:1/4=60
+V:1
+V:2 stem=down
+K:G clef=bass
+%%staves ( 1 2 )
+%%MIDI program 1 42 %% violoncelle
+%%MIDI program 2 42 %% violoncelle
+V:1
+B,2 (C3 B,) |
+(F,/A,/B,/)C/ TB,2 (A,G,) |
+D=F, (E,3/2(3D,/4C,/4B,,/4 C,)E, |
+^F,/(C/B,/G,/) TF,2 (E,D,) |$
+%% 5
+A,/(F,/D,/C,/) B,,3/2G,,/2 (B,,/D,/G,/A,/) |
+B,/(G,/E,/D,/) T^C,3/2(A,,/4B,,/4 C,/D,/E,/F,/) |
+G,/(^C/D/C/) D/A,/G,/F,/ (E,/G,/)(F,/D,/) |
+(A,,/D,/E,/)^C,/ D,2 D,,2 ::
+%% 9
+F,E,/D,/ C3 B,/A,/ |
+B,/(F,/G,/E,/) T^D,3/2E,/ F,/G,/A,/B,/ |
+^D,/(A,/B,/C/) TB,(A,/G,/) (F,/E,/)(A,/F,/) |
+(G,/E,/)(F,/^D,/) E,2 E,,2 |$
+%% 13
+=D,3/2(E,/4=F,/4) E,3/2^F,/2 (G,/2A,/2B,/2C/2) |
+^G,,/(D/C/B,/) C3/2B,/2 A,/=G,/F,/E,/ |
+D,2- D,/E,/F,/G,/ (A,/C/)(B,/G,/) |
+(D,/G,/A,/)F,/ G,2 G,,2 :|$
+%%%%%%%
+V:2
+[G,,D,]2 [G,,E,]4 |
+x2 [G,,D,]2 x2 |
+x6 |
+x2 [D,,A,,]2 x2 |$
+%% 5
+x6 |
+x6 |
+x6 |
+x6 :||:$
+%% 9
+[D,,A,,]x [D,,A,,F,]3 x |
+[G,,D,]/2x/2 x A,,3/2x/2 x2 |
+x6 |
+x6 |$
+%% 13
+B,,3/2x/2 [C,,G,,]3/2x/2 x2 |
+x2 [A,,E,]3/2x/2 x2 |
+z/2B,,/2C,/2A,,/2 B,,/2x3/2 x2 |
+x6 :|$
+%%%%%%%

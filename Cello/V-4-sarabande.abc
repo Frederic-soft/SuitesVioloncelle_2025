@@ -1,0 +1,73 @@
+X:1
+T:4 - Sarabande
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/8
+%Mabc Q:1/4=50
+V:1 clef=bass octave=-1
+V:2 clef=bass octave=-1
+%%MIDI program 1 42 %% violoncelle
+%%MIDI program 2 42 %% violoncelle
+%%staves (1 2)
+K:Eb clef=bass octave=-1
+%% 1
+[V:1] G(E=B,C) A,2 |
+[V:2] x6        |
+% 2
+[V:1] c(A=EF) =B,2 |
+[V:2] x6 |
+% 3
+[V:1] d(A=EF) G,G |
+[V:2] x6 |
+% 4
+[V:1] F(E=B,C) C,2 |
+[V:2] x6 |
+% 5
+[V:1] (CEAG)(_dc) |$
+[V:2] x6 |
+% 6
+[V:1] (DFBA)(cB) |
+[V:2] x6 |
+% 7
+[V:1] (AGDE)(B,D) |
+[V:2] x6 |
+% 8
+[V:1] E,6 :|
+[V:2] x6 :|
+% 9
+[V:1] |: B(GDE) _D,2 |
+[V:2] |: x6 |
+%10
+[V:1] B(G=EF) G,2 |
+[V:2] x6 |
+% 11
+[V:1] _d(B=EF)(C,c) |$
+[V:2] x6 |
+% 12
+[V:1] BA=EF F,2 |
+[V:2] x6 |
+% 13
+[V:1] E,(CFE)(B=A) |
+[V:2] x6 |
+% 14
+[V:1] D,(DGF)(c=B) |
+[V:2] x6 |
+% 15
+[V:1] c(A^FG)(=B,C) |
+[V:2] x6 |
+% 16
+[V:1] (G,DG^F)(c=B) |$
+[V:2] x6 |
+% 17
+[V:1] e(c^FG)(=A,e) |
+[V:2] x6 |
+% 18
+[V:1] d(_A=EF)(=B,G) |
+[V:2] x6 |
+% 19
+[V:1] F(E=B,C)G,=B |
+[V:2] x6 |
+% 20
+[V:1] (C,G,FE) c2 :|]
+[V:2] x6 :|]
+%%%%%%%%%

@@ -1,0 +1,143 @@
+X:1
+T:4 - Sarabande
+%%%% C:Jean-Sébastien Bach
+M:3/2
+L:1/4
+%Mabc Q:1/2=44
+V:1 clef=alto octave=-1
+V:2 clef=alto octave=-1
+V:3 clef=alto octave=-1
+%%MIDI program 1 42 %% violoncelle
+%%MIDI program 2 42 %% violoncelle
+%%MIDI program 3 42 %% violoncelle
+%%staves (1 2 3)
+K:D clef=alto octave=-1
+%% 1
+[V:1] [DAf]2 [Af]3 g |
+[V:2] x6 |
+[V:3] x6 |
+%% 2
+[V:1] (ec)   [Fd]3 b |
+[V:2] [G,G]2  x3 x |
+[V:3] x6 |
+%% 3
+[V:1] (af) [Ecg]3 a |
+[V:2] [A,Fd]2  x3 x |
+[V:3] x6 |
+%% 4
+[V:1] (gf) (ge) f2 |
+[V:2] [DA]2 x4 |
+[V:3] x6 |
+%% 5
+[V:1] [B,DBf]2 [d^g]3 a |
+[V:2] x6 |
+[V:3] x6 |
+%% 6
+[V:1] [(db]c) d3 e |
+[V:2] [^GE]2 E3 x |
+[V:3] x6 |
+%% 7
+[V:1][K: clef=bass octave=-1](dc) (cB) (Bd) |
+[V:2][K: clef=bass octave=-1][A,E]2 D2 E2 |
+[V:3] x6 |
+%% 8
+[V:1](dc) c4 :|$
+[V:2][A,E]2 x4 :|
+[V:3] x6 :|
+%% 9
+[V:1] |:[A,Ece]2 [G,Ece]3 e |
+[V:2] |:x6 |
+[V:3] |:x6 |
+%% 10
+[V:1]([FAe]c) ^d A/2B/2 =c E [K: clef=alto octave=-1] |
+[V:2] x6 [K: clef=alto octave=-1] |
+[V:3] x6 |
+%% 11
+[V:1][^D(=cf] A) B (f/2g/2) a ^D |
+[V:2]x6 |
+[V:3] x6 |
+%% 12
+[V:1](af) [Bg]3 g |
+[V:2][EB]2 x3 x |
+[V:3] x6 |
+%% 13
+[V:1](gf) =c'2 x2 |
+[V:2] A3    de G |
+[V:3] x6 |
+%% 14
+[V:1]Fed =c' [Gdb]2 |$
+[V:2]x6 |
+[V:3] x6 |
+%% 15
+[V:1](de)    (ef)   (fg) |
+[V:2][B,G]2 [=CG]2 [D=c]2 |
+[V:3] x6 |
+%% 16
+[V:1]g2    [Bg]3 b |
+[V:2](=cA) x3 x |
+[V:3][G,D]2 x x3 |
+%% 17
+[V:1]([Gdb][Bg]) ([Bg]e) (e^c) |
+[V:2]x6 |
+[V:3]x6 |
+%% 18
+[V:1](cA) (AG) (Ga) |
+[V:2]x6 |
+[V:3]x6 |
+%% 19
+[V:1]([Fda][Af]) ([Af]d) (dB) |
+[V:2]x6 |
+[V:3]x6 |
+%% 20
+[V:1](BG) (GF) (Fg) |$
+[V:2] x6 |
+[V:3] x6 |
+%% 21
+[V:1]gx x2 x2 |
+[V:2][E(c][Fd)] [F(d][Ec)] [E(c][DB)] |
+[V:3]x6 |
+%% 22
+[V:1]gx x2 x2 |
+[V:2][D(B][Ec)] [E(c][DB)] [DB][CEA] |
+[V:3]x6 |
+%% 23
+[V:1][CE(A]g) (gf)  (f^g) |
+[V:2]x2       [DA]2 [B,DB]x |
+[V:3]x6 |
+%% 24
+[V:1] [A,Ec(^g]a) [ca]3 [=Gc] |
+[V:2] x6 |
+[V:3] x6 |
+%% 25
+[V:1][A,Fd(a][Af)] [A(f][Fd)] [F(d][Ec)] |
+[V:2]x6 |
+[V:3]x6 |
+%% 26
+[V:1]x2        c3 x |$
+[V:2][A,(Eca]G) (GE) (E[=Fd]) |
+[V:3] x6 |
+%% 27
+[V:1][A,=Fd(a][A=f)] [A(f][=Fd)] [F(d][Ec)] |
+[V:2]x2 x2 x2 |
+[V:3]x2 x2 x2 |
+%% 28
+[V:1][A,E(c] d/2)e/2 [^AFce]3 d |
+[V:2]x2 x3 x |
+[V:3]x2 x3 x |
+%% 29
+[V:1][B,Fd] (e/2f/4g/4) (gf) [D=c(f]e) |
+[V:2]x x x2 x2 |
+[V:3]x x x2 x2 |
+%% 30
+[V:1][G,GB(e] [Af)] [A(f] [Ge)] [G(e] [Fd)] |
+[V:2]x x x2 x2 |
+[V:3]x x x2 x2 |
+%% 31
+[V:1][K: clef=bass octave=-1] d2    d2   c2 |
+[V:2][K: clef=bass octave=-1] (FE) (EG) (GF) |
+[V:3][K: clef=bass octave=-1] G,2   A,2  x2 |
+%% 32
+[V:1](cd) [Fd]4 :|$
+[V:2][D,A,F]2 x4 :|
+[V:3]x2 x4 :|
+%%%%%%%%%%%%%%%%%%%%%%%%%

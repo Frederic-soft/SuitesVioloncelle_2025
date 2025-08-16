@@ -1,0 +1,96 @@
+X:1
+T:1 - Prélude
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/16
+%Mabc Q:1/4=70
+K:C clef=bass octave=-1
+%%MIDI program 42 %% Violoncelle
+c2BA GFED CG,E,G, |
+C,4- C,D,E,F, G,A,B,C |
+(DCB,A,) (G,A,B,C) (DEFD) |
+(EFED) (CDEF) (GABc) |$
+(dcBA) (GABc) (defd) |
+efed ccBA GFED |
+C(Bcd edcB) AcGc |
+(^FEFG) (AGFE) DFCF |$
+B,(ABc dcBA) GB^FB |
+(EDE^F) (GFED) CEB,E |
+A,(GAB cBAG) ^FAEA |
+(DCDE) (^FEDC) B,DA,D |$
+G,(DE^F) (GABc) (dcBA) |
+(Bcdc) (BAGA) (BAG=F) |
+(EGE^C) (A,B,^CD) (EFGE) |
+FdAF (DEFG) (ABcA) |$
+BdB^G (E^F^GA) (BcdB) |
+(cdcB) (A=FED) (CB,A,G,) |
+(F,A,B,^C) (DEFD) (B^GAD) |
+E,(B,DA) ^GBEG Bdc^G |$
+A^D(AB A)D(AB A)D(AB |
+c)E(AB c)E(AB c)E(Bc |
+d)E(Bc d)E(Bc d)B(^G^F |
+E)c(A^G A)c(A^G A)c(A^F |$
+^D)c(A^G A)c(A^G A)cA=F |
+=DB(^G^F ^G)B(=FE F)BED |
+CA,CE CA,CE AcAE |
+CA,CE CA,CE AcAF |$
+DB,DG DB,DG BdBG |
+FB,(FG F)B,(FG F)dBG |
+ECEG ECEG _BdBG |
+ECEG ECEG c_BAG |$
+AF(EF GABc d)AFD |
+GE(DE FGAB c)GEC |
+FD(FG F)D(FG F)C(FG |
+F)B,(FG F)A,(FG F)G,(FG |$
+E)G,(C,G, E)G,(C,G, E)DCB, |
+(A,Ec)E (A,Ec)E A,GFE |
+FA,(D,A, F)A,(D,A, F)EDC |
+(B,^Fd)F (B,Fd)F B,AGF |$
+GB,(E,B, G)B,(E,B, G)=FED |
+(CGe)G (CGe)G C_BAG |
+AC(F,C A)C(F,C A)GFE |
+(DAf)A (DAf)A DABc |$
+(G,Bf)B (G,Bf)B (G,Bf)B |
+(G,ce)c (G,ce)c (G,ce)c |
+(G,cd)c (G,Bd)B (G,Ad)A |
+(G,Bd)B (G,Bg)B (G,Bd)B |$
+(G,Bc)B (G,Ac)A (G,Gc)G |
+(G,Ac)A (G,Af)A (G,Ac)A |
+(G,AB)A (G,GB)G (G,FB)F |
+(G,GB)G (G,Ge)G (G,GB)G |$
+(G,GA)G (G,FA)F (G,EA)E |
+(G,FA)F (G,Fd)F (G,FA)F |
+(G,FB)F (G,Fd)F (G,FB)F |
+(G,Ec)E (G,Ee)E (G,Ec)E |$
+(G,FB)F (G,Fd)F (G,FB)F |
+(G,_Ec)E (G,E_e)E (G,Ec)E |
+(G,^Fc)F (G,Dc)D (G,=Ec)E |
+(G,^Fc)F (G,Ec)E (G,^Fc)F |$
+G,G(BA) (G=FED) GEGD |
+G^C(GA G)C(GA G)C(GA |
+F)D(AG) (FED=C) FDFC |
+FB,(FG F)B,(FG F)B,(FG |$
+E)C(GF) (EDCB,) CA,CG, |
+C^F,(CD C)F,(CD C)F,(CD |
+B,)G,B,D B,G,B,D B,=F,B,D |
+_B,E,(B,C B,)E,(B,C B,)E,(B,C |$
+A,)F,A,C A,F,A,C A,E,A,C |
+=B,D,B,F B,D,B,F B,D,B,F |
+EC,D,E, F,G,A,B, CDEF |
+GE(CD EFGA _B)ABG |$
+AF(DE FGA=B c)BcA |
+BG(EF GABc d)cdB |
+cA(FG ABcd e)dec |
+(BAB)G (FEF)D (B,A,B,)G, |$
+[F,A,DB]4 z4 z4 |
+E,(cBA) GFED CG,E,G, |
+[_E,CGA]4 z4 z4 |
+[D,G,FB]4 z4 z4 |
+[C,G,Ec]4 ([G,-D-c]4 [G,DB]4) |
+[C,G,Ec-]4 cE(cd c)E(cd) |$
+[C,G,E_B-]4 BE(Bc B)E(Bc) |
+[C,A,FA-]4 A(FEF) A(FEF) |
+[C,_A,D-=B-]4 [DB][Ec][DB][Ec] [DB][Ec][DB][Ec] |
+!trill![DB]12 |
+c2BA GFED CG,E,G, |
+[C,G,Ec]4 z4 z4 |]$

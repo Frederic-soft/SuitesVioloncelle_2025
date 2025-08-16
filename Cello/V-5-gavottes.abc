@@ -1,0 +1,172 @@
+X:1
+T:5 - Gavottes
+%%%% C:Jean-Sébastien Bach
+M:C|
+L:1/8
+%Mabc Q:1/2=60
+V:1 clef=bass octave=-1
+V:2 clef=bass octave=-1
+%%MIDI program 1 42 %% violoncelle
+%%MIDI program 2 42 %% violoncelle
+%%staves (1 2)
+K:Eb clef=bass octave=-1
+P:Gavotte I
+%% 1
+[V:1] G2 c2 | A2 (BG) A2 (BF) |
+[V:2] [CE]2 x2 | F2 x2 D2 x2 |
+% 2
+[V:1] G2 (E=B,) C2 (AE) |
+[V:2] x8 |
+% 3
+[V:1] F2 (D=A,) (=B,D) G2 |
+[V:2] x8 |
+% 4
+[V:1] !ptrill!E2 (DC) (GE)(cG) |$
+[V:2] [C,G,]2 x6 |
+% 5
+[V:1] (AF)(B=E) (AF)(BD) |
+[V:2] x8 |
+% 6
+[V:1] (GE)(AD) (GE)(BG) |
+[V:2] x8 |
+% 7
+[V:1] (c_A)(_dG) (c_A)(eG) |
+[V:2] x8 |
+% 8
+[V:1] (d_A)(ed) (cB)(=AG) |$
+[V:2] x8 |
+% 9
+[V:1] =A2 (BG) =A2 (c=A) |
+[V:2] C2 x2 E2 x2 |
+% 10
+[V:1] B2 (c=A) B2 (ec) |
+[V:2] D2 x2 C2 x2 |
+% 11
+[V:1] d2 G2 (B=A) G^F |
+[V:2] x2 [B,D]2 C2 Dx |
+% 12
+[V:1] G4 :|$
+[V:2] [G,D]4 :|
+% 13
+[V:1] |: B2 G2 | =E2 (FD) =E2 (cE) |
+[V:2] |: [G,D]2 x2 | [C,G,]2 x2 B,2 x2 |
+% 14
+[V:1] F2 (G=E) F2 (cF) |
+[V:2] A,2 x6 |
+% 15
+[V:1] G2 (_AF) G2 (cG) |
+[V:2] =E2 x2 [C=E]2 x2 |
+% 16
+[V:1] (BAGF) (_AGF_E) |
+[V:2] F2 x6 |
+% 17
+[V:1] (DA,)(EC) (DA,)(BD) |$
+[V:2] x8 |
+% 18
+[V:1] (EG,)(FD) (EG,)(BE) |
+[V:2] x8 |
+% 19
+[V:1] (FB,)(GE) (FB,)(BF) |
+[V:2] x8 |
+% 20
+[V:1] (AG)(FE) A2 G2 |
+[V:2] x4 [CE]2 [B,E]2 |
+% 21
+[V:1] (FEFD) c2 B2 |$
+[V:2] A,2 x2 [A,E]2 [G,E]2 |
+% 22
+[V:1] (EDEC) D2 A2 |
+[V:2] [F,A,]2 x2 [F,A,]2 D2 |
+% 23
+[V:1] (AFGE) (GFED) |
+[V:2] E x3 B, x3 |
+% 24
+[V:1] E4 G2 E2 |
+[V:2] [E,B,]4 [E,B,]2 x2 |
+% 25
+[V:1] B2 (c=A) B2 (cG) |
+[V:2] D2 x2 x2 =E2 |
+% 26
+[V:1] (B=A)(GF) (=AG)(=BA) |$
+[V:2] F2 x2 F2 x2 |
+% 27
+[V:1] (c=B)(d=B) c(_EDC) |
+[V:2] ^F2 x6 |
+% 28
+[V:1] (G,D)(c=B) (eG)(_AF) |
+[V:2] x8 |
+% 29
+[V:1] (dF)(GE) (cE)(FD) |
+[V:2] x8 |
+% 30
+[V:1] (c=B=AG) (cE)(FD) |$
+[V:2] [G,D]4 x4 |
+% 31
+[V:1] (=BD)(EC) (_AC)(D=B,) |
+[V:2] x8 |
+% 32
+[V:1] GFED C2 (EC) |
+[V:2] [F,=B,D]x x2 E,2 x2 |
+% 33
+[V:1] D2 (EC) D2 (FD) |
+[V:2] [F,C]2 x2 _A,2 x2 |
+% 34
+[V:1] E2 (FD) E2 (AF) |
+[V:2] G,2 x2 [F,C]2 x2 |
+% 35
+[V:1] G2 C2 (ED)(G,=B,) |
+[V:2] x2 E,2 [F,C] x x2 |
+% 36
+[V:1] [C,C]4 !fermata!:|$
+[V:2] x4 :|
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%vskip 1.0cm
+%%newpage
+%%vskip 1cm
+P:Gavotte II
+%%setbarnb 1
+% 1
+[V:1] |:[M:C|] (3GFG (3_AGF | G2-(3GFE (3DEF (3EDC |
+% 2
+[V:1] (3=B,CD (3G,=B,D (3GFG (3_AGF |$
+% 3
+[V:1] (3GFE (3DEF (3EDC (3=B,CD |
+% 4
+[V:1] C2 C,2 :: (3EDE (3FED |
+% 5
+[V:1] E2-(3EFG (3_AGF (3GFE |$
+% 6
+[V:1] (3DEF (3B,DF (3B=AB (3cB=A |
+% 7
+[V:1] (3B=AG (3edc (3B=AG (3^FG=A |
+% 8
+[V:1] G2 G,2 (3GFG (3_AGF |$
+% 9
+[V:1] G2-(3GFE (3DEF (3EDC |
+% 10
+[V:1] (3=B,CD (3G,=B,D (3GFG (3_AGF |
+% 11
+[V:1] (3GFE (3DEF (3EDC (3=B,CD |$
+% 12
+[V:1] (3CG,E, (3C,E,G, (3CEG (3cd=B |
+% 13
+[V:1] c2-(3c_BA (3GAB (3AGF |
+% 14
+[V:1] (3=EFG (3CDE (3F=EF (3GFE |$
+% 15
+[V:1] (3F (_E_D(3CDE) (3_D (=EF(3GFE) |
+% 16
+[V:1] (3F (CB,(3=A,B,C) (3B, (=EF(3GFE) |
+% 17
+[V:1] (3=B, (FG(3_AGF) (3cBA (3GF=E |$
+% 18
+[V:1] (3FG_A (3G_AF (3=Bcd (3cd=B |
+% 19
+[V:1] (3c_BA (3GFE (3_AGF (3EDC |$
+% 20
+[V:1] (3=B,CD (3G,=B,D (3GFG (3_AGF |
+% 21
+[V:1] (3GFE (3DEF (3EDC (3=B,CD |
+% 22
+[V:1] "@-30,-45Gavotte I da Capo"C2 C,2 :|]$
+%%%%%%%%

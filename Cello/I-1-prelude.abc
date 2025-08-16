@@ -1,0 +1,96 @@
+X:1
+T:1 - Prélude
+M:4/4
+L:1/16
+%Mabc Q:1/4=80
+V:1 clef=bass
+%%MIDI program 42 %% Violoncelle
+V:2 clef=bass
+%%MIDI program 42 %% Violoncelle
+%%score (1 2)
+%
+K:G
+V:1
+%% 1
+(G,,D,B,)A, B,D,B,D, (G,,D,B,)A, B,D,B,D, |
+(G,,E,C)B, CE,CE, (G,,E,C)B, CE,CE, |
+(G,,F,C)B, CF,CF, (G,,F,C)B, CF,CF, |$
+%% 4
+(G,,G,B,)A, B,G,B,G, (G,,G,B,)A, B,G,B,F, |
+(G,,E,B,)A, B,G,F,G, E,G,F,G, B,,D,^C,B,, |
+(^C,G,A,)G, A,G,A,G, (C,G,A,)G, A,G,A,G, |
+%% 7
+(F,A,D)^C DA,G,A, F,A,G,A, D,F,E,D, |$
+%% 8
+(E,,B,,)G,F, G,B,,G,B,, (E,,B,,G,)F, G,B,,G,B,, |
+E,,^C,D,E, D,C,B,,A,, (G,F,E,)D ^CB,A,G, |
+%% 10
+(F,E,D,)D A,DF,A, (D,E,F,)A, G,F,E,D, |
+^G,(D,=F,E,) F,D,^G,D, B,(D,=F,E,) F,D,^G,D, |$
+%% 12
+(C,E,A,)B, CA,E,D, (C,E,A,)B, CA,^F,E, |
+%% 13
+(^D,F,D,F,) A,F,A,F, (D,F,D,F,) A,F,A,F, |
+(G,F,E,)G, F,G,A,F, G,F,E,D, C,B,,A,,G,, |
+(F,,C,D,)C, D,C,D,C, (F,,C,D,)C, D,C,D,C, |$
+%% 16
+(G,,B,,=F,)E, F,B,,F,B,, (G,,B,,=F,)E, F,B,,F,B,, |
+(G,,C,E,)D, E,C,E,C, (G,,C,E,)D, E,C,E,C, |
+(G,,F,C)B, CF,CF, (G,,F,C)B, CF,CF, |
+%% 19
+(G,,D,B,)A, B,G,F,E, D,C,B,,A,, G,,F,,E,,D,, |$
+%% 20
+(^C,,A,,E,)F, G,E,F,G, (C,,A,,E,)F, G,E,F,G, |
+(=C,,A,,D,)E, F,D,E,F, (C,,A,,D,)E, F,D,E,F,|
+%% 22
+(C,,A,,D,)F, (A,^C!fermata!D2-) DA,,B,,=C, D,E,F,G, |
+A,F,D,E, F,G,A,B, CA,F,G, A,B,CD |$
+%% 24
+(_ED^CD) (D=CB,C) CA,F,=E, D,A,,B,,C, |
+%% 25
+D,,(A,,D,)F, A,B,CA, (B,G,D,)C, B,,G,,A,,B,, |
+(D,,G,,B,,)D, G,A,B,G, (^CB,A,_B,) (B,A,^G,A,) |$
+%% 27
+(A,=G,F,)G, G,E,^C,B,, (A,,C,E,)G, A,^CDC |
+%% 28
+(DA,F,)E, F,A,D,F, A,,D,^C,B,, A,,G,,F,,E,, |
+D,,2(=CB, A,G,F,E,) D,(CB,A, G,F,E,D,) |$
+%% 30
+C,(B,A,G, F,E,D,C,) B,,(A,G,F, E,D,C,B,,) |
+%% 31
+A,,(G,F,E,) F,A,D,A, E,A,F,A, G,A,E,A, |
+%% 32
+F,A,D,A, G,A,E,A, F,A,D,A, G,A,E,A, |$
+%% 33
+V:1
+x4 x4 xA,xA, xA,xA, |
+V:2
+X32 |
+F,A,D,A, E,A,F,A, G,xA,x B,xD,x |
+%% 34
+V:1
+xA,xA, xA,xA, xA,xA, xA,xA, |
+V:2
+A,xB,x CxD,x B,xCx DxB,x |
+%% 35
+V:1
+xA,xA, xA,xA, xA,xA, xA,xA, |$
+V:2
+CxB,x CxA,x B,xA,x B,xG,x |
+%% 36
+V:1
+xA,xA, xA,xA, x4 x4 |
+V:2
+A,xG,x A,xF,x G,A,F,A, G,A,E,A, |
+%% 37
+V:1
+F,A,D,E, =F,D,^F,D, G,D,^G,D, A,D,_B,D, |
+%% 38
+=B,D,CD, ^CD,DD, _ED,=ED, =FD,^FD, |$
+%% 39
+(GB,D,)B, GB,GB, (GB,D,)B, GB,GB, |
+%% 40
+(GA,D,)A, GA,GA, (GA,D,)A, GA,GA, |
+(FCD,)C FCFC (FCD,)C FCFC |
+!fermata![G,,B,G]16 |]
+%%%%%%%%%%%%%%%%%%%%%%%%%

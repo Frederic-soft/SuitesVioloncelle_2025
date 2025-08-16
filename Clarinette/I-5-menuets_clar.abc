@@ -1,0 +1,67 @@
+X:1
+T:5 - Menuets
+M:3/4
+L:1/8
+K:Amaj clef=treble_8
+%%MIDI program 71 %% clarinette
+%%
+P:Menuet I
+(A,,E, C2) (B,C/2D/2) |
+(CB,)(A,G,)(A,E,) |
+(F,A,)(DB,)(G,E) |
+!trill!C4 B,2 |
+(B,,G, D2) (CD/2E/2) |
+(DC)(B,A,)(G,F,) |$
+%% 7
+(G,A,/2B,/2) A,G,F,G, |
+E,2 B,,2 E,,2 :: (E,G, B,2) (A,B,/2C/2) |
+(B,A,)(G,F,)(E,G,) |
+C,(E,^A,B,)CE |
+B,,(EDC) D2 |$
+%% 13
+(^E,G,B,)DCB, |
+(CF,A,,)B,DC |
+(B,A,G,)F,C,^E, |
+F,,3 F,=E,D, |
+(C,E, A,2) (E,F,/2=G,/2) |
+(=G,E,)(F,D,)D,,C, |$
+%% 19
+(^D,F, B,2) (F,G,/2A,/2) |
+(A,F,)(G,E,)E,,B,, |
+(E,G,B,)DCE |
+(F,A,C)EDF |
+EG,A,C,E,,G, |
+{A,,}A,6 !fermata!:|$
+%%%%%%%
+%%newpage
+%%vskip 1.5cm
+P:Menuet II
+K:Em
+%% 25
+|: (=CB,C)E,=F,A,, |
+=G,,2 B,2 E,2 |
+(A,^G,A,)=C,D,=F,, |
+(E,,B,,E,)A,^G,B, |
+(CB,C)E,=F,A,, |
+G,,2 B,2 E,2 |
+(A,^G,A,)C,D,=F,, |
+E,,A, ^G,4 ::$
+%% 33
+(E,^G,B,)D=FE |
+(DCB,C) A,2 |
+(D,^F,A,)CED |
+(CB,A,B,)G,=F, |
+E,G,(CB,C)E, |
+=F,A,(CB,C)E |
+D=FECG,B, |
+CG,E,G, C,2 |$
+%% 41
+(^C,E,G,)_B,A,G, |
+(=F,A,DE) =F2 |
+(B,,D,=F,)A,G,F, |
+(E,G,CD) E2 |
+(^G,,B,,D,)=F,E,D, |
+C,E,(A,B,C)A, |
+D,(C"_Menuet I da Capo"B,A,)E,^G, |
+A,,6 :|$
+%%%%%%%

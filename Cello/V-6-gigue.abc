@@ -1,0 +1,47 @@
+X:1
+T:6 - Gigue
+%%%% C:Jean-Sébastien Bach
+M:3/8
+L:1/8
+%Mabc Q:3/8=60
+%%MIDI program 42 %% violoncelle
+K:Cm clef=bass octave=-1
+% 1
+G | E>FD | E>FD | C3/2(B,/2A,/2G,/2) | A,>CG, | F,>EC | D>EC | =B,>DG, |
+% 8
+G3/2(F/2E/2D/2) |$
+% 9
+E>GC | _A3/2(G/2F/2E/2) | F>_AD |
+% 12
+B3/2(A/2G/2F/2) | G>Ec | A>Fd | e3- | e3/2(d/2c/2B/2 |$
+% 17
+c3/2)(B/2A/2G/2 | A3-) | A3/2(G/2F/2E/2 | D3/2)(C/2B,/2A,/2 |
+% 21
+G,3/2)_A/2F | G>BD | E>G,B, | E,2 :|$
+%% 25
+|:E | G>_AF | G>B=A | B3/2(D/2E/2F/2) | B,>CD | E>c=A |
+% 30
+B>^FG | ^F>=AD | d3/2(c/2B/2=A/2) |$
+% 33
+B>dG | F>GD | E>Gc |
+%% 36
+e2d | c>^FG | D>=A^F | G3/2(B,/2C/2D/2) | G,>BG |$
+% 41
+=E>GB |
+% 42
+_d>Bc | A3/2(G/2F/2=E/2) | F>A_E | D>FA | c>AB | G3/2(F/2E/2D/2 |$
+%% 48
+E>)GB | =A3/2(F/2E/2D/2 | E>)=Ac | =B3/2(G/2F/2E/2 | F>)=Bd |
+% 53
+c>Ge | d>Gf | !trill(!e3 | =e3 !trill)!|$
+% 57
+f>d_e | d>=Bc | !trill!=B>cd |
+%% 60
+G3/2(F/2E/2D/2 | E) c2- | c3/2(B/2A/2G/2 | A3/2)(G/2F/2=E/2 |
+% 64
+F3-) |$
+% 65
+F3/2(_E/2D/2C/2 | =B,3/2)(A,/2G,/2F,/2 | E,>)G,=B, |
+% 68
+D>F_A | G>DE | G,>C=B, | C>E,G, | C,2 !fermata!:|]
+%%%%%%%%%%%%%%%%

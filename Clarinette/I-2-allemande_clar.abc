@@ -1,0 +1,67 @@
+%%%% Mesure 19, le trille sur fa se fait avec un sol bécarre.
+% %%postscript /smallupnat{ gsave T -3 24 T .014 dup scale unat ufill grestore}!
+% %%deco unat 3 smallupnat 7 0 0
+%%%%
+X:1
+T:2 - Allemande
+M:4/4
+L:1/16
+%Mabc Q:1/4=100
+K:Amaj clef=treble_8
+%%MIDI program 71 %% clarinette
+%% 0
+C |
+{A,,E,}C4- C(B,A,G,) (A,E,F,G,) (A,B,CD) |
+(ECA,G,) (A,F,E,D,) (C,D,E,F,) (G,A,B,C) |$
+%% 3
+(DB,A,G,) A,F,G,A, (B,,E,G,A,) B,CDB, |
+%% 4
+(CA,)(A,E,) E,C,(C,A,,) A,,3C DCB,A, |
+(B,CD)B, (A,G,A,)B, !trill!^E,3D CB,A,G, |$
+%% 6
+(A,F,)(F,C,) (C,A,,)(A,,F,,) F,,3C, F,A,G,B, |
+%% 7
+(A,G,F,)G, A,^D(A,G, A,)D(F,G, A,)F,B,,A, |
+MG,2E,F, G,E,A,F, G,E,G,A, B,C=DB, |$
+%% 9
+(CE,A,,)E, CA,B,G, A,F,A,B, C^DEC |
+%% 10
+(^DF,A,,)F, DB,CE DB,EC DB,FA, |$
+%% 11
+!trill!G,3E (B,A,)(G,F,) E,B,A,F, G,E,B,=D, |
+%% 12
+!trill!C,3A, (E,D,)(C,B,,) A,,E,D,B,, C,A,,E,G,, |
+%% 13
+F,,(A,,B,,C, ^D,E,F,G, A,B,^DE FB,)A2 |$
+%% 14
+E,AGF GEB,E (E,G,B,)=D !trill!C3B, |
+%% 15
+{A,,E,}C3B, (A,G,F,)E ^DFB,A, G,E,B,,^D, |
+%% 16
+E,,3B,, E,G,B,^D EB,G,E, E,,3 ::
+%% 16
+B, |
+{E,}B,4- B,G,A,B, (E,F,G,)A, B,G,E,D, |
+%% 18
+(C,E,A,)G, A,B,CD ECB,A, (=G,F,G,)E |$
+%% 19
+!trill!"^♮"F,2{E,}D,2 DB,,C,D, E,,DCD ECDB, |
+!trill!^A,2F,2 CE,D,C, D,F,G,^A, B,(DCB,) |
+%% 21
+E2(C,D,) (E,F,=G,)B,, !trill!^A,,3F, CEDC |$
+%% 22
+{B,,F,}D3C B,=A,=G,F, G,E,=CB, (CDE)B, |
+(^A,B,^C)F, =G,(E,D,C,) D,F,B,C !trill!{F,}C3B, |$
+%% 24
+{B,,F,}B,3C DCDA, (G,A,B,)F, E,D,C,B,, |
+(A,,E,G,)D CB,A,B, CDEF EF=GE |
+F2A,2 D,EDC (B,CD)F E3D |$
+%% 27
+E2B,2 C,(DCB,) (A,G,F,)A, CEDC |
+D2A,2 (B,,F,G,A,) G,(B,CD) E,D,C,B,, |
+(A,,E,G,)B, DB,G,E, {A,,E,}C3E, F,A,B,^D |$
+%% 30
+E(B,G,F,) E,=G,A,C =D(A,F,E,) D,F,B,D |
+(G,B,D)F E3D, C,A,B,,A,, E,,B,,A,G, |
+A,A,,C,E, A,CEG AECA, A,,3 :|$
+%%%%%

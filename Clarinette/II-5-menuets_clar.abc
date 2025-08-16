@@ -1,0 +1,114 @@
+X:1
+T:5 - Menuets
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/8
+%Mabc Q:1/4=120
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+%%%%
+K:Em clef=treble_8
+%% 1
+[P:Menuet I]
+{E,G,}B,4 C2 |
+%% 2
+{D,F,}(CB,)CA, B,2 |
+%% 3
+{C,}E,2 A,2 G,F, |
+%% 4
+{B,,}(G,F,E,)^D,^C,B,, |
+%% 5
+{E,G,}B,4 C2 |
+%% 6
+{F,}(CB,)CA, D2 |
+%% 7
+{G,}B,2 {C,G,}E2 {A,,}F2 |
+%% 8
+{B,,F,}^D6 :||:
+%% 9
+{B,}F4 (EF/2G/2) |
+%% 10
+{A,}(FE^DFB,A,) |
+%% 11
+{G,}(B,2 E2) {F,}^D2 |
+%% 12
+{E,}(AGFGE)D |
+%% 13
+{A,}C2 G,2 {F,}D2 |
+%% 14
+{G,}B,A,B,G, {C,F,}E2 |$
+%% 15
+{B,,G,}D2 CB,A,B, |
+%% 16 
+G,F,G,B,A,C |
+%% 17
+{^G,}!trill!B,4 C2 |
+%% 18
+{=F,}DCDB, !trill!^G,2 |
+%% 19
+{C,A,}E2 {D,A,}D2 {E,}(CB,) |$
+%% 20
+{A,,E,}(DCB,CA,)C |
+%% 21
+{A,}(E2 ^D2) {G,}E2 |
+%% 22
+{^D,}(A,G,)A,F, G,2 |
+%% 23
+A,,A, {B,,}!ptrill!F,3 E, |
+%% 24
+{E,,B,,}E,6 !fermata!:|$
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+K:Emaj clef=treble_8
+%Mabc Q:1/4=140
+%% 1
+[P:Menuet II]
+|: !trill!G,2 E,F,G,A, |
+%% 2
+B,2 G,,2 B,2 |
+%% 3
+(A,,C,) F,2 A,2 |
+%% 4
+(E,D,C,D,B,,A,,) |
+%% 5
+[V:1 stem=up ]G,,y6[V:1 stem=down ](EDCB,A,) |
+%% 6
+[V:1 stem=auto ] (CB,A,G,F,E,) |
+%% 7
+(D,E,) A,2 (G,A,/2B,/2) |
+%% 8
+{B,,}!ptrill!F,6 :|$
+%%newpage
+%%vskip 0.5cm
+%% 9
+|: D2 (FEDC) |
+%% 10
+D2 A,,2 D2 |
+%% 11
+(G,B,) E2 G2 |
+%% 12
+(CB,)(A,G,)(A,C) |
+%% 13
+F,(EDC)(D^B,) |
+%% 14
+E,(C=B,A,G,F,) |
+%% 15
+(A,G,F,E,D,E,) |
+%% 16
+(C,D,E,F,G,A,) |$
+%% 17
+(B,A,G,A,B,C) |
+%% 18
+=D2 ^E,,2 D2 |
+%% 19
+(CB,=DCB,A,) |
+%% 20
+(G,A,)(B,G,)(A,F,) |
+%% 21
+!trill!^D,2 (B,,C,D,E,) |
+%% 22
+(F,G,A,C) B,2 |
+%% 23
+"_Menuet I da Capo"(A,G,)(F,E,)(F,D,) |
+%% 24
+E,6 :|$
+%%%%%%%%%%%%%%%%

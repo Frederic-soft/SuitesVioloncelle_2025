@@ -1,0 +1,126 @@
+X:1
+T:5 - Bourrées
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/8
+%Mabc Q:1/4=120
+%%MIDI program 71 % clarinette
+%%MIDI gracedivider 2
+%%%%
+K:D clef=treble_8
+P:Bourrée I
+%% 0
+F,G, |
+%% 1
+A,2 (D,C,) D,2 D2 |
+%% 2
+{A,,E,}C2 B,C A,2 E,F, |
+%% 3
+G,2 (C,B,,) C,2 A,2 |
+%% 4
+({D,,A,,}G,F,E,F,) D,2 (DC) |$
+%% 5
+(B,CD)A, (^G,CD)F, |
+%% 6
+(E,CD)D, C,E,^G,B, |
+%%% 7
+E2 CA, E,2 ^G,2 |
+%% 8
+A,2 E,2 A,,2 :|$
+|: CD |
+%% 9
+E2 CA, G,2 C2 |
+%% 10
+(F,A,D)E F2 D^A, |
+%% 11
+B,2 G,B, E,(DCB,) |
+%% 12
+F,B,^A,^G, F,2 (CF,) |$
+%% 13
+D(B,^A,B,) (CF,)(DF,) |
+%%% 14
+E(CB,C) (DF,)(EE,) |
+%% 15
+D,FCD F,2 (B,^A,) |
+%% 16
+B,2 F,2 B,,2 B,C |
+%% 17
+D2 (^G,F,) G,2 E,2 |$
+%% 18
+(A,,E,D)B, C2 A,=G, |
+%% 19
+F,A,DF, E,GFD |
+%% 20
+EDCB, A,2 CD |
+%%% 21
+(ECA,)B, (CA,E,)F, |
+%% 22
+(G,E,C,)D, (E,C,A,,)G, |$
+%% 23
+(F,D,A,,)A, (F,D,A,,)D |
+%% 24
+(A,F,)(G,E,) (F,D,)(A,,F,) |
+%% 25
+(E,F,G,)D, (C,F,G,)B,, |
+%% 26
+(A,,F,G,)G,, F,,A,,C,E, |
+%% 27
+A,2 F,D, A,,2 C,2 |
+%% 28
+{D,,}D,6 !fermata!:|$
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+K:Am
+%Mabc Q:1/4=140
+P:Bourrée II
+%% 28
+|: DE |
+%% 29
+F2 ED ^C2 D2 |
+%% 30
+(ED^CB,) (A,G,F,E,) |
+%% 31
+F,(A,G,F,) E,(G,F,E,) |$
+%% 32
+D,^C,D,E, F,G,A,_B, |
+%% 33
+C2 _B,A, G,2 F,2 |
+%%% 34
+E,F,G,A, _B,CDE |
+%% 35
+F2 ED C_B,A,G, |
+%% 36
+F,6 :|$
+|: F,G, |
+%% 37
+A,2 A,G, A,2 =B,2 |
+%% 38
+(CB,)(CD) (CD)(EC) |
+%% 39
+(A,C)(B,C) (DC)(B,A,) |
+%%% 40
+^G,2 ^F,^G, E,2 (ED) |
+%% 41
+E2 (=F,E,) F,2 A,2 |$
+%% 42
+(D^CD)E F2 E2 |
+%% 43
+(D=C)(B,A,) (CB,)(A,^G,) |
+%% 44
+A,2 E,2 A,,2 A,_B, |
+%% 45
+C2 (_B,A,) (G,^F,)(G,A,) |
+%%% 46
+(C_B,)(A,G,) E4- |
+%% 47
+E^CDE FEDF |$
+%% 48
+(ED^C=B,) (A,G,F,E,) |
+%% 49
+(F,E,)(G,F,) (A,G,)(_B,A,) |
+%% 50
+(A,,=B,,^C,D,) (E,F,G,E,) |
+%% 51
+(G,F,)(E,D,) "_Bourrée I da Capo"(F,E,)(D,^C,) |
+%% 52
+{D,,}D,6 :|$
+%%%%%%%%%%%%%%%%%%%%%%

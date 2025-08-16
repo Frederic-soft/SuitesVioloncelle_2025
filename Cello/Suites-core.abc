@@ -1,0 +1,277 @@
+%%%%
+%%annotationfont Times-BoldItalic 16
+%%abc-include "./inc/a4paper.abc"
+%%abc-include "./inc/ps-header.abc"
+
+%%topmargin 0.5cm
+%%botmargin 0.5cm
+%%leftmargin 1.0cm
+%%rightmargin 1.0cm
+%%%
+%%topspace 0.5cm
+%%titlespace 0.0cm
+%%composerspace 0.0cm
+%%musicspace 0.0cm
+%%%
+%%% Switches
+%%measurenb 0       % bar numbers every X bars (0: at every start of line, -1: no bar numbers)
+%%printtempo 0      % print tempo (Q: field)
+%%contbarnb 1       % continuous numbering of bars in repeats (0: reset bar number in repeats)
+%%continueall 0     % ignore line breaks in tune
+%%stretchlast 1
+%
+%%maxshrink 1.0
+%%breaklimit 1.0
+%%linebreak $
+%
+%%oneperpage false
+%%splittune true
+%
+%%scale 0.68
+%
+%%setfont-1 TimesBold 12
+%
+% %%%%%%%%%%%%
+%%vskip 10cm
+%%textoption center
+%%text Suite n°1 BWV 1007
+%%newpage
+%%vskip 1cm
+%%newpage
+%%%%%%%%%%%%%% Suite I, 1 - Prélude
+%%staffsep 1.8cm
+%%abc-include "I-1-prelude.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite I, 2 - Allemande
+%%musicspace 0.5cm
+%%abc-include "I-2-allemande.abc"
+
+%%musicspace 0.0cm
+%%newpage
+%%%%%%%%%%%%%% Suite I, 3 - Courante
+%%abc-include "I-3-courante.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite I - Sarabande et Menuets
+%%staffsep 2.8cm
+%%abc-include "I-4-sarabande.abc"
+
+%%vskip 1cm
+%%staffsep 2.5cm
+%%abc-include "I-5-menuets.abc"
+
+%%%%%%%%%%%%%% Suite I - Gigue
+%%vskip 1.5cm
+%%staffsep 2.3cm
+%%abc-include "I-6-gigue.abc"
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%
+%%newpage
+%%vskip 1cm
+%%newpage
+%%vskip 10cm
+%%textoption center
+%%text Suite n°2 BWV 1008
+%%newpage
+%%%%%%%%%%%%%% Suite II, 1 - Prélude
+%%staffsep 2.2cm
+%%abc-include "II-1-prelude.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite II, 2 - Allemande
+%%staffsep 1.8cm
+%%abc-include "II-2-allemande.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite II, 3 - Courante
+%%staffsep 1.8cm
+%%abc-include "II-3-courante.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite II - Sarabande et Menuets
+%%staffsep 2.0cm
+%%abc-include "II-4-sarabande.abc"
+
+%%vskip 1cm
+%%staffsep 1.8cm
+%%abc-include "II-5-menuets.abc"
+
+
+%%%%%%%%%%%%%% Suite II - Gigue
+%%staffsep 1.7cm
+%%abc-include "II-6-gigue.abc"
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%
+%%newpage
+%%vskip 1cm
+%%newpage
+%%vskip 10cm
+%%textoption center
+%%text Suite n°3 BWV 1009
+%%newpage
+%%%%%%%%%%%%%% Suite III, 1 - Prélude
+%%vskip 1cm
+%%staffsep 2.1cm
+%%abc-include "III-1-prelude.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite III, 2 - Allemande
+%%staffsep 1.8cm
+%%abc-include "III-2-allemande.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite III, 3 - Courante
+%%staffsep 1.8cm
+%%abc-include "III-3-courante.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite III - Sarabande et Bourrées
+%%vskip 1cm
+%%staffsep 2.5cm
+%%musicspace 1.0cm
+%%abc-include "III-4-sarabande.abc"
+
+%%staffsep 2.0cm
+%%abc-include "III-5-bourrees.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite III - Gigue
+%%musicspace 0.0cm
+%%staffsep 1.8cm
+%%abc-include "III-6-gigue.abc"
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%
+%%newpage
+%%vskip 10cm
+%%textoption center
+%%text Suite n°4 BWV 1010
+%%newpage
+%%%%%%%%%%%%%% Suite IV, 1 - Prélude
+%%staffsep 2.0cm
+%%abc-include "IV-1-prelude.abc"
+
+%%staffsep 46pt
+
+%%newpage
+%%%%%%%%%%%%%% Suite IV, 2 - Allemande
+%%staffsep 1.6cm
+%%abc-include "IV-2-allemande.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite IV, 3 - Courante
+%%staffsep 1.6cm
+%%abc-include "IV-3-courante.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite IV - Sarabande et Bourrées
+%%staffsep 2.3cm
+%%musicspace 0.5cm
+%%abc-include "IV-4-sarabande.abc"
+
+%%vskip 1cm
+%%staffsep 1.9cm
+%%abc-include "IV-5-bourrees.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite IV - Gigue
+%%staffsep 1.4cm
+%%abc-include "IV-6-gigue.abc"
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%
+%%newpage
+%%vskip 10cm
+%%textoption center
+%%text Suite n°5 BWV 1011
+%%newpage
+%%vskip 1cm
+%%newpage
+%%%%%%%%%%%%%% Suite V, 1 - Prélude
+%%staffsep 1.85cm
+%%musicspace 0.1cm
+%%topspace 0.2cm
+%%abc-include "V-1-prelude.abc"
+
+%%newpage
+%%topspace 0.3cm
+%%%%%%%%%%%%%% Suite V, 2 - Allemande
+%%staffsep 1.7cm
+%%musicspace 0.0cm
+%%abc-include "V-2-allemande.abc"
+
+%%topspace 0.5cm
+%%musicspace 0.1cm
+%%newpage
+%%%%%%%%%%%%%% Suite V, 3 - Courante
+%%staffsep 1.7cm
+%%abc-include "V-3-courante.abc"
+
+%%vskip 0.2cm
+%%%%%%%%%%%%%% Suite V - Sarabande
+%%staffsep 1.7cm
+%%musicspace 0cm
+%%abc-include "V-4-sarabande.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite V - Gavottes
+%%staffsep 2.5cm
+%%topspace 1.0cm
+%%musicspace 0.7cm
+%%abc-include "V-5-gavottes.abc"
+
+%%newpage
+% %%vskip 0.3cm
+%%%%%%%%%%%%%% Suite V - Gigue
+%%staffsep 2.5cm
+%%abc-include "V-6-gigue.abc"
+
+%%musicspace 0.5cm
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%
+%%newpage
+%%musicspace 0.5cm
+%%toppace 0.5cm
+%%vskip 10cm
+%%textoption center
+%%text Suite n°6 BWV 1012
+%%newpage
+%%%%%%%%%%%%%% Suite VI, 1 - Prélude
+%%staffsep 2.05cm
+%%abc-include "VI-1-prelude.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite VI, 2 - Allemande
+%%staffsep 1.95cm
+%%abc-include "VI-2-allemande.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite VI, 3 - Courante
+%%staffsep 1.9cm
+%%abc-include "VI-3-courante.abc"
+
+
+%%%%%%%%%%%%%% Suite VI, 4 - Sarabande
+%%vskip 0.5cm
+%%staffsep 2.3cm
+%%musicspace 0.2cm
+%%abc-include "VI-4-sarabande.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite VI, 5 - Gavottes
+%%staffsep 2.8cm
+%%abc-include "VI-5-gavottes.abc"
+
+%%newpage
+%%%%%%%%%%%%%% Suite VI - Gigue
+%%topspace 0.1cm
+%%titlespace 0cm
+%%musicspace 0cm
+%%staffsep 1.6cm
+%%stretchlast 0
+%%abc-include "VI-6-gigue.abc"
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,0 +1,99 @@
+X:1
+T:4 - Sarabande
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/16
+%Mabc Q:1/4=50
+V:1 clef=bass octave=-1
+V:2 clef=bass octave=-1
+%%MIDI program 1 42 %% violoncelle
+%%MIDI program 2 42 %% violoncelle
+%%staves (2 1)
+K:Dm clef=bass octave=-1
+%% 1
+[V:1 stem=down] D4   A,8       |
+[V:2 stem=up  ] D3E "^tr"E6 DE |
+%% 2
+[V:1] [D,A,]6 x6 |
+[V:2] F6 E2D2C2  |
+%% 3
+[V:1 stem=auto] x4     x4                 x4   |
+%[V:2 stem=auto] B,2G2 !parupmordent!F2(EF GABD)|
+[V:2 stem=auto] B,2G2 !uppermordent!F2(EF GABD)|
+%% 4
+[V:1] x6         x6        |
+[V:2]!trill!^C6 =B,2A,2G,2 |
+%% 5
+[V:1 stem=down] [F,A,]4    A,8   |
+[V:2 stem=up  ] D3E "^(tr)"E6 DE |
+%% 6
+[V:1] [D,A,]6 x6 |$
+[V:2] F6  D2E2F2 |
+%% 7
+[V:1 stem=auto] x4      x4      x4   |
+[V:2 stem=auto] G2(BA) (cB)(AG) d2F2 |
+%% 8
+[V:1 stem=down] [C,G,]6 x6      |
+[V:2 stem=up  ] "^tr"E6 D2C2B,2 |
+%% 9
+[V:1] A,4    [B,D]8  |
+[V:2] F2(GA) A6 (GF) |
+%% 10
+[V:1] B,4    [G,F]8  |
+[V:2] G2(AB) B6 (cd) |
+%% 11
+[V:1 stem=auto] x4   x4     x4   |
+[V:2 stem=auto] E2F2 C,2G,2 F2E2 |
+%% 12
+[V:1] x4 x8  :|$
+[V:2] F4 F,8 :|
+%%vskip 0cm
+%% 13
+[V:1 stem=down] |: F2_E2   E6 x2 |
+[V:2 stem=up  ] |: A4 "^tr"A6 B2 |
+%% 14
+[V:1] D4          x4    x4   |
+[V:2] c2(BA) "^tr"^F3_E D2C2 |
+%% 15
+[V:1 stem=auto] x4    x4     x4    |
+[V:2 stem=auto] B,2G2 A,2^F2 _e2d2 |
+%% 16
+[V:1 stem=down] [G,D]6 x6      |
+[V:2 stem=up  ]"^tr"B6 A2G2=F2 |
+%% 17
+[V:1 stem=auto] x12              |$
+[V:2 stem=auto] E2(B,2A,2)F2G2A2 |
+%% 18
+[V:1] x12                |
+[V:2] D2(_A,2G,2)_E2F2G2 |
+%% 19
+[V:1]  x12                 |
+[V:2] ^C2B2 A2(GF) =E2(FD) |
+%% 20
+[V:1] x12               |
+[V:2] ^C2(EA) A,3G F2E2 |
+%% 21
+[V:1 stem=down] B,4    G,8     |
+[V:2 stem=up  ] D2(EF) F6 (ED) |
+%% 22
+[V:1] G,4   [^C,B,]6 x2  |$
+[V:2] E2(FG) G6     (AB) |
+%% 23
+[V:1 stem=down][F,A,D]2z2 z2G,2            A,4    |
+[V:2 stem=up  ]A2(^cd)    D2(EF/2G/2) "^tr"F2(ED) |
+%% 24
+[V:1] x4 x4         x4    |
+[V:2] D4 D,(A,=B,^C DEFG) |$
+%% 25
+[V:1] F4      ^F6  x2  |
+[V:2] (A=BcB) c6 (=BA) |
+%% 26
+[V:1] [G,D]4   ^G6 x2  |
+[V:2] (=B^cdc) d6 (ef) |
+%% 27
+[V:1] x4      x4    [V:1 stem=auto] x4     |
+[V:2] (d^cd)F A,2E2 [V:2 stem=auto](d2^c2) |
+%% 28
+[V:1] x4 x8  :|
+[V:2] d4 D,8 :|
+%%%%%%%%%%%%%%%%%%%%%%

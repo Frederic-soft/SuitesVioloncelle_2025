@@ -1,0 +1,239 @@
+X:1
+T:6 - Gigue
+%%%% C:Jean-Sébastien Bach
+M:3/8
+L:1/16
+%Mabc Q:3/8=60
+V:1 clef=bass octave=-1
+V:2 clef=bass octave=-1
+%%MIDI program 1 42 %% violoncelle
+%%MIDI program 2 42 %% violoncelle
+%%staves (2 1)
+K:Dm clef=bass octave=-1
+%%setbarnb 1
+%% 1
+[V:1] x2 | x6    |
+[V:2] A2 | D4 B2 |
+%% 2
+[V:1]  x6    |
+[V:2] ^C4 G2 |
+%% 3
+[V:1]  x6    |
+[V:2] FEFGA2 |
+%% 4
+[V:1]  x6   |
+[V:2] D4 d2 |
+%% 5
+[V:1]  x6      |
+[V:2] (EFG2)B2 |
+%% 6
+[V:1]  x6      |
+[V:2] (CDE2)c2 |
+%% 7
+[V:1]  x6    |
+[V:2] AGABcA |
+%% 8
+[V:1]  x6          |
+[V:2] !trill!F4 A2 |
+%% 9
+[V:1]  x6         |
+[V:2] (=B,2G2)^C2 |
+%% 10
+[V:1]  x6            |$
+[V:2] (D2F)(=C_B,A,) |
+%% 11
+[V:1]  x6         |
+[V:2] (G,2_E2)A,2 |
+%% 12
+[V:1]  x6            |
+[V:2] (B,2D)(A,G,F,) |
+%% 13
+[V:1]  x6        |
+[V:2] (E,2^C2)B2 |
+%% 14
+[V:1] x6       |
+[V:2] A2(GFED) |
+%% 15
+[V:1] A,6      |
+[V:2] (EFGEFD) |
+%% 16
+[V:1]  x6       |
+[V:2] (E2A,2)c2 |
+%% 17
+[V:1]  D6       |
+[V:2] (cd_ecdA) |
+%% 18
+[V:1] D2B,2D2 |
+[V:2] B4   B2 |
+%% 19
+[V:1] E6       |$
+[V:2] (BcdBcG) |
+%% 20
+[V:1] F2F,2F2 |
+[V:2] A4   A2 |
+%% 21
+[V:1]  D2D2D2       |
+[V:2] (=Bc)(dB)(cA) |
+%% 22
+[V:1]  D2D2D2      |
+[V:2] (de)(fd)(ec) |
+%% 23
+[V:1] D2D2D2        |
+[V:2] (=Bc)(dB)(cA) |
+%% 24
+[V:1] D4  x2 |
+[V:2] e4 ^G2 |
+%% 25
+[V:1] [CE]2 x4      |$
+[V:2] (A=B)(cA)(dB) |
+%% 26
+[V:1]  D2   x4      |
+[V:2] (A=B)(cA)(dB) |
+%% 27
+[V:1]  E2   x4      |
+[V:2] (A=B)(cA)(dB) |
+%% 28
+[V:1]  F2   x4      |
+[V:2] (A=B)(cA)(de) |
+%% 29
+[V:1] ^G2 x4    |
+[V:2] f2(edc=B) |
+%% 30
+[V:1]         x6                             |
+[V:2 stem=up] C,y8[V:2 stem=down](edc)(=B^G) |
+%% 31
+[V:1]            x6           | x4  :|$
+[V:2 stem=auto] (AF)(ED)(E^C) | A,4 :|
+%%32
+[V:1] |: x2 | x6    |
+[V:2] |: c2 | F4 d2 |
+%% 34
+[V:1] x6    |
+[V:2] E4 B2 |
+%% 35
+[V:1] x6     |
+[V:2] AGABc2 |
+%% 36
+[V:1] x6    |
+[V:2] F4 A2 |
+%% 37
+[V:1]  x6        |
+[V:2] (DEF)DC=B, |
+%% 38
+[V:1]  x6      |
+[V:2] (GAG)FED |
+%% 39
+[V:1]  x6      |
+[V:2] (EDE)FGE |
+%% 40
+[V:1] x6    |
+[V:2] C4 E2 |
+%% 41
+[V:1]  x6         |$
+[V:2] (^FGA)CB,A, |
+%% 42
+[V:1]  x6          |
+[V:2] (B,DG)B,A,G, |
+%% 43
+[V:1]  x6          |
+[V:2] (^F,A,C)_EDC |
+%% 44
+[V:1]  x6         |
+[V:2] (B,A,B,)DGB |
+%% 45
+[V:1]  x6         |
+[V:2] (_AGA)^FG_e |
+%% 46
+[V:1] x6        |
+[V:2] D2(G2^F2) |
+%% 47
+[V:1] x6           |
+[V:2] G(_ED)(CD)B, |
+%% 48
+[V:1] x6     |
+[V:2] G,4 B2 |
+%% 49
+[V:1 stem=up  ]  B4     x2 |[V:1 stem=auto]$
+[V:2 stem=down] (,=EFG)EFD |[V:2 stem=auto]
+%% 50
+[V:1]  x6       |
+[V:2] (CDE)CDB, |
+%% 51
+[V:1]  x6           |
+[V:2] (A,B,C)A,B,G, |
+%% 52
+[V:1] x6     |
+[V:2] F,4 A2 |
+%% 53
+[V:1 stem=up  ]  A4    x2 |
+[V:2 stem=down] (,DEF)DEC |
+%% 54
+[V:1 stem=auto]  x6         |
+[V:2 stem=auto] (B,CD)B,CA, |
+%% 55
+[V:1]  x6            |
+[V:2] (G,A,B,)G,A,F, |
+%% 56
+[V:1] x6     |
+[V:2] E,4 G2 |
+%% 57
+[V:1]  x6          |$
+[V:2] (A,=B,^C)DEG |
+%% 58
+[V:1]  x6       |
+[V:2] (FGA)^cdF |
+%% 59
+[V:1]  x6      |
+[V:2] (EFG)ABD |
+%% 60
+[V:1]  x6          |
+[V:2] (^CDE)A,B,G, |
+%% 61
+[V:1]  [F,A,]2 x4  |
+[V:2] (DE)(FD)(GE) |
+%% 62
+[V:1]  G,2 x4      |
+[V:2] (DE)(FD)(GE) |
+%% 63
+[V:1]  A,2 x4      |$
+[V:2] (DE)(FD)(GE) |
+%% 64
+[V:1]  B,2 x4      |
+[V:2] (DE)(FD)(GE) |
+%% 65
+[V:1] x6        |
+[V:2] ^C(BAGFE) |
+%% 66
+[V:1] x6           |
+[V:2] F,(AGF)(E^C) |
+%% 67
+[V:1] x6            |
+[V:2] D(B,A,G,)A,F, |
+%% 68
+[V:1] x6       |
+[V:2] D,A,DEFD |
+%% 69
+[V:1]  G,2G,2G,2    |$
+[V:2] (_EF)(GE)(FD) |
+%% 70
+[V:1]  G,2G,2G,2   |
+[V:2] (GA)(BG)(AF) |
+%% 71
+[V:1]  G,2G,2G,2    |
+[V:2] (_EF)(GE)(FD) |
+%% 72
+[V:1] [G,=E]4 x2   |
+[V:2] ^c4    (d=c) |
+%% 73
+[V:1]  x6      |
+[V:2] (BAGFED) |
+%% 74
+[V:1] x6              |
+[V:2] (^C=B,A,G,F,E,) |
+%% 75
+[V:1] x6        |
+[V:2] D,F,A,DFA |
+%% 76
+[V:1] x4          :|]$
+[V:2] d4 !fermata!:|]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%

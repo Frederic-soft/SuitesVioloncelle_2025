@@ -1,0 +1,126 @@
+X:1
+T:5 - Gavottes
+%%%% C:Jean-Sébastien Bach
+M:C|
+L:1/8
+%Mabc Q:1/2=60
+%%MIDI program 71 %% clarinette
+K:Emaj clef=treble_8
+P:Gavotte I
+%% 0
+{E,B,}G2 G2 |
+%% 1
+{A,,E,C}G2 FE {A,C}FG A2 |
+%% 2
+({F,}EDCB,) {A,,F,D}B2 B2 |
+%% 3
+{G,E}B2 (cB) ({B,}AGFG) |
+%% 4
+({E,B,}AGFE) {E,B,}G2 G2 |$
+%% 5
+{A,,E,C}G2 FE {A,C}FG A2 |
+%% 6
+(EDCB,) {G,}E2 E2 |
+%% 7
+{F,}E2 DE {F,}DC F2 |
+%% 8
+{B,,F,}D4 :|]
+%% 8
+[|:{G,D}B2 B2 |
+%% 9
+{C,G,^E}B2 cB {C}AG c2 |
+%% 10
+({F,C}BAGF) (B,AGF) |
+%% 11
+A,(^EFA) (B,G)(C^E) |$
+%% 12
+F,(CFG) {F,C}A2 {E,C}A2 |
+%% 13
+D,F,B,C DEFG |
+%% 14
+({E,B,}AGFE) (DEF)C |
+%% 15
+(^B,F)(CE) (F,D)(G,^B,) |$
+%% 16
+{C,G,}C4 {C,G,}E2 {B,,G,}E2 |
+%% 17
+{^A,,F,}E2 (DC) (DE) F2 |
+%% 18
+({B,,F,}EDCB,) (CDED) |
+%% 19
+(FE)(GF) (AG) B2 |
+%% 20
+{B,G}F4 {E,B,}G2 G2 |$
+%% 21
+{A,,E,B,}G2 FE {A,C}FG A2 |
+%% 22
+({F,}EDCB,) {A,,F,D}B2 B2 |
+%% 23
+{G,E}B2 (cB) ({B,}AGFG) |
+%% 24
+({E,B,}AGFE) {C,E,}G2 G2 |$
+%% 25
+({A,,E,C}GBAG) (FEDC) |
+%% 26
+{F,}D(cBA GFED) |
+%% 27
+(CB,) {G,E}B2 {B,}G2 FE |
+%% 28
+{E,,B,,G,}E4 !fermata!:|]$
+%%%%%%%%%%%%%%%%%%%%%%
+%%vskip 0.5cm
+P:Gavotte II
+%%setbarnb 1
+%% 0
+|: {E,B,}GF G2 |
+%% 1
+B,2 {G,}B,2 {A,}C2 {F,}D2 |
+%% 2
+{E,}EDEF {E,,B,,G,}EF G2 |
+%% 3
+B,2 {G,}B,2 {A,}C2 {F,}D2 |
+%% 4
+{E,}E4 :|]
+%% 4
+[|: {G,}B,A, {E,}B,2 |
+%% 5
+{A,}C2 {E,}E2 ({G,}E=D)({E,}CB,) |
+%% 6
+{A,}C2-{E,}C2 {G,}B,2 {E,}E2 |
+%% 7
+{A,}C2 {G,}E2 {F,}DC{E,}DE |$
+%% 8
+{E,D}F4 {E,B,}GF G2 |
+%% 9
+B,2 {G,}B,2 {A,}C2 {F,}D2 |
+%% 10
+{E,}EDEF {E,,B,,G,}EF G2 |
+%% 11
+B,2 {G,}B,2 {A,}C2 {F,}D2 |
+%% 12
+{E,}E4 {E,}EB,EF |$
+%% 13
+{E,}GB,{E,}AB, {E,}GB,{E,}FB, |
+%% 14
+{E,}GB,{E,}BB, {E,}AB,{E,}FB, |
+%% 15
+{E,}GB,FE {E,}DEFD |
+%% 16
+{E,}EB,CB, (EB,E)F |$
+%% 17
+{E,}GB,{E,}AB, {E,}GB,{E,}FB, |
+%% 18
+{E,}GB,{E,}BB, {E,}AB,{E,}FB, |
+%% 19
+{E,}GB,FE {E,}DEFD |$
+%% 20
+{E,}B,4 {E,B,}GF G2 |
+%% 21
+B,2 {G,}B,2 {A,}C2 {F,}D2 |
+%% 22
+{E,}EDEF {E,,B,,G,}EF G2 |
+%% 23
+B,2 {G,}B,2 {A,}C2 {F,}D2 |
+%% 24
+"@-80,-60Gavotte I da Capo"{E,}E4 :|]$
+%%%%%%%%%%%%%%%%%%%%%%

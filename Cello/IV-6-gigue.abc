@@ -1,0 +1,93 @@
+X:1
+T:6 - Gigue
+%%%% C:Jean-Sébastien Bach
+M:12/8
+L:1/8
+%Mabc Q:3/8=100
+%%MIDI program 42 %% violoncelle
+K:Eb clef=bass octave=-1
+%% 1
+E | (EDE) (B,CD) (EDE) (GFG) |
+% 2
+(EDE) (B,CD) E,3- E,2 G |
+% 3
+(FEF) (BGA) (GFG) (EFG) |$
+%% 4
+(FEF) (BGA) (GFG) (EGF) |
+% 5
+(EDE) (c=AB) (AGA) (FAF) |
+% 6
+(EDE) (c=AB) (AGA) (FAE) |$
+% 7
+(DCD) (d=AB) (EDE) (d=AB) |
+%% 8
+(FEF) (d=AB) (GFG) (d=AB) |
+% 9
+(EDE) (CEB,) (=A,EG,) (A,EF,) |$
+% 10
+(B,DF) (BDF) B,3- B,2 :||: B |
+% 11
+(B=AB) (FGA) (B=AB) (dcd) |
+%% 12
+(B=AB) (FG=A) B,3- B,2 d |$
+% 13
+(dcd) (_AGA) (FEF) (=B,Fd) |
+% 14
+(dcd) (AGA) (FEF) (=B,DF) |
+% 15
+(EDE) (CE_B,) (A,CF) (AcE) |$
+%% 16
+(DCD) (B,DA,) (G,B,E) (GBD) |
+% 17
+(CB,C) (A,CG,) (F,A,D) (FAC) |
+% 18
+(=B,DG) (=BdF) (EGc) (Gc=B) |$
+%% 19
+(c=Bc) (G=A=B) (cBc) (ede) |
+% 20
+(c=Bc) (EFG) (CE^F) (=AcA) |
+% 21
+(^F=Ac) (edc) (B=AG) (DG^F) |$
+%% 22
+(G^FG) (B^FG) (CB,C) (B^FG) |
+% 23
+(DCD) (B^FG) (EDE) (B^FG) |
+% 24
+(=AcG) (^Fc=E) (Dc=E) (^FcG) |$
+%% 25
+(=AcG) (^Fc=E) (Dc=E) (^FcD) |
+% 26
+(B=AG) (DG^F) (GDB,) G,2 E |
+% 27
+(EDE) (B,CD) (EDE) (GFG) |$
+% 28
+(EDE) (B,CD) E,3- E,2 G |
+%% 29
+(FEF) (BGA) (GFG) (EFG) |
+% 30
+(FEF) (BGA) (GFG) (EGA) |$
+% 31
+(BAB) (ec_d) (cBc) (ABc) |
+%% 32
+(BAB) (ec_d) (cBc) (ABc) |
+% 33
+(_GFG) (EDE) (CB,C) (=A,CE) |$
+% 34
+(_GFG) (EDE) (CB,C) (=A,CE) |
+%% 35
+(DCD) (B,D_A,) (G,B,E) (GB_D) |
+% 36
+(CB,C) (A,CG,) (F,A,=D) (FAC) |$
+% 37
+(B,A,B,) (G,B,F,) (=E,G,C) (=EGB,) |
+% 38
+(A,G,A,) (F,A,_E,) (D,F,B,) (DFA,) |
+%% 39
+(G,F,G,) (GDE) (A,G,A,) (GDE) |$
+% 40
+(B,A,B,) (GDE) (CB,C) (GDE) |
+% 41
+(AGA) (FAE) (DAC) (DAB,) |
+% 42
+(EGB) eG,B, E,3- E,2 !fermata!:|]$
+%%%%%%%%%%%%%%%%

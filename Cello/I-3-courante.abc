@@ -1,0 +1,69 @@
+X:1
+T:3 - Courante
+M:3/4
+L:1/16
+%Mabc Q:1/4=116
+K:G clef=bass
+%%MIDI program 42 %% violoncelle
+%% 0
+G,2 |
+G,2D,2 G,,2(B,C DCB,A,) |
+B,2D,2 G,,2(G,A, B,2)G,2 |
+E,2C,2 C,,2(A,B, CB,A,G,) |
+F,2D,2 D,,2(D,E, F,G,A,B,) |$
+%% 5
+(CB,C)A, (CB,C)A, D,CB,A, |
+(B,A,B,)G, (B,A,B,)G, C,B,A,G, |
+(F,A,D)D, G,2B,,2 D,,2F,2 |
+[G,,G,]6 (B,A, G,F,E,D,) |$
+%% 9
+E2^C2 A,2(B,C) D(F,E,D,) |
+A,,2D2 T^C2(B,A,) DA,B,F, |
+(G,F,G,)E, (G,F,G,)E, A,,G,F,E, |$
+%% 12
+(F,E,F,)D, (F,E,F,)D, G,,F,E,D, |
+%% 13
+(D^CB,A,) D2(CB,) A,G,F,E, |
+(D,E,D,)F, (D,E,D,)G, (D,E,D,)A, |$
+%% 15
+(D,E,D,)B, (D,E,D,)^C (D,E,D,)D |
+%% 16
+(G,F,E,D, ^C,B,,A,,)G, TF,3E, |
+%% 17
+(A,G,B,A, G,F,E,D,) A,,2^C,2 |
+%% 18
+D,,8 z2 :||:$
+%% 18
+A,2 |
+A,2F,2 D,2(E,F, G,F,E,D,) |
+D2F,2 C,2(B,,C, D,C,B,,A,,) |
+%% 21
+B,,(G,A,B, CB,A,G,) F,2D2 |$
+%% 22
+B,2G,2 G,,2(B,A, CB,A,G,) |
+A,2F,2 ^D,(A,B,C B,A,G,F,) |
+G,2E,2 E,,2(G,F, A,G,F,E,) |$
+%% 25
+(=F,E,F,)A, (F,E,F,)A, CB,CA, |
+^D4- D(=CB,A,) (G,F,)(A,^D,) |
+G,,2B,2 (A,G,)(F,E,) B,,2^D,2 |
+E,,6 (E,F, G,A,B,C) |$
+%% 29
+D2=F,2 B,,2(E,=F, G,F,E,D,) |
+E,2C,2 C,,2(C,D, E,^F,G,E,) |
+(^C,G,A,)G, A,G,C,G, C,G,A,G, |
+(=C,F,A,)F, A,F,C,F, C,F,A,F, |$
+%% 33
+B,,(D,E,=F,) G,,(=F,E,D,) E,(DCB,) |
+^F,(A,B,C) D,(CB,A,) B,2G,,2 |
+C,,2(B,A, CB,A,G,) D,2F,2 |$
+%% 36
+(G,,A,,G,,)B,, (G,,A,,G,,)C, (G,,A,,G,,)D, |
+(G,,A,,G,,)E, (G,,A,,G,,)F, (G,,A,,G,,)G,|
+(CB,A,G, F,E,D,)C TB,3A, |$
+%% 39
+(DCD)B, (DCD)B, E,DCB, |
+(CB,C)A, (CB,C)A, D,CB,A, |
+B,A,B,G, C,B,A,G, D,2F,2 |
+[G,,G,]8 z2 :|$
+%%%%%%%%%%%%%%%%%

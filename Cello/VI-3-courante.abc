@@ -1,0 +1,150 @@
+X:1
+T:3 - Courante
+%%%% C:Jean-Sébastien Bach
+M:3/4
+L:1/8
+%Mabc Q:1/4=140
+V:1 clef=bass octave=-1
+%%MIDI program 1 42 %% violoncelle
+K:D clef=bass octave=-1
+[V:1] d | d(D/2E/2F)DAF [K: clef=alto octave=-1] |
+%% 2
+dAfda=c |
+%% 3
+B(e/2f/2g)ebd |
+%% 4
+c(A/2B/2c)AeG [K: clef=bass octave=-1] |
+%% 5
+F(D/2E/2F)DA=C |$
+%% 6
+B,(G,/2A,/2B,)G,EG, |
+%% 7
+F,A,DG,A,C |
+%% 8
+D2 D,F (G/2F/2E/2D/2) |
+%% 9
+E(C/2D/2E)A,AE |
+%% 10
+F(D/2E/2F)DAF |$
+%% 11
+d(B/2c/2d)BfA |
+%% 12
+^GB E(c/2d/2 e/2d/2c/2B/2) |
+%% 13
+cA E,(d/2e/2 f/2e/2d/2c/2) |
+%% 14
+dB E,(c/2d/2 e/2d/2c/2B/2) |$
+%% 15
+[L:1/16](cBA^G) (AGAB) (cBA^G) |
+%% 16
+(A^GFE) (FEF^G) (AGFE) |
+%% 17
+(FEDC) (DCDE) (FEDC) |$
+%% 18
+(DCB,A,) (B,CDE) (F^GAF) |
+%% 19
+(^GFED) (EF^GA) (BcdB) |
+%% 20
+[L:1/8]c(A/2B/2c)Aec |$
+%% 21
+a(F/2^G/2A)FcA |
+%% 22
+a(C/2D/2E)CAE |
+%% 23
+[L:1/16](FEDC) (DB,^GF) (AGFE) |
+%% 24
+(BA^GF) (GEcB) (dcBA) [K: clef=alto octave=-1] |$
+%% 25
+(edcB) (cAfe) (=gfed) |
+%% 26
+[L:1/8]b(^g/2a/2b)e^gd [K:clef=bass octave=-1] |
+%% 27
+c(A/2B/2c)E^GD |
+%% 28
+A,4 z :|
+%% 29
+|:[K: clef=alto octave=-1]a | a(e/2d/2c)eAc |
+%% 30
+[K: clef=bass octave=-1] EACEA,G, |
+%% 31
+F,(G/2F/2E)dcg |
+%% 32
+[L:1/16]f2d2 D2(fe gfed) |
+%% 33
+e2c2 A,2(ed fedc) |$
+%% 34
+d2F2 B,2(CD) (EDEF) |
+%% 35
+(EFGF) (GA)(GA) (BcdB) |
+%% 36
+c2G2 A,2(B,C) (DCDE) |
+%% 37
+(DEFE) (FG)(FG) (ABcA) |
+%% 38
+B2F2 G,2(A,B,) (CB,CD) |$
+%% 39
+(CDED) (EF)(EF) (GABG) |
+%% 40
+EdcB ^A(gfe) [K: clef=alto octave=-1]b^a^gf |
+%% 41
+b2(=a=g fedc) (dc)(e^A) |
+%% 42
+B4 B,2(Bcd2)B2 |
+%% 43
+^g2d2 b2(a^g agfe) |$
+%% 44
+[L:1/8]a(c/2d/2e)A=gc |
+%% 45
+f=c a(g/2f/2 g/2f/2e/2d/2) |
+%% 46
+g(B/2=c/2d)GBF [K: clef=bass octave=-1] |
+%% 47
+E(^c/2d/2e)AgD |
+%% 48
+C(c/2d/2e)AgA, |$
+%% 49
+[L:1/16]D2(fe) (gfed) (edcB) |
+%% 50
+(cBAG) (AGFE) (FEDC) |
+%% 51
+D2(B,C) (DEFE) (GF)(A^G) |
+%% 52
+A2(CD) (EF=GF) (A^G)(B^A) |$
+%% 53
+[L:1/8]B(D/2E/2F)B^DB |
+%% 54
+=c(E/2F/2G)=cE^c |
+%% 55
+d(F/2G/2 A)(A/2B/2 =c)(a/2c/2) |
+%% 56
+[L:1/16]G,2[K: clef=alto octave=-1](BA B2)(B^c d2)(bd) |
+%% 57
+cGce a2(GF AGFE) |$
+%% 58
+F2d2 a2(FE GFED) |
+%% 59
+E2c2 a(GFE) (DEFG) |
+%% 60
+(FGAB) (ABAG) (FGAB) | (ABcd) (cdcB) (ABcd) |$
+%% 61
+(cdef) (efed) (cdef) |
+%% 62
+(efga) (gfed) (cBAG) [K: clef=bass octave=-1] |
+%% 63
+[L:1/8]F(D/2E/2F)DAF |
+%% 64
+d(B,/2C/2D)B,FD |
+%% 65
+d(F,/2G,/2A,)F,DA, |$
+%% 66
+[L:1/16](B,A,G,F,) (G,E,CB,) (DCB,A,) |
+%% 67
+(EDCB,) (CA,)(FE) (GFED) |
+%% 68
+(AGFE) (FD)(BA) (=cBAG) |
+%% 69
+[L:1/8]e(^c/2d/2e)AcG |
+%% 70
+F(D/2E/2F)A,CG, |
+D,4 z :|]
+%%%%%%%%%%%%%%%

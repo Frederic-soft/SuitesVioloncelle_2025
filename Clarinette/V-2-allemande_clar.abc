@@ -1,0 +1,80 @@
+X:1
+T:2 - Allemande
+%%%% C:Jean-Sébastien Bach
+M:C
+L:1/16
+%Mabc Q:1/4=60
+%%MIDI program 71 %% clarinette
+K:Fmaj clef=treble_8
+D2 | {D,,A,,F,}D4- D(CB,A,) B,3G, {^C,}A,3E, |
+% 2
+({D,}F,4 D,)C,B,,A,, B,,3G,, A,,3E, |
+% 3
+{F,,A,,}E,3D,/2^C,/2 D,3A, B,,3A, (G,F,E,D,) |$
+% 4
+^C,3=B,, A,,^C,E,G, B,3A, (G,F,G,E,) |
+% 5
+{D,,A,,}F,3E, D,^C,D,E, F,E,F,G, A,G,A,_B, |
+% 6
+{A,,F,}C4- CB,A,G, A,3G,/2F,/2 _E3C |$
+% 7
+{B,,F,}D4- DCB,A, B,3D !trill!^F,3G, |
+% 8
+{^F,,D,}A,4- A,G,(^F,G,/2A,/2) D,3C (!trill!B,3C/2A,/2) |$
+% 9
+{G,,D,G,}B,4- B,2DC (B,A,G,F,) (E,F,G,E,) |
+% 10
+B,,4- B,,G,F,E, (D,C,B,,A,, G,,A,,B,,G,,) |
+% 11
+{E,,C,G,}B,4- B,A,B,G, E4- EDEC |$
+% 12
+{E,B,}G4- GFED C3A, _B,3G |
+% 13
+{F,}A,2-A,/2B,/2A,/2G,/2 A,3B, ({^C,}A,4 !trill!G,2F,E,) |
+% 14
+{D,}F,4 D,,3C =B,4 A,^G,A,2 |$
+% 15
+{D,,=B,,^G,}E4- EF,E,D, !trill!C,3D, (E,^F,^G,)A, |
+% 16
+=B,A,^G,A, =B,CDE F3E/2D/2 C3^G, |
+% 17
+{C,E,}A,4 D,(=B,A,B,) {E,}!trill!B,6 A,2 |
+% 18
+A,3E,C,3E, A,,6 :|$
+% 19
+|: E2 | {A,,^C}E4- EDEF ^C3_B,A,3G, |
+% 20
+F,3A, DE,F,G, !trill!^C,3A, E3(F/2G/2) |
+% 21
+F4 D,,3E D3C/2=B,/2 C3D |$
+% 22
+{F,}=B,4- B,B,CD (G,3A,/2=B,/2) (!trill!B,3A,/2B,/2) |
+% 23
+{E,}=C4 E,,C_B,A, G,3F,G,3A, |
+% 24
+{D,F,}B,4- B,D,E,F, {E,}B,3E,F,3G, |$
+% 25
+{C,E,}B,3F,/2E,/2 D,2E,C, {F,}A,2-(A,/2G,/2F,/2E,/2) F,3A, |
+% 26
+_E,,2-E,,/2(A,,/2B,,/2C,/2) D,C,_B,2 (A,4 G,)^F,G,2 |$
+% 27
+{D,,^F,,}C,4- C,C,B,,A,, B,,3G,A,3_B, |
+% 28
+^F,3C (B,2CA,) {D,}!trill!A,6 G,2 |
+% 29
+{=B,,}G,4- G,G,F,E, F,3D (C=B,A,G,) |$
+% 30
+({E,}C3_B,/2A,/2) G,3A, B,3A, (G,F,E,F,/2G,/2) |
+% 31
+^C,3A, E2(F/2E/2D/2E/2 F3)D, A,,3B,,/2=C,/2 |
+% 32
+B,,3A,G,3F E3D (E^CD2) |$
+% 33
+{A,,G,}^C3A, (_B,A,G,F,) (E,D,^C,D,) E,F,G,E, |
+% 34
+B,,3^C (DC=B,A,) D6 {=B,,}^G,2 |
+% 35
+{A,,}A,3F EFGE {E,}!trill!^C6 D2 |
+% 36
+D3A,F,3D, {D,,A,,F,}D6 :|$
+%%%%%%%%%%%%%%%%%%%%%%%

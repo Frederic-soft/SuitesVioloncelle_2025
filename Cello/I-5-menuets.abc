@@ -1,0 +1,66 @@
+%%measurenb 0
+X:1
+T:5 - Menuets
+M:3/4
+L:1/8
+K:G clef=bass
+%%MIDI program 42 %% violoncelle
+%%
+P:Menuet I
+(G,,D, B,2) (A,B,/C/) |
+(B,A,)(G,F,)(G,D,) |
+(E,G,)(CA,)(F,D) |
+TB,4 A,2 |
+(A,,F, C2) (B,C/D/) |
+(CB,)(A,G,)(F,E,) |$
+%% 7
+(F,G,/A,/) G,F,E,F, |
+D,2 A,,2 D,,2 :: (D,F, A,2) (G,A,/B,/) |
+(A,G,)(F,E,)(D,F,) |
+B,,(D,^G,A,)B,D |
+A,,(DCB,) C2 |$
+%% 13
+(^D,F,A,)CB,A, |
+(B,E,G,,)A,CB, |
+(A,G,F,)E,B,,^D, |
+E,,3 E,=D,C, |
+(B,,D, G,2) (D,E,/=F,/) |
+(=F,D,)(E,C,)C,,B,, |$
+%% 19
+(^C,E, A,2) (E,F,/G,/) |
+(G,E,)(F,D,)D,,A,, |
+(D,F,A,)CB,D |
+(E,G,B,)DCE |
+DF,G,B,,D,,F, |
+[G,,G,]6 !fermata!:|$
+%%%%%%%
+%%newpage
+%%vskip 1cm
+%% 25
+|:[P:Menuet II][K:Dm] (B,A,B,)D,_E,G,, |
+F,,2 A,2 D,2 |
+(G,^F,G,)B,,C,_E,, |
+(D,,A,,D,)G,^F,A, |
+(B,A,B,)D,_E,G,, |
+F,,2 A,2 D,2 |
+(G,^F,G,)B,,C,_E,, |
+D,,G, ^F,4 :||:$
+%% 33
+(D,^F,A,)C_ED |
+(CB,A,B,) G,2 |
+(C,=E,G,)B,DC |
+(B,A,G,A,)F,_E, |
+D,F,(B,A,B,)D, |
+_E,G,(B,A,B,)D |
+C_EDB,F,A, |
+B,F,D,F, B,,2 |$
+%% 41
+(=B,,D,F,)_A,G,F, |
+(_E,G,CD) _E2 |
+(A,,C,_E,)G,F,E, |
+(D,F,B,C) D2 |
+(^F,,A,,C,)_E,D,C, |
+B,,D,(G,A,B,)G, |
+C,(B,"_Menuet I da Capo"A,G,)D,^F, |
+G,,6 :|$
+%%%%%%%
