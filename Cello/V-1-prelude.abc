@@ -5,11 +5,11 @@ M:C
 L:1/16
 %Mabc Q:1/4=60
 V:1 clef=bass octave=-1
+%%MIDI program 42 %% Violoncelle
 V:2 clef=bass octave=-1
-K:Eb
+%%MIDI program 42 %% Violoncelle
 %%staves (1 2)
-%%MIDI program 1 42 %% Violoncelle
-%%MIDI program 2 42 %% Violoncelle
+K:Eb
 %%
 %% Sur la partition originale, il est indiqué que la première corde du violoncelle
 %% doit être descendue au sol (au lieu du la). Toutes les notes de la partition
@@ -686,4 +686,4 @@ K:Eb
 % 223
 [V:1][L:1/16] [C,G,=Ec]6 |]$
 [V:2][L:1/8]  xxx |]
-%%%%%%%%%%%
+% %%%%%%%%%%

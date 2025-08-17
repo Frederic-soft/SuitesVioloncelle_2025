@@ -4,10 +4,12 @@ T:1 - Prélude
 M:3/4
 L:1/16
 %Mabc Q:1/4=70
-K:Dm clef=bass octave=-1
+V:1 clef=bass octave=-1
+%%MIDI program 42 %% Violoncelle
+V:2 clef=bass octave=-1
+%%MIDI program 42 %% Violoncelle
 %%staves (1 2)
-%%MIDI program 1 42 %% Violoncelle
-%%MIDI program 2 42 %% Violoncelle
+K:Dm
 [V:1] D2F2 A4- A(FED) |
 [V:2] x4   x4  x4     |
 %% 2
@@ -196,3 +198,4 @@ K:Dm clef=bass octave=-1
 %% 63
 [V:1] d3       |]
 [V:2] [D,A,F]3 |]
+% %%%%%%%

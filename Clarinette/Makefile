@@ -68,8 +68,13 @@ press :
 	make inside
 
 # Use MuseScore to convert to MIDI from MusicXML format
-%.mid : %.xml
-	mscore --export-to $@ $<
+%.mid : %.abc
+	abc2svgxml "$<" -o "$*_midi" -s %M -real_sound 1
+	mscore --export-to "$@" "$*_midi_1.musicxml" && rm "$*_midi_1.musicxml"
+
+# # Use abcmidi to convert to MIDI
+# %.mid : %.abc
+# 	abc2svgmidi $< $* --ss-pref %M && mv $*_1.mid $@
 
 # %.mid : %.abc
 # 	$(ABCPP) -ABC2MIDI -MIDI $< | $(ABCMIDI) - -o $@
@@ -92,6 +97,8 @@ $(DOCUMENT).pdf : $(DOCUMENT).tex $(DOCUMENT)-core.pdf
 $(DOCUMENT)-core.pdf : $(DOCUMENT)-core.abc $(SOURCES)
 
 pdf : $(DOCUMENT).pdf
+
+xml : $(XML)
 
 midi : $(MIDI)
 

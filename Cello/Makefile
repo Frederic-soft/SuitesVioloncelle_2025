@@ -70,13 +70,13 @@ press :
 	make inside
 
 # Use MuseScore to convert to MIDI from MusicXML format
-%.mid : %.xml
-	mscore --export-to $@ $<
+%.mid : %.abc
+	abc2svgxml "$<" -o "$*_midi" -s %M -real_sound 1
+	mscore --export-to "$@" "$*_midi_1.musicxml" && rm "$*_midi_1.musicxml"
 
+# # Use abcmidi to convert to MIDI
 # %.mid : %.abc
-# #	abcpp -'!fermata!'= $< | abc2midi - -o $@
-# 	abc2svgmidi $<; mv "$*_1.mid" $@
-# #	$(ABCPP) -ABC2MIDI -MIDI $< | $(ABCMIDI) - -o $@
+# 	abc2svgmidi $< $* --ss-pref %M && mv $*_1.mid $@
 
 # Use --ss-pref %M for producing XML and MIDI output
 %.xml : %.abc

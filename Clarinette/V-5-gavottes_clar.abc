@@ -6,7 +6,7 @@ L:1/8
 %Mabc Q:1/2=60
 %%MIDI program 71 % clarinette
 %%MIDI gracedivider 2
-K:Fmaj clef=treble_8
+K:Fmaj clef=treble_8 instrument=_B
 P:Gavotte I
 %% 1
 {D,F,}A,2 D2 | {G,}B,2 (CA,) {E,}B,2 (CG,) |

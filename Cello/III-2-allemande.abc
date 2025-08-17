@@ -5,12 +5,11 @@ M:C
 L:1/16
 %Mabc Q:1/4=60
 V:1 clef=bass octave=-1
+%%MIDI program 42 %% violoncelle
 V:2 clef=bass octave=-1
 %%staves (1 2)
-%%MIDI program 1 42 %% violoncelle
-%%MIDI program 2 42 %% violoncelle
+%%MIDI program 42 %% violoncelle
 K:C clef=bass octave=-1
-%%setbarnb 1
 [V:1] xGAB | (cB/2A/2G)F (EG/2F/2E)D (CG,/2F,/2E,)D, C,CDE |
 [V:2] x4   |  x4          x4          x4             x4    |
 %% 2
@@ -82,3 +81,4 @@ K:C clef=bass octave=-1
 %% 24
 [V:1] C,(c/2B/2c)(G/2F/2 G)(E/2D/2E)C [C,G,Ec]4 z :|]$
 [V:2] x4          x4           x4               x :|]
+% %%%%%

@@ -5,11 +5,11 @@ M:3/2
 L:1/4
 %Mabc Q:1/2=44
 V:1 clef=alto octave=-1
+%%MIDI program 42 %% violoncelle
 V:2 clef=alto octave=-1
+%%MIDI program 42 %% violoncelle
 V:3 clef=alto octave=-1
-%%MIDI program 1 42 %% violoncelle
-%%MIDI program 2 42 %% violoncelle
-%%MIDI program 3 42 %% violoncelle
+%%MIDI program 42 %% violoncelle
 %%staves (1 2 3)
 K:D clef=alto octave=-1
 %% 1
@@ -140,4 +140,4 @@ K:D clef=alto octave=-1
 [V:1](cd) [Fd]4 :|$
 [V:2][D,A,F]2 x4 :|
 [V:3]x2 x4 :|
-%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%

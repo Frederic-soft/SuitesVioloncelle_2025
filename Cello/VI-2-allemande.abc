@@ -5,10 +5,10 @@ M:C
 L:1/32
 %Mabc Q:1/8=60
 V:1 clef=alto octave=-1
+%%MIDI program 42 %% violoncelle
 V:2 clef=alto octave=-1
+%%MIDI program 42 %% violoncelle
 %%staves (1 2)
-%%MIDI program 1 42 %% violoncelle
-%%MIDI program 2 42 %% violoncelle
 K:D clef=alto octave=-1
 [V:1] f2 | f8- f(egf!beambr2!ede/2c/2d) (d4!trill!c3d/2e/2) (dcBA!beambr2!B/2c/2B/2c/2cB/2c/2)|
 [V:2] x2 | [DA]8 x8             E8                    x8    |
@@ -69,4 +69,4 @@ K:D clef=alto octave=-1
 %% 20
 [V:1]D3(E!beambr2!FGA=c) (BAGF!beambr2!GEd^c) d3A!trill!F2ED D,6 :|]$
 [V:2]x8                   x8                  x8             x6  :|]
-%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%

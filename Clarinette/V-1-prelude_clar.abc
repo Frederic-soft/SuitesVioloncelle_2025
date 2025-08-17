@@ -4,7 +4,7 @@ T:1 - Prélude
 M:C
 L:1/16
 %Mabc Q:1/4=60
-K:Fmaj clef=treble_8
+K:Fmaj clef=treble_8 instrument=_B
 %%MIDI program 71 %% clarinette
 %% 1
 {D,,}D,4- D,(A,,=B,,^C, D,E,F,G, F,E,F,D,) |

@@ -4,12 +4,12 @@ T:5 - Gavottes
 M:C|
 L:1/8
 %Mabc Q:1/2=60
-V:1
-V:2
-%%MIDI program 1 42 %% violoncelle
-%%MIDI program 2 42 %% violoncelle
+V:1 clef=alto
+%%MIDI program 42 %% violoncelle
+V:2 clef=alto
+%%MIDI program 42 %% violoncelle
 %%staves (1 2)
-K:D clef=alto
+K:D
 P:Gavotte I
 [V:1] F2 F2 |
 [V:2] [D,A,]2 x2 |
@@ -35,7 +35,7 @@ P:Gavotte I
 [V:1] D2 CD CB, E2 |
 [V:2] E,2 x2 E,2 x2 |
 %% 8
-[V:1] C4 ::\
+[V:1] C4 ::
 [V:2] [A,,E,]4 ::
 %% 8
 [V:1] A2 A2 |
@@ -98,12 +98,12 @@ P:Gavotte I
 [V:1] (B,A,) A2 F2 ED [K:clef=bass]|
 [V:2] x2 [F,D]2 A,4 [K:clef=bass]|
 %% 28
-[V:1] D4 !fermata!:|]
+[V:1] D4 !fermata!:|]$
 [V:2] [D,,A,,F,]4 :|]
 %%%%%%%%%%%%%%%%%%%%%%
 %%vskip 1.0cm
 P:Gavotte II
-%%setbarnb 1
+% %%setbarnb 1
 %% 1
 [V:1][K: clef=alto] |: FE F2 |
 [V:2][K: clef=alto] |: [D,A,]x x2 |
@@ -179,4 +179,4 @@ P:Gavotte II
 %% 25
 [V:1] "@-80,-60Gavotte I da Capo"D4  :|]$
 [V:2] D,4 :|]
-%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%

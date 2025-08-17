@@ -5,9 +5,9 @@ M:3/4
 L:1/8
 %Mabc Q:1/4=100
 V:1 clef=bass octave=-1
+%%MIDI program 42 %% violoncelle
 V:2 clef=bass octave=-1
-%%MIDI program 1 42 %% violoncelle
-%%MIDI program 2 42 %% violoncelle
+%%MIDI program 42 %% violoncelle
 %%staves (1 2)
 K:Eb clef=bass octave=-1
 [V:1] E | EB,CA,F,D |
@@ -85,11 +85,11 @@ K:Eb clef=bass octave=-1
 [V:1] BD C3 B, |
 [V:2] x2 F,4 |
 % 26
-[V:1] B,4 z :|]
-[V:2] x4  x :|]
+[V:1] B,4 z :|
+[V:2] x4  x :|
 % 26
-[V:1] [|: F |
-[V:2] [|: x |
+[V:1] |: F |
+[V:2] |: x |
 % 27
 [V:1] FDGE=A,F |
 [V:2] x6 |
@@ -204,4 +204,4 @@ K:Eb clef=bass octave=-1
 % 64
 [V:1] E4 z :|]$
 [V:2][L:1/8] [E,B,]4 x :|]
-%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%

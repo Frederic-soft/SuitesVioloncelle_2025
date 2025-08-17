@@ -4,9 +4,10 @@ T:6 - Gigue
 M:6/8
 L:1/8
 %Mabc Q:3/8=60
-K:Emaj clef=treble_8
+K:Emaj clef=treble_8 instrument=_B
 %%MIDI program 71 % clarinette
 %%MIDI gracedivider 2
+%Psetfont-9 TimesBold 16
 %%%%
 %% 1
 B | {G,}E3 {B,}FGA |
@@ -135,7 +136,8 @@ C,B,,C,D,E,C, {G,,}A,,(C,D,E,F,G,) |
 %% 62
 {E,,C,}A,2G,2A,2 F,G,A,F,G,A, |
 %% 63
-(D,,F,,B,,D,F,A,) FEDEF"^*"D |$
+%Pabc (D,,F,,B,,D,F,A,) FEDEF"@5,-6$9*"[B,D] |$
+%Mabc (D,,F,,B,,D,F,A,) FEDEFD |$
 %% 64
 (AGFGAF) dcBcdB |
 %% 65
@@ -148,14 +150,7 @@ G,,(BAGFE) B,(AGFED)  |
 EB,G,E,B,,G,, E,,4!fermata!:|$
 %%%%%%%%
 % Ossia generated only for PDF (using --ss-pref %P abc2svg option)
-%P vskip 0.2cm
-%P textoption align
-%P multicol start
-%P text * Ossia
-%P multicol new
-%P leftmargin 3.5cm
-%P scale 0.4
-%P measurenb -1
-%Pabc [L:1/16](D,,F,,B,,D,F,A,) FEDEFB, |$
-%P multicol end
+%Pvskip 0.2cm
+%Ptextoption align
+%Ptext * Ossia (dernière note de la mesure 63)
 %%%%%%%%

@@ -2,7 +2,7 @@ X:1
 T:6 - Gigue
 M:6/8
 L:1/8
-K:Amaj clef=treble_8
+K:Amaj clef=treble_8 instrument=_B
 %%MIDI program 71 %% clarinette
 %% 0
 E, |

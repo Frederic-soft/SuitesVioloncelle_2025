@@ -4,7 +4,7 @@ T:6 - Gigue
 M:3/8
 L:1/16
 %Mabc Q:3/8=60
-K:Em clef=treble_8
+K:Em clef=treble_8 instrument=_B
 %%MIDI program 71 % clarinette
 %%MIDI gracedivider 2
 %%%%

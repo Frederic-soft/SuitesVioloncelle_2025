@@ -1,34 +1,10 @@
-%% /octava{ % usage: w x y octava
-%%   exch -10 add exch 2 copy
-%%   M 0 10 RM /Times-Roman 16 selectfont(8)show
-%%   /Times-Roman 12 selectfont(va)show
-%%   M 0 6 RL currentpoint stroke M
-%%   [6] 0 setdash 30 add 0 RL currentpoint stroke M
-%%   [] 0 setdash 0 -6 RL stroke}!
-%%beginps
-/octavastart{ % usage: x y octava
-  gsave
-  2 copy
-  M 0 12 RM /Times-Roman 16 selectfont(8)show
-  /Times-Roman 12 selectfont(va)show
-  M -6 0 RM 0 10 RL currentpoint stroke M [6] 0 setdash 70 0 RL stroke
-  grestore
-}!
-/octavaend{ % usage: x y octava
-  gsave
-  M 10 0 RM 0 10 RL currentpoint stroke M [6] 0 setdash -70 0 RL stroke
-  grestore
-}!
-%%endps
-%%deco 8vastart 3 octavastart 24 0 0
-%%deco 8vaend 3 octavaend 24 0 0
 X:1
 T:1 - Prélude
 %%%% C:Jean-Sébastien Bach
 M:12/8
 L:1/8
 %Mabc Q:3/8=70
-K:Emaj clef=treble_8
+K:Emaj clef=treble_8 instrument=_B
 %%MIDI program 71 % clarinette
 %%MIDI gracedivider 2
 %%%%
@@ -170,44 +146,24 @@ G,(E,F,) (G,B,)F, G,(E,F,) (G,E)C |
 (DB,C) (DFG) (=AFE) (DFC) |$
 %% 69
 (DB,C) (DFG) (ABc) (def) |
-%% %% 70
-%% (Bg)e' (ge)f (ge')f (ge')e |
-%% %% 71
-%% (Ba)f' (af)g (af'g) (af'f) |
-%% %% 72
-%% (Bb)g' (bg)a (bg')a (bg')g |$
-%% %% 73
-%% (Bc')a' (c'a)b (c'a')b (c'a')a |
-%% %% 74
-%% (Bd')a' (g'f'e') (d'g'f') (e'd'c') |
-%% %% 75
-%% b(g'f' g')(ag a)(f'e' f')(gf |
-%% %% 76
-%% g)(e'd' e')(fe f)(d'c' d')bg |$
-%% %% 77
-%% (ec'b) (c'af) (dba) (bge) |
-%% %% 78
-%% (cag) (afd) B3/2(c/2d/4e/4f/4g/4) afd |
-%%%%%%%%%
 %% 70
-!8vastart!(B,,G,)E (G,E,)F, (G,E)F, (G,E)E, |
+!8va(!(B,G)e (GE)F (Ge)F (Ge)E |
 %% 71
-(B,,A,)F (A,F,)G, (A,FG,) (A,FF,) |
+(B,A)f (AF)G (AfG) (AfF) |
 %% 72
-(B,,B,)G (B,G,)A, (B,G)A, (B,G)G, |$
+(B,B)g (BG)A (Bg)A (Bg)G |$
 %% 73
-(B,,C)A (CA,)B, (CA)B, (CA)A, |
+(B,c)a (cA)B (ca)B (ca)A |
 %% 74
-(B,,D)A (GFE) (DGF) (EDC) |
+(B,d)a (gfe) (dgf) (edc) |
 %% 75
-B,(GF G)(A,G, A,)(FE F)(G,F, |
+B(gf g)(AG A)(fe f)(GF |
 %% 76
-G,)(ED E)(F,E, F,)(DC D)B,G, |$
+G)(ed e)(FE F)(dc d)BG |$
 %% 77
-(E,CB,) (CA,F,) (D,B,A,) (B,G,E,) |
+(EcB) (cAF) (DBA) (BGE) |
 %% 78
-(C,A,G,) (A,F,D,) B,,3/2(C,/2D,/4E,/4F,/4G,/4) A,F,!8vaend!D, |
-%%%%%%%%%%%
+(CAG) (AFD) B,3/2(C/2D/4E/4F/4G/4) AFD !8va)!|
 %% 79
 (B,GF) (GEC) A,3/2(B,/4C/4D/2E/2) (FDB,) |$
 %%%%%%%%%%

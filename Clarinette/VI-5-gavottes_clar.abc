@@ -5,7 +5,7 @@ M:C|
 L:1/8
 %Mabc Q:1/2=60
 %%MIDI program 71 %% clarinette
-K:Emaj clef=treble_8
+K:Emaj clef=treble_8 instrument=_B
 P:Gavotte I
 %% 0
 {E,B,}G2 G2 |
@@ -24,9 +24,9 @@ P:Gavotte I
 %% 7
 {F,}E2 DE {F,}DC F2 |
 %% 8
-{B,,F,}D4 :|]
+{B,,F,}D4 :|$
 %% 8
-[|:{G,D}B2 B2 |
+|:{G,D}B2 B2 |
 %% 9
 {C,G,^E}B2 cB {C}AG c2 |
 %% 10
@@ -66,7 +66,7 @@ D,F,B,C DEFG |
 %% 27
 (CB,) {G,E}B2 {B,}G2 FE |
 %% 28
-{E,,B,,G,}E4 !fermata!:|]$
+{E,,B,,G,}E4 !fermata!:|$
 %%%%%%%%%%%%%%%%%%%%%%
 %%vskip 0.5cm
 P:Gavotte II
@@ -80,9 +80,9 @@ B,2 {G,}B,2 {A,}C2 {F,}D2 |
 %% 3
 B,2 {G,}B,2 {A,}C2 {F,}D2 |
 %% 4
-{E,}E4 :|]
+{E,}E4 :|$
 %% 4
-[|: {G,}B,A, {E,}B,2 |
+|: {G,}B,A, {E,}B,2 |
 %% 5
 {A,}C2 {E,}E2 ({G,}E=D)({E,}CB,) |
 %% 6

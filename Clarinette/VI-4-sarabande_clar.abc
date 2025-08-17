@@ -4,7 +4,7 @@ T:4 - Sarabande
 M:3/2
 L:1/4
 %Mabc Q:1/2=44
-K:Emaj clef=treble_8
+K:Emaj clef=treble_8 instrument=_B
 %%MIDI program 71 % clarinette
 %%MIDI gracedivider 2
 %%%%

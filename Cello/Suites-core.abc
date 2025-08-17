@@ -15,7 +15,7 @@
 %%%
 %%% Switches
 %%measurenb 0       % bar numbers every X bars (0: at every start of line, -1: no bar numbers)
-%%printtempo 0      % print tempo (Q: field)
+%%writefields Q 0      % print tempo (Q: field)
 %%contbarnb 1       % continuous numbering of bars in repeats (0: reset bar number in repeats)
 %%continueall 0     % ignore line breaks in tune
 %%stretchlast 1

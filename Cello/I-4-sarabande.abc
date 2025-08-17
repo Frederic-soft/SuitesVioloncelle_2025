@@ -5,11 +5,11 @@ M:3/4
 L:1/8
 %Mabc Q:1/4=60
 V:1
+%%MIDI program 42 %% violoncelle
 V:2 stem=down
+%%MIDI program 42 %% violoncelle
 K:G clef=bass
 %%staves ( 1 2 )
-%%MIDI program 1 42 %% violoncelle
-%%MIDI program 2 42 %% violoncelle
 V:1
 B,2 (C3 B,) |
 (F,/A,/B,/)C/ TB,2 (A,G,) |

@@ -7,15 +7,29 @@
   <identification>
     <encoding>
       <encoder>abc2xml version 245</encoder>
-      <encoding-date>2025-08-08</encoding-date>
+      <encoding-date>2025-08-17</encoding-date>
     </encoding>
   </identification>
   <part-list>
     <score-part id="P1">
       <part-name />
+      <score-instrument id="I1-1">
+        <instrument-name>dummy</instrument-name>
+      </score-instrument>
+      <score-instrument id="I1-2">
+        <instrument-name>dummy</instrument-name>
+      </score-instrument>
       <score-instrument id="I1-3">
         <instrument-name>dummy</instrument-name>
       </score-instrument>
+      <midi-instrument id="I1-1">
+        <midi-channel>1</midi-channel>
+        <midi-program>43</midi-program>
+      </midi-instrument>
+      <midi-instrument id="I1-2">
+        <midi-channel>2</midi-channel>
+        <midi-program>43</midi-program>
+      </midi-instrument>
       <midi-instrument id="I1-3">
         <midi-channel>3</midi-channel>
         <midi-program>43</midi-program>
@@ -67,6 +81,7 @@
           <octave>4</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -76,6 +91,7 @@
           <octave>4</octave>
         </pitch>
         <duration>90</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <dot />
@@ -87,6 +103,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -97,6 +114,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -109,6 +127,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -119,6 +138,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -129,6 +149,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -138,6 +159,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -156,6 +178,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
         <accidental>flat</accidental>
@@ -167,6 +190,7 @@
           <octave>3</octave>
         </pitch>
         <duration>90</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <dot />
@@ -178,6 +202,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -188,6 +213,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -200,6 +226,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -210,6 +237,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -220,6 +248,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -229,6 +258,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -246,6 +276,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -256,6 +287,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -269,6 +301,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -282,6 +315,7 @@
           <octave>3</octave>
         </pitch>
         <duration>90</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <dot />
@@ -293,6 +327,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -303,6 +338,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -313,6 +349,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -327,6 +364,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
@@ -343,6 +381,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>eighth</type>
         </note>
@@ -353,6 +392,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>eighth</type>
       </note>
@@ -376,6 +416,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -389,6 +430,7 @@
           <octave>2</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -399,6 +441,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -409,6 +452,7 @@
           <octave>2</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -422,6 +466,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -432,6 +477,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -442,6 +488,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -452,6 +499,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -464,6 +512,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -473,6 +522,7 @@
           <octave>3</octave>
         </pitch>
         <duration>90</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <dot />
@@ -484,6 +534,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -495,6 +546,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>sharp</accidental>
@@ -509,6 +561,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -520,6 +573,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -530,6 +584,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -546,6 +601,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -556,6 +612,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -565,6 +622,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -582,6 +640,7 @@
           <octave>4</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -591,6 +650,7 @@
           <octave>4</octave>
         </pitch>
         <duration>90</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <dot />
@@ -602,6 +662,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -612,6 +673,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -625,6 +687,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -635,6 +698,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -645,6 +709,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -661,6 +726,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -671,6 +737,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -682,6 +749,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
         <accidental>sharp</accidental>
@@ -692,6 +760,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -702,6 +771,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -719,6 +789,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -730,6 +801,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
       </note>
@@ -740,6 +812,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>flat</accidental>
@@ -755,6 +828,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>natural</accidental>
@@ -770,6 +844,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -780,6 +855,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -794,6 +870,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -808,6 +885,7 @@
           <octave>4</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <accidental>flat</accidental>
@@ -820,6 +898,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
@@ -835,6 +914,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
@@ -851,6 +931,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>eighth</type>
         </note>
@@ -874,6 +955,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -883,6 +965,7 @@
           <octave>3</octave>
         </pitch>
         <duration>240</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>half</type>
       </note>
@@ -905,6 +988,7 @@
           <octave>2</octave>
         </pitch>
         <duration>240</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>half</type>
       </note>
@@ -925,6 +1009,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
         <accidental>natural</accidental>
@@ -936,6 +1021,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -958,6 +1044,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -968,6 +1055,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -981,6 +1069,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -994,6 +1083,7 @@
           <octave>3</octave>
         </pitch>
         <duration>90</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>eighth</type>
         <dot />
@@ -1005,6 +1095,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1015,6 +1106,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -1028,6 +1120,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1038,6 +1131,7 @@
           <octave>2</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1048,6 +1142,7 @@
           <octave>2</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1068,6 +1163,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-3" />
         <voice>3</voice>
         <type>quarter</type>
       </note>
@@ -1077,6 +1173,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-3" />
         <voice>3</voice>
         <type>quarter</type>
       </note>
@@ -1094,6 +1191,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -1103,6 +1201,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -1121,6 +1220,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -1131,6 +1231,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1144,6 +1245,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1157,6 +1259,7 @@
           <octave>3</octave>
         </pitch>
         <duration>90</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>eighth</type>
         <dot />
@@ -1168,6 +1271,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1178,6 +1282,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -1191,6 +1296,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1201,6 +1307,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1211,6 +1318,7 @@
           <octave>2</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1228,6 +1336,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-3" />
         <voice>3</voice>
         <type>quarter</type>
         <accidental>sharp</accidental>
@@ -1239,6 +1348,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-3" />
         <voice>3</voice>
         <type>quarter</type>
       </note>
@@ -1256,6 +1366,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -1269,6 +1380,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1280,6 +1392,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>sharp</accidental>
@@ -1291,6 +1404,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1304,6 +1418,7 @@
           <octave>3</octave>
         </pitch>
         <duration>90</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <dot />
@@ -1318,6 +1433,7 @@
           <octave>3</octave>
         </pitch>
         <duration>15</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>32nd</type>
         <beam number="1">continue</beam>
@@ -1328,6 +1444,7 @@
           <octave>4</octave>
         </pitch>
         <duration>15</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>32nd</type>
         <beam number="1">end</beam>
@@ -1341,6 +1458,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -1351,6 +1469,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -1363,6 +1482,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -1377,6 +1497,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
@@ -1391,6 +1512,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -1405,6 +1527,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>sharp</accidental>
@@ -1417,6 +1540,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>sharp</accidental>
@@ -1428,6 +1552,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1441,6 +1566,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -1455,6 +1581,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>sharp</accidental>
@@ -1466,6 +1593,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1482,6 +1610,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
@@ -1493,6 +1622,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -1503,6 +1633,7 @@
           <octave>4</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -1513,6 +1644,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1526,6 +1658,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1539,6 +1672,7 @@
           <octave>4</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -1549,6 +1683,7 @@
           <octave>4</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -1562,6 +1697,7 @@
           <octave>4</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
@@ -1573,6 +1709,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
         <accidental>flat</accidental>
@@ -1583,6 +1720,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -1593,6 +1731,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1603,6 +1742,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -1616,6 +1756,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1629,6 +1770,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1643,6 +1785,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>sharp</accidental>
@@ -1659,6 +1802,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -1669,6 +1813,7 @@
           <octave>4</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">continue</beam>
@@ -1679,6 +1824,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">continue</beam>
@@ -1689,6 +1835,7 @@
           <octave>4</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -1699,6 +1846,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -1712,6 +1860,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1722,6 +1871,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1733,6 +1883,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>sharp</accidental>
@@ -1749,6 +1900,7 @@
           <octave>4</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -1758,6 +1910,7 @@
           <octave>4</octave>
         </pitch>
         <duration>240</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>half</type>
       </note>
@@ -1776,6 +1929,7 @@
           <octave>2</octave>
         </pitch>
         <duration>240</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>half</type>
       </note>
@@ -1786,6 +1940,7 @@
           <octave>2</octave>
         </pitch>
         <duration>240</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>half</type>
       </note>
@@ -1796,6 +1951,7 @@
           <octave>3</octave>
         </pitch>
         <duration>240</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>half</type>
       </note>
@@ -1808,6 +1964,7 @@
           <octave>3</octave>
         </pitch>
         <duration>90</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <dot />
@@ -1820,6 +1977,7 @@
           <octave>3</octave>
         </pitch>
         <duration>15</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>32nd</type>
         <beam number="1">continue</beam>
@@ -1833,6 +1991,7 @@
           <octave>3</octave>
         </pitch>
         <duration>15</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>32nd</type>
         <beam number="1">end</beam>
@@ -1846,6 +2005,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -1860,6 +2020,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1870,6 +2031,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1881,6 +2043,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1894,6 +2057,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -1907,6 +2071,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1918,6 +2083,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -1928,6 +2094,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -1944,6 +2111,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -1954,6 +2122,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -1977,6 +2146,7 @@
           <octave>4</octave>
         </pitch>
         <duration>90</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <dot />
@@ -1988,6 +2158,7 @@
           <octave>4</octave>
         </pitch>
         <duration>15</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>32nd</type>
         <beam number="1">continue</beam>
@@ -2001,6 +2172,7 @@
           <octave>4</octave>
         </pitch>
         <duration>15</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>32nd</type>
         <beam number="1">end</beam>
@@ -2014,6 +2186,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -2027,6 +2200,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2037,6 +2211,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2047,6 +2222,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -2060,6 +2236,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -2073,6 +2250,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2083,6 +2261,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2093,6 +2272,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -2109,6 +2289,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -2120,6 +2301,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
         <accidental>sharp</accidental>
@@ -2144,6 +2326,7 @@
           <octave>4</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -2154,6 +2337,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">continue</beam>
@@ -2164,6 +2348,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">continue</beam>
@@ -2174,6 +2359,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -2184,6 +2370,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -2194,6 +2381,7 @@
           <octave>4</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -2213,6 +2401,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -2224,6 +2413,7 @@
           <octave>4</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -2234,6 +2424,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">continue</beam>
@@ -2244,6 +2435,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">continue</beam>
@@ -2254,6 +2446,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -2264,6 +2457,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -2274,6 +2468,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -2287,6 +2482,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -2297,6 +2493,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -2321,6 +2518,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <accidental>flat</accidental>
@@ -2332,6 +2530,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2345,6 +2544,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -2358,6 +2558,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -2371,6 +2572,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2381,6 +2583,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2391,6 +2594,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -2404,6 +2608,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -2415,6 +2620,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
@@ -2435,6 +2641,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -2452,6 +2659,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -2463,6 +2671,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>sharp</accidental>
@@ -2477,6 +2686,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -2490,6 +2700,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -2503,6 +2714,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2514,6 +2726,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2524,6 +2737,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -2537,6 +2751,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">begin</beam>
@@ -2550,6 +2765,7 @@
           <octave>4</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2560,6 +2776,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2571,6 +2788,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <accidental>natural</accidental>
@@ -2594,6 +2812,7 @@
           <octave>2</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>quarter</type>
       </note>
@@ -2611,6 +2830,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -2621,6 +2841,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">continue</beam>
@@ -2631,6 +2852,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">continue</beam>
@@ -2641,6 +2863,7 @@
           <octave>3</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">end</beam>
@@ -2651,6 +2874,7 @@
           <octave>2</octave>
         </pitch>
         <duration>60</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>eighth</type>
         <beam number="1">begin</beam>
@@ -2661,6 +2885,7 @@
           <octave>3</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
@@ -2674,6 +2899,7 @@
           <octave>2</octave>
         </pitch>
         <duration>30</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">end</beam>
@@ -2689,6 +2915,7 @@
           <octave>3</octave>
         </pitch>
         <duration>120</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>quarter</type>
       </note>
@@ -2698,6 +2925,7 @@
           <octave>4</octave>
         </pitch>
         <duration>240</duration>
+        <instrument id="I1-1" />
         <voice>1</voice>
         <type>half</type>
       </note>
@@ -2720,6 +2948,7 @@
           <octave>2</octave>
         </pitch>
         <duration>240</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>half</type>
       </note>
@@ -2730,6 +2959,7 @@
           <octave>2</octave>
         </pitch>
         <duration>240</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>half</type>
       </note>
@@ -2740,6 +2970,7 @@
           <octave>3</octave>
         </pitch>
         <duration>240</duration>
+        <instrument id="I1-2" />
         <voice>2</voice>
         <type>half</type>
       </note>

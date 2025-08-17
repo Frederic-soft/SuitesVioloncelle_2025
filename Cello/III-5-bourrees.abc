@@ -5,9 +5,9 @@ M:C|
 L:1/8
 %Mabc Q:1/2=60
 V:1 clef=bass octave=-1
+%%MIDI program 42 %% violoncelle
 V:2 clef=bass octave=-1
-%%MIDI program 1 42 %% violoncelle
-%%MIDI program 2 42 %% violoncelle
+%%MIDI program 42 %% violoncelle
 %%staves (1 2)
 K:C clef=bass octave=-1
 P:Bourrée I

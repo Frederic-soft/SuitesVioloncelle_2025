@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <encoder>abc2xml version 245</encoder>
-      <encoding-date>2025-08-08</encoding-date>
+      <encoding-date>2025-08-17</encoding-date>
     </encoding>
   </identification>
   <part-list>
@@ -17,7 +17,6 @@
         <instrument-name>dummy</instrument-name>
       </score-instrument>
       <midi-instrument id="I1-1">
-        <midi-channel>1</midi-channel>
         <midi-program>43</midi-program>
       </midi-instrument>
     </score-part>

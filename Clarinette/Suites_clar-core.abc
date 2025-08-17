@@ -275,8 +275,8 @@
 
 %%newpage
 %%%%%%%%%%%%%% Suite VI, 5 - Gavottes
-%%musicspace 0.5cm
-%%staffsep 1.7cm
+%%musicspace 0.2cm
+%%staffsep 1.5cm
 %%abc-include "VI-5-gavottes_clar.abc"
 
 %%newpage

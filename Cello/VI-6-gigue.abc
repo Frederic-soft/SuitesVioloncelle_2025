@@ -2,15 +2,16 @@
 % Lines starting with %M are for MIDI generation (activated with the "--ss-pref %M" abc2svg option)
 %
 X:1
+%Psetfont-9 TimesBold 16
 T:6 - Gigue
 %%%% C:Jean-Sébastien Bach
 M:6/8
 L:1/8
 %Mabc Q:3/8=60
 V:1
+%%MIDI program 42 %% violoncelle
 V:2
-%%MIDI program 1 42 %% violoncelle
-%%MIDI program 2 42 %% violoncelle
+%%MIDI program 42 %% violoncelle
 %%staves (1 2)
 K:D clef=alto
 %% 1
@@ -200,7 +201,8 @@ K:D clef=alto
 [V:1] G,2F,2G,2 E,F,G,E,F,G, |
 [V:2] [D,,B,,]x2 x3 |
 %% 63
-[V:1] (C,,E,,A,,C,E,G,) [K: clef=alto]EDCDE"^*"C |$
+%Pabc [V:1] (C,,E,,A,,C,E,G,) [K: clef=alto]EDCDE"@5,-6$9*"[A,C] |$
+%Mabc [V:1] (C,,E,,A,,C,E,G,) [K: clef=alto]EDCDEC |$
 [V:2] x6 |
 %% 64
 [V:1] (GFEFGE) cBABcA |
@@ -215,18 +217,12 @@ K:D clef=alto
 [V:1] F,,[K: clef=alto](AGFED) A,(GFEDC) [K: clef=bass] |
 [V:2] x12 |
 %% 68
-[V:1] DA,F,D,A,,F,, D,,4!fermata!:|$
-[V:2] x6 x4 :|
+[V:1] DA,F,D,A,,F,, D,,4 !fermata!:|]$
+[V:2] x6 x4 :|]
+%%%%%%%%
+
 % Ossia generated only for PDF (using --ss-pref %P abc2svg option)
-%P vskip 0.2cm
-%P multicol start
-%P textoption align
-%P text
-%P text * Ossia
-%P multicol new
-%P leftmargin 3.0cm
-%P scale 0.4
-%P measurenb -1
-%Pabc [V:1][K: clef=bass][L:1/16] (C,,E,,A,,C,E,G,) [K: clef=alto]EDCDEA, |$
-%P multicol end
+%Pvskip 0.2cm
+%Ptextoption align
+%Ptext * Ossia (dernière note de la mesure 63)
 %%%%%%%%

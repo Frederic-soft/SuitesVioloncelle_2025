@@ -7,7 +7,7 @@ L:1/8
 %%MIDI program 71 % clarinette
 %%MIDI gracedivider 2
 %%%%
-K:Em clef=treble_8
+K:Em clef=treble_8 instrument=_B
 %% 1
 [P:Menuet I]
 {E,G,}B,4 C2 |
@@ -58,7 +58,7 @@ A,,A, {B,,}!ptrill!F,3 E, |
 %% 24
 {E,,B,,}E,6 !fermata!:|$
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-K:Emaj clef=treble_8
+K:Emaj clef=treble_8 instrument=_B
 %Mabc Q:1/4=140
 %% 1
 [P:Menuet II]
