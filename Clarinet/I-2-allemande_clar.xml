@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <encoder>abc2xml version 245</encoder>
-      <encoding-date>2025-08-17</encoding-date>
+      <encoding-date>2025-08-18</encoding-date>
     </encoding>
   </identification>
   <part-list>
@@ -3065,11 +3065,6 @@
       </note>
     </measure>
     <measure number="21">
-      <direction placement="above">
-        <direction-type>
-          <words>♮</words>
-        </direction-type>
-      </direction>
       <note>
         <pitch>
           <step>E</step>

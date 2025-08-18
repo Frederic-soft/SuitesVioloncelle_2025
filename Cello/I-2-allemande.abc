@@ -49,7 +49,7 @@ A,4- A,F,G,A, (D,E,F,)G, A,F,D,C, |
 %% 18
 (B,,D,G,)F, G,A,B,C DB,A,G, (=F,E,F,)D |$
 %% 19
-!trill!"^$1\003"E,2{D,}C,2 CA,,B,,C, D,,CB,C DB,CA, |
+!trill!!=!E,2{D,}C,2 CA,,B,,C, D,,CB,C DB,CA, |
 !trill!^G,2E,2 B,D,C,B,, C,E,F,^G, A,(CB,A,) |
 %% 21
 D2(B,,C,) (D,E,=F,)A,, !trill!^G,,3E, B,DCB, |$

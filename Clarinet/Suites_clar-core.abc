@@ -31,6 +31,11 @@
 %
 %%setfont-1 TimesBold 12
 %
+% %%%
+% Decoration for #, b or flat on trills and mordents
+%%deco # 3 acc1 8,8 5 5
+%%deco b 3 acc-1 8,5 5 5
+%%deco = 3 acc3 8,8 5 5
 % %%%%%%%%%%%%
 %%vskip 10cm
 %%textoption center
