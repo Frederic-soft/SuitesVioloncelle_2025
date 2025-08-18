@@ -1,0 +1,3177 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.9)  18 AUG 2025 11:25
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**Suites_clar.tex
+(./Suites_clar.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2025/01/30 v0.6e Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count270
+\calc@Bcount=\count271
+\calc@Adimen=\dimen142
+\calc@Bdimen=\dimen143
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count272
+\calc@Cskip=\skip53
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen144
+\ESO@tempdimb=\dimen145
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count273
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+)
+\AM@pagewidth=\dimen148
+\AM@pageheight=\dimen149
+\AM@fboxrule=\dimen150
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count274
+\AM@pagebox=\box52
+\AM@global@opts=\toks20
+\AM@pagecnt=\count275
+\AM@toc@title=\toks21
+\AM@lof@heading=\toks22
+\c@AM@survey=\count276
+\AM@templatesizebox=\box53
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip54
+\f@nch@offset@elh=\skip55
+\f@nch@offset@erh=\skip56
+\f@nch@offset@olh=\skip57
+\f@nch@offset@orh=\skip58
+\f@nch@offset@elf=\skip59
+\f@nch@offset@erf=\skip60
+\f@nch@offset@olf=\skip61
+\f@nch@offset@orf=\skip62
+\f@nch@height=\skip63
+\f@nch@footalignment=\skip64
+\f@nch@widthL=\skip65
+\f@nch@widthC=\skip66
+\f@nch@widthR=\skip67
+\@temptokenb=\toks23
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/qrcode/qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count277
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@qr@i=\count278
+\c@qr@j=\count279
+\qr@a=\count280
+\qr@b=\count281
+\qr@c=\count282
+\qr@for@depth=\count283
+\qr@for@maxdepth=\count284
+\qr@for@start=\count285
+\qr@for@end=\count286
+\qr@for@step=\count287
+\qr@newforcount=\count288
+\qr@newforcount=\count289
+\qr@desiredheight=\skip68
+\qr@modulesize=\skip69
+\qr@minipagewidth=\skip70
+\c@maski=\count290
+\c@maskj=\count291
+\c@totalones=\count292
+\c@penaltyi=\count293
+\c@penaltyii=\count294
+\c@penaltyiii=\count295
+\c@penaltyiv=\count296
+\c@qr@hexchars=\count297
+\qr@newforcount=\count298
+\c@qr@divisionsremaining=\count299
+)
+(./abcsvgintex.sty
+Package: abcsvgintex 2025/08/01v1.5ABC music notation in LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks26
+\verbatim@line=\toks27
+\verbatim@in@stream=\read2
+)
+(./keyvalx.sty
+Package: keyvalx 2005/02/03 v1.00 enhanced key=value parser (FBO)
+\KV@toks@=\toks28
+)
+\abcsvg@songnum=\count300
+\abcsvg@abctoks=\toks29
+\abcsvg@pdftoks=\toks30
+\abcsvg@file@cnt=\count301
+\abcsvg@out=\write3
+\abcsvg@cleanup=\toks31
+\abcsvg@boxtoks=\toks32
+\abcsvg@x@unit=\skip71
+\abcsvg@y@unit=\skip72
+\abcsvg@x=\skip73
+\abcsvg@y=\skip74
+\abcsvg@top@pic=\skip75
+\abcsvg@left@pic=\skip76
+\abcsvg@bot@pic=\skip77
+\abcsvg@right@pic=\skip78
+\abcsvg@under@music=\toks33
+\abcsvg@tmp@cnt=\count302
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count303
+\Gm@cntv=\count304
+\c@Gm@tempcnt=\count305
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks34
+)
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 61
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count306
+\l__pdf_internal_box=\box54
+)
+(./Suites_clar.aux
+<Reading QR code for "https://www.oclaribou.fr/MusicBJS/BJSCelloSuites" at leve
+l 4-M from aux file.>
+)
+\openout1 = `Suites_clar.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+\big@size=\dimen159
+ (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count307
+\scratchdimen=\dimen160
+\scratchbox=\box55
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen161
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks36
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
+y
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=731.23584pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=111.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(14.22636pt, 802.36774pt, 28.45274pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=802.36774pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-58.04362pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=111.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 111.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 111.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 111.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 111.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+11.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
+<inc/MaBasseBuffetUt_transp.png, id=1, 139.722pt x 564.4287pt>
+File: inc/MaBasseBuffetUt_transp.png Graphic file (type png)
+<use inc/MaBasseBuffetUt_transp.png>
+Package pdftex.def Info: inc/MaBasseBuffetUt_transp.png  used on input line 111
+.
+(pdftex.def)             Requested size: 69.86082pt x 282.21365pt.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 11
+1.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 111.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
+11.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 111.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 111.
+<inc/by-sa.pdf, id=3, 121.45375pt x 43.16125pt>
+File: inc/by-sa.pdf Graphic file (type pdf)
+<use inc/by-sa.pdf>
+Package pdftex.def Info: inc/by-sa.pdf  used on input line 111.
+(pdftex.def)             Requested size: 56.9055pt x 20.22255pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
+
+
+[1
+
+
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc} <./inc/MaBasseBuffetUt_
+transp.png> <./inc/by-sa.pdf>]
+
+[2
+
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(14.22636pt, 802.36774pt, 28.45274pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=802.36774pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-58.04362pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=111.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 155.
+
+
+[3
+
+]
+
+[4
+
+]
+\titlelen=\skip79
+\titleseplen=\skip80
+\suitesep=\skip81
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+11.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp1.abc'.
+
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp1.pdf  on input line 220.
+<./abcsvgtmp/abcsvgintex-tmp1.pdf, id=28, 293.095pt x 32.12pt>
+File: ./abcsvgtmp/abcsvgintex-tmp1.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp1.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp1.pdf  used on input line 2
+20.
+(pdftex.def)             Requested size: 293.09427pt x 32.1199pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp2.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp2.pdf  on input line 232.
+<./abcsvgtmp/abcsvgintex-tmp2.pdf, id=29, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp2.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp2.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp2.pdf  used on input line 2
+32.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp3.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp3.pdf  on input line 245.
+<./abcsvgtmp/abcsvgintex-tmp3.pdf, id=30, 293.095pt x 37.13875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp3.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp3.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp3.pdf  used on input line 2
+45.
+(pdftex.def)             Requested size: 293.09427pt x 37.13866pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp4.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp4.pdf  on input line 257.
+<./abcsvgtmp/abcsvgintex-tmp4.pdf, id=31, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp4.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp4.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp4.pdf  used on input line 2
+57.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp5.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp5.pdf  on input line 271.
+<./abcsvgtmp/abcsvgintex-tmp5.pdf, id=32, 293.095pt x 31.11626pt>
+File: ./abcsvgtmp/abcsvgintex-tmp5.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp5.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp5.pdf  used on input line 2
+71.
+(pdftex.def)             Requested size: 293.09427pt x 31.11617pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp6.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp6.pdf  on input line 283.
+<./abcsvgtmp/abcsvgintex-tmp6.pdf, id=33, 293.095pt x 43.16125pt>
+File: ./abcsvgtmp/abcsvgintex-tmp6.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp6.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp6.pdf  used on input line 2
+83.
+(pdftex.def)             Requested size: 293.09427pt x 43.16113pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp7.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp7.pdf  on input line 297.
+<./abcsvgtmp/abcsvgintex-tmp7.pdf, id=34, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp7.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp7.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp7.pdf  used on input line 2
+97.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp8.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp8.pdf  on input line 312.
+<./abcsvgtmp/abcsvgintex-tmp8.pdf, id=35, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp8.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp8.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp8.pdf  used on input line 3
+12.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp9.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp9.pdf  on input line 323.
+<./abcsvgtmp/abcsvgintex-tmp9.pdf, id=36, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp9.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp9.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp9.pdf  used on input line 3
+23.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp10.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp10.pdf  on input line 334.
+<./abcsvgtmp/abcsvgintex-tmp10.pdf, id=37, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp10.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp10.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp10.pdf  used on input line 
+334.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp11.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp11.pdf  on input line 347.
+<./abcsvgtmp/abcsvgintex-tmp11.pdf, id=38, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp11.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp11.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp11.pdf  used on input line 
+347.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp12.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp12.pdf  on input line 361.
+<./abcsvgtmp/abcsvgintex-tmp12.pdf, id=39, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp12.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp12.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp12.pdf  used on input line 
+361.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp13.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp13.pdf  on input line 371.
+<./abcsvgtmp/abcsvgintex-tmp13.pdf, id=40, 293.095pt x 40.15pt>
+File: ./abcsvgtmp/abcsvgintex-tmp13.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp13.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp13.pdf  used on input line 
+371.
+(pdftex.def)             Requested size: 293.09427pt x 40.14989pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp14.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp14.pdf  on input line 386.
+<./abcsvgtmp/abcsvgintex-tmp14.pdf, id=41, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp14.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp14.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp14.pdf  used on input line 
+386.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+
+
+<inc/by-sa_small.pdf, id=42, 81.30376pt x 16.06pt>
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 389.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[5 <./abcsvgtmp/abcsvgintex-tmp1.pdf> <./abcsvgtmp/abcsvgintex-tmp2.pdf> <./abc
+svgtmp/abcsvgintex-tmp3.pdf> <./abcsvgtmp/abcsvgintex-tmp4.pdf> <./abcsvgtmp/ab
+csvgintex-tmp5.pdf> <./abcsvgtmp/abcsvgintex-tmp6.pdf> <./abcsvgtmp/abcsvgintex
+-tmp7.pdf> <./abcsvgtmp/abcsvgintex-tmp8.pdf> <./abcsvgtmp/abcsvgintex-tmp9.pdf
+> <./abcsvgtmp/abcsvgintex-tmp10.pdf> <./abcsvgtmp/abcsvgintex-tmp11.pdf> <./ab
+csvgtmp/abcsvgintex-tmp12.pdf> <./abcsvgtmp/abcsvgintex-tmp13.pdf> <./abcsvgtmp
+/abcsvgintex-tmp14.pdf> <./inc/by-sa_small.pdf>]
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp15.abc'.
+
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp15.pdf  on input line 401.
+<./abcsvgtmp/abcsvgintex-tmp15.pdf, id=234, 293.095pt x 34.1275pt>
+File: ./abcsvgtmp/abcsvgintex-tmp15.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp15.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp15.pdf  used on input line 
+401.
+(pdftex.def)             Requested size: 293.09427pt x 34.1274pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp16.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp16.pdf  on input line 411.
+<./abcsvgtmp/abcsvgintex-tmp16.pdf, id=235, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp16.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp16.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp16.pdf  used on input line 
+411.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp17.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp17.pdf  on input line 425.
+<./abcsvgtmp/abcsvgintex-tmp17.pdf, id=236, 293.095pt x 35.13126pt>
+File: ./abcsvgtmp/abcsvgintex-tmp17.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp17.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp17.pdf  used on input line 
+425.
+(pdftex.def)             Requested size: 293.09427pt x 35.13115pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp18.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp18.pdf  on input line 437.
+<./abcsvgtmp/abcsvgintex-tmp18.pdf, id=237, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp18.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp18.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp18.pdf  used on input line 
+437.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp19.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp19.pdf  on input line 452.
+<./abcsvgtmp/abcsvgintex-tmp19.pdf, id=238, 293.095pt x 38.1425pt>
+File: ./abcsvgtmp/abcsvgintex-tmp19.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp19.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp19.pdf  used on input line 
+452.
+(pdftex.def)             Requested size: 293.09427pt x 38.1424pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp20.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp20.pdf  on input line 464.
+<./abcsvgtmp/abcsvgintex-tmp20.pdf, id=239, 293.095pt x 30.1125pt>
+File: ./abcsvgtmp/abcsvgintex-tmp20.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp20.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp20.pdf  used on input line 
+464.
+(pdftex.def)             Requested size: 293.09427pt x 30.11241pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp21.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp21.pdf  on input line 481.
+<./abcsvgtmp/abcsvgintex-tmp21.pdf, id=240, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp21.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp21.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp21.pdf  used on input line 
+481.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 486.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 486.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 486.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp22.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp22.pdf  on input line 497.
+<./abcsvgtmp/abcsvgintex-tmp22.pdf, id=241, 293.095pt x 34.1275pt>
+File: ./abcsvgtmp/abcsvgintex-tmp22.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp22.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp22.pdf  used on input line 
+497.
+(pdftex.def)             Requested size: 293.09427pt x 34.1274pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp23.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp23.pdf  on input line 508.
+<./abcsvgtmp/abcsvgintex-tmp23.pdf, id=242, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp23.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp23.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp23.pdf  used on input line 
+508.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp24.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp24.pdf  on input line 521.
+<./abcsvgtmp/abcsvgintex-tmp24.pdf, id=243, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp24.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp24.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp24.pdf  used on input line 
+521.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp25.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp25.pdf  on input line 534.
+<./abcsvgtmp/abcsvgintex-tmp25.pdf, id=244, 293.095pt x 32.12pt>
+File: ./abcsvgtmp/abcsvgintex-tmp25.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp25.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp25.pdf  used on input line 
+534.
+(pdftex.def)             Requested size: 293.09427pt x 32.1199pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp26.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp26.pdf  on input line 547.
+<./abcsvgtmp/abcsvgintex-tmp26.pdf, id=245, 293.095pt x 36.135pt>
+File: ./abcsvgtmp/abcsvgintex-tmp26.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp26.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp26.pdf  used on input line 
+547.
+(pdftex.def)             Requested size: 293.09427pt x 36.13489pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp27.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp27.pdf  on input line 559.
+<./abcsvgtmp/abcsvgintex-tmp27.pdf, id=246, 293.095pt x 30.1125pt>
+File: ./abcsvgtmp/abcsvgintex-tmp27.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp27.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp27.pdf  used on input line 
+559.
+(pdftex.def)             Requested size: 293.09427pt x 30.11241pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp28.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp28.pdf  on input line 571.
+<./abcsvgtmp/abcsvgintex-tmp28.pdf, id=247, 293.095pt x 32.12pt>
+File: ./abcsvgtmp/abcsvgintex-tmp28.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp28.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp28.pdf  used on input line 
+571.
+(pdftex.def)             Requested size: 293.09427pt x 32.1199pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 574.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[6 <./abcsvgtmp/abcsvgintex-tmp15.pdf> <./abcsvgtmp/abcsvgintex-tmp16.pdf> <./a
+bcsvgtmp/abcsvgintex-tmp17.pdf> <./abcsvgtmp/abcsvgintex-tmp18.pdf> <./abcsvgtm
+p/abcsvgintex-tmp19.pdf> <./abcsvgtmp/abcsvgintex-tmp20.pdf> <./abcsvgtmp/abcsv
+gintex-tmp21.pdf> <./abcsvgtmp/abcsvgintex-tmp22.pdf> <./abcsvgtmp/abcsvgintex-
+tmp23.pdf> <./abcsvgtmp/abcsvgintex-tmp24.pdf> <./abcsvgtmp/abcsvgintex-tmp25.p
+df> <./abcsvgtmp/abcsvgintex-tmp26.pdf> <./abcsvgtmp/abcsvgintex-tmp27.pdf> <./
+abcsvgtmp/abcsvgintex-tmp28.pdf>]
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp29.abc'.
+
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp29.pdf  on input line 586.
+<./abcsvgtmp/abcsvgintex-tmp29.pdf, id=428, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp29.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp29.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp29.pdf  used on input line 
+586.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp30.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp30.pdf  on input line 598.
+<./abcsvgtmp/abcsvgintex-tmp30.pdf, id=429, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp30.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp30.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp30.pdf  used on input line 
+598.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp31.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp31.pdf  on input line 610.
+<./abcsvgtmp/abcsvgintex-tmp31.pdf, id=430, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp31.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp31.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp31.pdf  used on input line 
+610.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp32.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp32.pdf  on input line 624.
+<./abcsvgtmp/abcsvgintex-tmp32.pdf, id=431, 293.095pt x 35.13126pt>
+File: ./abcsvgtmp/abcsvgintex-tmp32.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp32.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp32.pdf  used on input line 
+624.
+(pdftex.def)             Requested size: 293.09427pt x 35.13115pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp33.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp33.pdf  on input line 637.
+<./abcsvgtmp/abcsvgintex-tmp33.pdf, id=432, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp33.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp33.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp33.pdf  used on input line 
+637.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp34.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp34.pdf  on input line 647.
+<./abcsvgtmp/abcsvgintex-tmp34.pdf, id=433, 293.095pt x 37.13875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp34.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp34.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp34.pdf  used on input line 
+647.
+(pdftex.def)             Requested size: 293.09427pt x 37.13866pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp35.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp35.pdf  on input line 657.
+<./abcsvgtmp/abcsvgintex-tmp35.pdf, id=434, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp35.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp35.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp35.pdf  used on input line 
+657.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp36.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp36.pdf  on input line 672.
+<./abcsvgtmp/abcsvgintex-tmp36.pdf, id=435, 293.095pt x 34.1275pt>
+File: ./abcsvgtmp/abcsvgintex-tmp36.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp36.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp36.pdf  used on input line 
+672.
+(pdftex.def)             Requested size: 293.09427pt x 34.1274pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp37.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp37.pdf  on input line 682.
+<./abcsvgtmp/abcsvgintex-tmp37.pdf, id=436, 293.095pt x 30.1125pt>
+File: ./abcsvgtmp/abcsvgintex-tmp37.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp37.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp37.pdf  used on input line 
+682.
+(pdftex.def)             Requested size: 293.09427pt x 30.11241pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp38.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp38.pdf  on input line 695.
+<./abcsvgtmp/abcsvgintex-tmp38.pdf, id=437, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp38.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp38.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp38.pdf  used on input line 
+695.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp39.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp39.pdf  on input line 708.
+<./abcsvgtmp/abcsvgintex-tmp39.pdf, id=438, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp39.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp39.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp39.pdf  used on input line 
+708.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp40.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp40.pdf  on input line 721.
+<./abcsvgtmp/abcsvgintex-tmp40.pdf, id=439, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp40.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp40.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp40.pdf  used on input line 
+721.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp41.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp41.pdf  on input line 732.
+<./abcsvgtmp/abcsvgintex-tmp41.pdf, id=440, 293.095pt x 37.13875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp41.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp41.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp41.pdf  used on input line 
+732.
+(pdftex.def)             Requested size: 293.09427pt x 37.13866pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp42.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp42.pdf  on input line 745.
+<./abcsvgtmp/abcsvgintex-tmp42.pdf, id=441, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp42.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp42.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp42.pdf  used on input line 
+745.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 753.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[7 <./abcsvgtmp/abcsvgintex-tmp29.pdf> <./abcsvgtmp/abcsvgintex-tmp30.pdf> <./a
+bcsvgtmp/abcsvgintex-tmp31.pdf> <./abcsvgtmp/abcsvgintex-tmp32.pdf> <./abcsvgtm
+p/abcsvgintex-tmp33.pdf> <./abcsvgtmp/abcsvgintex-tmp34.pdf> <./abcsvgtmp/abcsv
+gintex-tmp35.pdf> <./abcsvgtmp/abcsvgintex-tmp36.pdf> <./abcsvgtmp/abcsvgintex-
+tmp37.pdf> <./abcsvgtmp/abcsvgintex-tmp38.pdf> <./abcsvgtmp/abcsvgintex-tmp39.p
+df> <./abcsvgtmp/abcsvgintex-tmp40.pdf> <./abcsvgtmp/abcsvgintex-tmp41.pdf> <./
+abcsvgtmp/abcsvgintex-tmp42.pdf>]
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 753.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[8
+
+]
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp43.abc'.
+
+ 
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp43.pdf  on input line 788.
+<./abcsvgtmp/abcsvgintex-tmp43.pdf, id=632, 293.095pt x 32.12pt>
+File: ./abcsvgtmp/abcsvgintex-tmp43.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp43.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp43.pdf  used on input line 
+788.
+(pdftex.def)             Requested size: 293.09427pt x 32.1199pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp44.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp44.pdf  on input line 800.
+<./abcsvgtmp/abcsvgintex-tmp44.pdf, id=633, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp44.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp44.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp44.pdf  used on input line 
+800.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp45.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp45.pdf  on input line 813.
+<./abcsvgtmp/abcsvgintex-tmp45.pdf, id=634, 293.095pt x 37.13875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp45.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp45.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp45.pdf  used on input line 
+813.
+(pdftex.def)             Requested size: 293.09427pt x 37.13866pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp46.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp46.pdf  on input line 825.
+<./abcsvgtmp/abcsvgintex-tmp46.pdf, id=635, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp46.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp46.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp46.pdf  used on input line 
+825.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp47.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp47.pdf  on input line 839.
+<./abcsvgtmp/abcsvgintex-tmp47.pdf, id=636, 293.095pt x 31.11626pt>
+File: ./abcsvgtmp/abcsvgintex-tmp47.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp47.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp47.pdf  used on input line 
+839.
+(pdftex.def)             Requested size: 293.09427pt x 31.11617pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp48.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp48.pdf  on input line 851.
+<./abcsvgtmp/abcsvgintex-tmp48.pdf, id=637, 293.095pt x 43.16125pt>
+File: ./abcsvgtmp/abcsvgintex-tmp48.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp48.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp48.pdf  used on input line 
+851.
+(pdftex.def)             Requested size: 293.09427pt x 43.16113pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp49.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp49.pdf  on input line 865.
+<./abcsvgtmp/abcsvgintex-tmp49.pdf, id=638, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp49.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp49.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp49.pdf  used on input line 
+865.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 869.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[9 <./abcsvgtmp/abcsvgintex-tmp43.pdf> <./abcsvgtmp/abcsvgintex-tmp44.pdf> <./a
+bcsvgtmp/abcsvgintex-tmp45.pdf> <./abcsvgtmp/abcsvgintex-tmp46.pdf> <./abcsvgtm
+p/abcsvgintex-tmp47.pdf> <./abcsvgtmp/abcsvgintex-tmp48.pdf> <./abcsvgtmp/abcsv
+gintex-tmp49.pdf>]
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 869.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[10
+
+]
+<Suites_clar-core.pdf, id=738, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 871.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=740, page=3, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 3>
+Package pdftex.def Info: Suites_clar-core.pdf , page3 used on input line 871.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 3>
+Package pdftex.def Info: Suites_clar-core.pdf , page3 used on input line 871.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 3>
+Package pdftex.def Info: Suites_clar-core.pdf , page3 used on input line 871.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 3>
+Package pdftex.def Info: Suites_clar-core.pdf , page3 used on input line 871.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 871.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 3>
+Package pdftex.def Info: Suites_clar-core.pdf , page3 used on input line 871.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[11
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 874.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=765, page=4, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 4>
+Package pdftex.def Info: Suites_clar-core.pdf , page4 used on input line 874.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 4>
+Package pdftex.def Info: Suites_clar-core.pdf , page4 used on input line 874.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 4>
+Package pdftex.def Info: Suites_clar-core.pdf , page4 used on input line 874.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 4>
+Package pdftex.def Info: Suites_clar-core.pdf , page4 used on input line 874.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 874.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 4>
+Package pdftex.def Info: Suites_clar-core.pdf , page4 used on input line 874.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[12
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 877.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=776, page=5, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 5>
+Package pdftex.def Info: Suites_clar-core.pdf , page5 used on input line 877.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 5>
+Package pdftex.def Info: Suites_clar-core.pdf , page5 used on input line 877.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 5>
+Package pdftex.def Info: Suites_clar-core.pdf , page5 used on input line 877.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 5>
+Package pdftex.def Info: Suites_clar-core.pdf , page5 used on input line 877.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 877.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 5>
+Package pdftex.def Info: Suites_clar-core.pdf , page5 used on input line 877.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[13
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 880.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=782, page=6, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 6>
+Package pdftex.def Info: Suites_clar-core.pdf , page6 used on input line 880.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 6>
+Package pdftex.def Info: Suites_clar-core.pdf , page6 used on input line 880.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 6>
+Package pdftex.def Info: Suites_clar-core.pdf , page6 used on input line 880.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 6>
+Package pdftex.def Info: Suites_clar-core.pdf , page6 used on input line 880.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 880.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 6>
+Package pdftex.def Info: Suites_clar-core.pdf , page6 used on input line 880.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[14
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 883.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=792, page=7, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 7>
+Package pdftex.def Info: Suites_clar-core.pdf , page7 used on input line 883.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 7>
+Package pdftex.def Info: Suites_clar-core.pdf , page7 used on input line 883.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 7>
+Package pdftex.def Info: Suites_clar-core.pdf , page7 used on input line 883.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 7>
+Package pdftex.def Info: Suites_clar-core.pdf , page7 used on input line 883.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 883.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 7>
+Package pdftex.def Info: Suites_clar-core.pdf , page7 used on input line 883.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[15
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 885.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=802, page=8, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 8>
+Package pdftex.def Info: Suites_clar-core.pdf , page8 used on input line 885.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 8>
+Package pdftex.def Info: Suites_clar-core.pdf , page8 used on input line 885.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 8>
+Package pdftex.def Info: Suites_clar-core.pdf , page8 used on input line 885.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 8>
+Package pdftex.def Info: Suites_clar-core.pdf , page8 used on input line 885.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 885.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 8>
+Package pdftex.def Info: Suites_clar-core.pdf , page8 used on input line 885.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[16
+
+ <./Suites_clar-core.pdf>]
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp50.abc'.
+
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp50.pdf  on input line 924.
+<./abcsvgtmp/abcsvgintex-tmp50.pdf, id=806, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp50.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp50.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp50.pdf  used on input line 
+924.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp51.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp51.pdf  on input line 935.
+<./abcsvgtmp/abcsvgintex-tmp51.pdf, id=807, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp51.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp51.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp51.pdf  used on input line 
+935.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp52.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp52.pdf  on input line 946.
+<./abcsvgtmp/abcsvgintex-tmp52.pdf, id=808, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp52.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp52.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp52.pdf  used on input line 
+946.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp53.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp53.pdf  on input line 959.
+<./abcsvgtmp/abcsvgintex-tmp53.pdf, id=809, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp53.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp53.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp53.pdf  used on input line 
+959.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp54.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp54.pdf  on input line 973.
+<./abcsvgtmp/abcsvgintex-tmp54.pdf, id=810, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp54.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp54.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp54.pdf  used on input line 
+973.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp55.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp55.pdf  on input line 983.
+<./abcsvgtmp/abcsvgintex-tmp55.pdf, id=811, 293.095pt x 40.15pt>
+File: ./abcsvgtmp/abcsvgintex-tmp55.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp55.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp55.pdf  used on input line 
+983.
+(pdftex.def)             Requested size: 293.09427pt x 40.14989pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp56.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp56.pdf  on input line 998.
+<./abcsvgtmp/abcsvgintex-tmp56.pdf, id=812, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp56.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp56.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp56.pdf  used on input line 
+998.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1002.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[17
+
+ <./abcsvgtmp/abcsvgintex-tmp50.pdf> <./abcsvgtmp/abcsvgintex-tmp51.pdf> <./abc
+svgtmp/abcsvgintex-tmp52.pdf> <./abcsvgtmp/abcsvgintex-tmp53.pdf> <./abcsvgtmp/
+abcsvgintex-tmp54.pdf> <./abcsvgtmp/abcsvgintex-tmp55.pdf> <./abcsvgtmp/abcsvgi
+ntex-tmp56.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1004.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=905, page=10, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 10>
+Package pdftex.def Info: Suites_clar-core.pdf , page10 used on input line 1004.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 10>
+Package pdftex.def Info: Suites_clar-core.pdf , page10 used on input line 1004.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 10>
+Package pdftex.def Info: Suites_clar-core.pdf , page10 used on input line 1004.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 10>
+Package pdftex.def Info: Suites_clar-core.pdf , page10 used on input line 1004.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1004.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 10>
+Package pdftex.def Info: Suites_clar-core.pdf , page10 used on input line 1004.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[18
+
+ <./Suites_clar-core.pdf>]
+<Suites_clar-core.pdf, id=909, page=11, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 11>
+Package pdftex.def Info: Suites_clar-core.pdf , page11 used on input line 1004.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 11>
+Package pdftex.def Info: Suites_clar-core.pdf , page11 used on input line 1004.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1004.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 11>
+Package pdftex.def Info: Suites_clar-core.pdf , page11 used on input line 1004.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[19
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1007.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=915, page=12, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 12>
+Package pdftex.def Info: Suites_clar-core.pdf , page12 used on input line 1007.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 12>
+Package pdftex.def Info: Suites_clar-core.pdf , page12 used on input line 1007.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 12>
+Package pdftex.def Info: Suites_clar-core.pdf , page12 used on input line 1007.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 12>
+Package pdftex.def Info: Suites_clar-core.pdf , page12 used on input line 1007.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1007.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 12>
+Package pdftex.def Info: Suites_clar-core.pdf , page12 used on input line 1007.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[20
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1010.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=920, page=13, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 13>
+Package pdftex.def Info: Suites_clar-core.pdf , page13 used on input line 1010.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 13>
+Package pdftex.def Info: Suites_clar-core.pdf , page13 used on input line 1010.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 13>
+Package pdftex.def Info: Suites_clar-core.pdf , page13 used on input line 1010.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 13>
+Package pdftex.def Info: Suites_clar-core.pdf , page13 used on input line 1010.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1010.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 13>
+Package pdftex.def Info: Suites_clar-core.pdf , page13 used on input line 1010.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[21
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1013.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=925, page=14, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 14>
+Package pdftex.def Info: Suites_clar-core.pdf , page14 used on input line 1013.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 14>
+Package pdftex.def Info: Suites_clar-core.pdf , page14 used on input line 1013.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 14>
+Package pdftex.def Info: Suites_clar-core.pdf , page14 used on input line 1013.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 14>
+Package pdftex.def Info: Suites_clar-core.pdf , page14 used on input line 1013.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1013.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 14>
+Package pdftex.def Info: Suites_clar-core.pdf , page14 used on input line 1013.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[22
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1016.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=930, page=15, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 15>
+Package pdftex.def Info: Suites_clar-core.pdf , page15 used on input line 1016.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 15>
+Package pdftex.def Info: Suites_clar-core.pdf , page15 used on input line 1016.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 15>
+Package pdftex.def Info: Suites_clar-core.pdf , page15 used on input line 1016.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 15>
+Package pdftex.def Info: Suites_clar-core.pdf , page15 used on input line 1016.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1016.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 15>
+Package pdftex.def Info: Suites_clar-core.pdf , page15 used on input line 1016.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[23
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1018.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=935, page=16, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 16>
+Package pdftex.def Info: Suites_clar-core.pdf , page16 used on input line 1018.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 16>
+Package pdftex.def Info: Suites_clar-core.pdf , page16 used on input line 1018.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 16>
+Package pdftex.def Info: Suites_clar-core.pdf , page16 used on input line 1018.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 16>
+Package pdftex.def Info: Suites_clar-core.pdf , page16 used on input line 1018.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1018.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 16>
+Package pdftex.def Info: Suites_clar-core.pdf , page16 used on input line 1018.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[24
+
+ <./Suites_clar-core.pdf>]
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp57.abc'.
+
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp57.pdf  on input line 1057.
+<./abcsvgtmp/abcsvgintex-tmp57.pdf, id=939, 293.095pt x 34.1275pt>
+File: ./abcsvgtmp/abcsvgintex-tmp57.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp57.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp57.pdf  used on input line 
+1057.
+(pdftex.def)             Requested size: 293.09427pt x 34.1274pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp58.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp58.pdf  on input line 1067.
+<./abcsvgtmp/abcsvgintex-tmp58.pdf, id=940, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp58.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp58.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp58.pdf  used on input line 
+1067.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp59.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp59.pdf  on input line 1081.
+<./abcsvgtmp/abcsvgintex-tmp59.pdf, id=941, 293.095pt x 35.13126pt>
+File: ./abcsvgtmp/abcsvgintex-tmp59.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp59.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp59.pdf  used on input line 
+1081.
+(pdftex.def)             Requested size: 293.09427pt x 35.13115pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp60.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp60.pdf  on input line 1093.
+<./abcsvgtmp/abcsvgintex-tmp60.pdf, id=942, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp60.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp60.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp60.pdf  used on input line 
+1093.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp61.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp61.pdf  on input line 1108.
+<./abcsvgtmp/abcsvgintex-tmp61.pdf, id=943, 293.095pt x 38.1425pt>
+File: ./abcsvgtmp/abcsvgintex-tmp61.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp61.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp61.pdf  used on input line 
+1108.
+(pdftex.def)             Requested size: 293.09427pt x 38.1424pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp62.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp62.pdf  on input line 1120.
+<./abcsvgtmp/abcsvgintex-tmp62.pdf, id=944, 293.095pt x 30.1125pt>
+File: ./abcsvgtmp/abcsvgintex-tmp62.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp62.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp62.pdf  used on input line 
+1120.
+(pdftex.def)             Requested size: 293.09427pt x 30.11241pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp63.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp63.pdf  on input line 1137.
+<./abcsvgtmp/abcsvgintex-tmp63.pdf, id=945, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp63.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp63.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp63.pdf  used on input line 
+1137.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1141.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[25
+
+ <./abcsvgtmp/abcsvgintex-tmp57.pdf> <./abcsvgtmp/abcsvgintex-tmp58.pdf> <./abc
+svgtmp/abcsvgintex-tmp59.pdf> <./abcsvgtmp/abcsvgintex-tmp60.pdf> <./abcsvgtmp/
+abcsvgintex-tmp61.pdf> <./abcsvgtmp/abcsvgintex-tmp62.pdf> <./abcsvgtmp/abcsvgi
+ntex-tmp63.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1143.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1040, page=18, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 18>
+Package pdftex.def Info: Suites_clar-core.pdf , page18 used on input line 1143.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 18>
+Package pdftex.def Info: Suites_clar-core.pdf , page18 used on input line 1143.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 18>
+Package pdftex.def Info: Suites_clar-core.pdf , page18 used on input line 1143.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 18>
+Package pdftex.def Info: Suites_clar-core.pdf , page18 used on input line 1143.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1143.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 18>
+Package pdftex.def Info: Suites_clar-core.pdf , page18 used on input line 1143.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[26
+
+ <./Suites_clar-core.pdf>]
+<Suites_clar-core.pdf, id=1044, page=19, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 19>
+Package pdftex.def Info: Suites_clar-core.pdf , page19 used on input line 1143.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 19>
+Package pdftex.def Info: Suites_clar-core.pdf , page19 used on input line 1143.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1143.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 19>
+Package pdftex.def Info: Suites_clar-core.pdf , page19 used on input line 1143.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[27
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1146.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1049, page=20, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 20>
+Package pdftex.def Info: Suites_clar-core.pdf , page20 used on input line 1146.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 20>
+Package pdftex.def Info: Suites_clar-core.pdf , page20 used on input line 1146.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 20>
+Package pdftex.def Info: Suites_clar-core.pdf , page20 used on input line 1146.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 20>
+Package pdftex.def Info: Suites_clar-core.pdf , page20 used on input line 1146.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1146.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 20>
+Package pdftex.def Info: Suites_clar-core.pdf , page20 used on input line 1146.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[28
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1149.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1054, page=21, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 21>
+Package pdftex.def Info: Suites_clar-core.pdf , page21 used on input line 1149.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 21>
+Package pdftex.def Info: Suites_clar-core.pdf , page21 used on input line 1149.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 21>
+Package pdftex.def Info: Suites_clar-core.pdf , page21 used on input line 1149.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 21>
+Package pdftex.def Info: Suites_clar-core.pdf , page21 used on input line 1149.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1149.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 21>
+Package pdftex.def Info: Suites_clar-core.pdf , page21 used on input line 1149.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[29
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1152.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1059, page=22, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 22>
+Package pdftex.def Info: Suites_clar-core.pdf , page22 used on input line 1152.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 22>
+Package pdftex.def Info: Suites_clar-core.pdf , page22 used on input line 1152.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 22>
+Package pdftex.def Info: Suites_clar-core.pdf , page22 used on input line 1152.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 22>
+Package pdftex.def Info: Suites_clar-core.pdf , page22 used on input line 1152.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1152.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 22>
+Package pdftex.def Info: Suites_clar-core.pdf , page22 used on input line 1152.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[30
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1155.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1064, page=23, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 23>
+Package pdftex.def Info: Suites_clar-core.pdf , page23 used on input line 1155.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 23>
+Package pdftex.def Info: Suites_clar-core.pdf , page23 used on input line 1155.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 23>
+Package pdftex.def Info: Suites_clar-core.pdf , page23 used on input line 1155.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 23>
+Package pdftex.def Info: Suites_clar-core.pdf , page23 used on input line 1155.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1155.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 23>
+Package pdftex.def Info: Suites_clar-core.pdf , page23 used on input line 1155.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[31
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1158.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1070, page=24, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 24>
+Package pdftex.def Info: Suites_clar-core.pdf , page24 used on input line 1158.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 24>
+Package pdftex.def Info: Suites_clar-core.pdf , page24 used on input line 1158.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 24>
+Package pdftex.def Info: Suites_clar-core.pdf , page24 used on input line 1158.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 24>
+Package pdftex.def Info: Suites_clar-core.pdf , page24 used on input line 1158.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1158.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 24>
+Package pdftex.def Info: Suites_clar-core.pdf , page24 used on input line 1158.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[32
+
+ <./Suites_clar-core.pdf>]
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp64.abc'.
+
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp64.pdf  on input line 1198.
+<./abcsvgtmp/abcsvgintex-tmp64.pdf, id=1074, 293.095pt x 34.1275pt>
+File: ./abcsvgtmp/abcsvgintex-tmp64.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp64.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp64.pdf  used on input line 
+1198.
+(pdftex.def)             Requested size: 293.09427pt x 34.1274pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp65.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp65.pdf  on input line 1209.
+<./abcsvgtmp/abcsvgintex-tmp65.pdf, id=1075, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp65.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp65.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp65.pdf  used on input line 
+1209.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp66.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp66.pdf  on input line 1222.
+<./abcsvgtmp/abcsvgintex-tmp66.pdf, id=1076, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp66.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp66.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp66.pdf  used on input line 
+1222.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp67.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp67.pdf  on input line 1235.
+<./abcsvgtmp/abcsvgintex-tmp67.pdf, id=1077, 293.095pt x 32.12pt>
+File: ./abcsvgtmp/abcsvgintex-tmp67.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp67.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp67.pdf  used on input line 
+1235.
+(pdftex.def)             Requested size: 293.09427pt x 32.1199pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp68.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp68.pdf  on input line 1248.
+<./abcsvgtmp/abcsvgintex-tmp68.pdf, id=1078, 293.095pt x 36.135pt>
+File: ./abcsvgtmp/abcsvgintex-tmp68.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp68.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp68.pdf  used on input line 
+1248.
+(pdftex.def)             Requested size: 293.09427pt x 36.13489pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp69.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp69.pdf  on input line 1260.
+<./abcsvgtmp/abcsvgintex-tmp69.pdf, id=1079, 293.095pt x 30.1125pt>
+File: ./abcsvgtmp/abcsvgintex-tmp69.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp69.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp69.pdf  used on input line 
+1260.
+(pdftex.def)             Requested size: 293.09427pt x 30.11241pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp70.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp70.pdf  on input line 1272.
+<./abcsvgtmp/abcsvgintex-tmp70.pdf, id=1080, 293.095pt x 32.12pt>
+File: ./abcsvgtmp/abcsvgintex-tmp70.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp70.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp70.pdf  used on input line 
+1272.
+(pdftex.def)             Requested size: 293.09427pt x 32.1199pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1276.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[33
+
+ <./abcsvgtmp/abcsvgintex-tmp64.pdf> <./abcsvgtmp/abcsvgintex-tmp65.pdf> <./abc
+svgtmp/abcsvgintex-tmp66.pdf> <./abcsvgtmp/abcsvgintex-tmp67.pdf> <./abcsvgtmp/
+abcsvgintex-tmp68.pdf> <./abcsvgtmp/abcsvgintex-tmp69.pdf> <./abcsvgtmp/abcsvgi
+ntex-tmp70.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1278.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1174, page=26, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 26>
+Package pdftex.def Info: Suites_clar-core.pdf , page26 used on input line 1278.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 26>
+Package pdftex.def Info: Suites_clar-core.pdf , page26 used on input line 1278.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 26>
+Package pdftex.def Info: Suites_clar-core.pdf , page26 used on input line 1278.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 26>
+Package pdftex.def Info: Suites_clar-core.pdf , page26 used on input line 1278.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1278.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 26>
+Package pdftex.def Info: Suites_clar-core.pdf , page26 used on input line 1278.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[34
+
+ <./Suites_clar-core.pdf>]
+<Suites_clar-core.pdf, id=1178, page=27, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 27>
+Package pdftex.def Info: Suites_clar-core.pdf , page27 used on input line 1278.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 27>
+Package pdftex.def Info: Suites_clar-core.pdf , page27 used on input line 1278.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1278.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 27>
+Package pdftex.def Info: Suites_clar-core.pdf , page27 used on input line 1278.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[35
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1281.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1183, page=28, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 28>
+Package pdftex.def Info: Suites_clar-core.pdf , page28 used on input line 1281.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 28>
+Package pdftex.def Info: Suites_clar-core.pdf , page28 used on input line 1281.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 28>
+Package pdftex.def Info: Suites_clar-core.pdf , page28 used on input line 1281.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 28>
+Package pdftex.def Info: Suites_clar-core.pdf , page28 used on input line 1281.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1281.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 28>
+Package pdftex.def Info: Suites_clar-core.pdf , page28 used on input line 1281.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[36
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1284.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1188, page=29, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 29>
+Package pdftex.def Info: Suites_clar-core.pdf , page29 used on input line 1284.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 29>
+Package pdftex.def Info: Suites_clar-core.pdf , page29 used on input line 1284.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 29>
+Package pdftex.def Info: Suites_clar-core.pdf , page29 used on input line 1284.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 29>
+Package pdftex.def Info: Suites_clar-core.pdf , page29 used on input line 1284.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1284.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 29>
+Package pdftex.def Info: Suites_clar-core.pdf , page29 used on input line 1284.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[37
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1287.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1194, page=30, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 30>
+Package pdftex.def Info: Suites_clar-core.pdf , page30 used on input line 1287.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 30>
+Package pdftex.def Info: Suites_clar-core.pdf , page30 used on input line 1287.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 30>
+Package pdftex.def Info: Suites_clar-core.pdf , page30 used on input line 1287.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 30>
+Package pdftex.def Info: Suites_clar-core.pdf , page30 used on input line 1287.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1287.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 30>
+Package pdftex.def Info: Suites_clar-core.pdf , page30 used on input line 1287.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[38
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1289.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1199, page=31, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 31>
+Package pdftex.def Info: Suites_clar-core.pdf , page31 used on input line 1289.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 31>
+Package pdftex.def Info: Suites_clar-core.pdf , page31 used on input line 1289.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 31>
+Package pdftex.def Info: Suites_clar-core.pdf , page31 used on input line 1289.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 31>
+Package pdftex.def Info: Suites_clar-core.pdf , page31 used on input line 1289.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1289.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 31>
+Package pdftex.def Info: Suites_clar-core.pdf , page31 used on input line 1289.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[39
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1292.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1204, page=32, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 32>
+Package pdftex.def Info: Suites_clar-core.pdf , page32 used on input line 1292.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 32>
+Package pdftex.def Info: Suites_clar-core.pdf , page32 used on input line 1292.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 32>
+Package pdftex.def Info: Suites_clar-core.pdf , page32 used on input line 1292.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 32>
+Package pdftex.def Info: Suites_clar-core.pdf , page32 used on input line 1292.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1292.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 32>
+Package pdftex.def Info: Suites_clar-core.pdf , page32 used on input line 1292.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[40
+
+ <./Suites_clar-core.pdf>]
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp71.abc'.
+
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp71.pdf  on input line 1331.
+<./abcsvgtmp/abcsvgintex-tmp71.pdf, id=1208, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp71.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp71.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp71.pdf  used on input line 
+1331.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp72.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp72.pdf  on input line 1343.
+<./abcsvgtmp/abcsvgintex-tmp72.pdf, id=1209, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp72.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp72.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp72.pdf  used on input line 
+1343.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp73.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp73.pdf  on input line 1355.
+<./abcsvgtmp/abcsvgintex-tmp73.pdf, id=1210, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp73.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp73.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp73.pdf  used on input line 
+1355.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp74.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp74.pdf  on input line 1369.
+<./abcsvgtmp/abcsvgintex-tmp74.pdf, id=1211, 293.095pt x 35.13126pt>
+File: ./abcsvgtmp/abcsvgintex-tmp74.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp74.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp74.pdf  used on input line 
+1369.
+(pdftex.def)             Requested size: 293.09427pt x 35.13115pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp75.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp75.pdf  on input line 1382.
+<./abcsvgtmp/abcsvgintex-tmp75.pdf, id=1212, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp75.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp75.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp75.pdf  used on input line 
+1382.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp76.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp76.pdf  on input line 1392.
+<./abcsvgtmp/abcsvgintex-tmp76.pdf, id=1213, 293.095pt x 37.13875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp76.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp76.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp76.pdf  used on input line 
+1392.
+(pdftex.def)             Requested size: 293.09427pt x 37.13866pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp77.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp77.pdf  on input line 1402.
+<./abcsvgtmp/abcsvgintex-tmp77.pdf, id=1214, 293.095pt x 28.105pt>
+File: ./abcsvgtmp/abcsvgintex-tmp77.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp77.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp77.pdf  used on input line 
+1402.
+(pdftex.def)             Requested size: 293.09427pt x 28.10492pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1406.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[41
+
+ <./abcsvgtmp/abcsvgintex-tmp71.pdf> <./abcsvgtmp/abcsvgintex-tmp72.pdf> <./abc
+svgtmp/abcsvgintex-tmp73.pdf> <./abcsvgtmp/abcsvgintex-tmp74.pdf> <./abcsvgtmp/
+abcsvgintex-tmp75.pdf> <./abcsvgtmp/abcsvgintex-tmp76.pdf> <./abcsvgtmp/abcsvgi
+ntex-tmp77.pdf>]
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1406.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[42
+
+]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1408.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1316, page=35, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 35>
+Package pdftex.def Info: Suites_clar-core.pdf , page35 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 35>
+Package pdftex.def Info: Suites_clar-core.pdf , page35 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 35>
+Package pdftex.def Info: Suites_clar-core.pdf , page35 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 35>
+Package pdftex.def Info: Suites_clar-core.pdf , page35 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1408.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 35>
+Package pdftex.def Info: Suites_clar-core.pdf , page35 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[43
+
+ <./Suites_clar-core.pdf>]
+<Suites_clar-core.pdf, id=1321, page=36, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 36>
+Package pdftex.def Info: Suites_clar-core.pdf , page36 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 36>
+Package pdftex.def Info: Suites_clar-core.pdf , page36 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1408.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 36>
+Package pdftex.def Info: Suites_clar-core.pdf , page36 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[44
+
+ <./Suites_clar-core.pdf>]
+<Suites_clar-core.pdf, id=1325, page=37, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 37>
+Package pdftex.def Info: Suites_clar-core.pdf , page37 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 37>
+Package pdftex.def Info: Suites_clar-core.pdf , page37 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1408.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 37>
+Package pdftex.def Info: Suites_clar-core.pdf , page37 used on input line 1408.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[45
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1411.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1330, page=38, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 38>
+Package pdftex.def Info: Suites_clar-core.pdf , page38 used on input line 1411.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 38>
+Package pdftex.def Info: Suites_clar-core.pdf , page38 used on input line 1411.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 38>
+Package pdftex.def Info: Suites_clar-core.pdf , page38 used on input line 1411.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 38>
+Package pdftex.def Info: Suites_clar-core.pdf , page38 used on input line 1411.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1411.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 38>
+Package pdftex.def Info: Suites_clar-core.pdf , page38 used on input line 1411.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[46
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1414.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1335, page=39, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 39>
+Package pdftex.def Info: Suites_clar-core.pdf , page39 used on input line 1414.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 39>
+Package pdftex.def Info: Suites_clar-core.pdf , page39 used on input line 1414.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 39>
+Package pdftex.def Info: Suites_clar-core.pdf , page39 used on input line 1414.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 39>
+Package pdftex.def Info: Suites_clar-core.pdf , page39 used on input line 1414.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1414.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 39>
+Package pdftex.def Info: Suites_clar-core.pdf , page39 used on input line 1414.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[47
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1417.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1340, page=40, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 40>
+Package pdftex.def Info: Suites_clar-core.pdf , page40 used on input line 1417.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 40>
+Package pdftex.def Info: Suites_clar-core.pdf , page40 used on input line 1417.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 40>
+Package pdftex.def Info: Suites_clar-core.pdf , page40 used on input line 1417.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 40>
+Package pdftex.def Info: Suites_clar-core.pdf , page40 used on input line 1417.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1417.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 40>
+Package pdftex.def Info: Suites_clar-core.pdf , page40 used on input line 1417.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[48
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1420.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1345, page=41, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 41>
+Package pdftex.def Info: Suites_clar-core.pdf , page41 used on input line 1420.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 41>
+Package pdftex.def Info: Suites_clar-core.pdf , page41 used on input line 1420.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 41>
+Package pdftex.def Info: Suites_clar-core.pdf , page41 used on input line 1420.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 41>
+Package pdftex.def Info: Suites_clar-core.pdf , page41 used on input line 1420.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1420.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 41>
+Package pdftex.def Info: Suites_clar-core.pdf , page41 used on input line 1420.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[49
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1422.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1351, page=42, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 42>
+Package pdftex.def Info: Suites_clar-core.pdf , page42 used on input line 1422.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 42>
+Package pdftex.def Info: Suites_clar-core.pdf , page42 used on input line 1422.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 42>
+Package pdftex.def Info: Suites_clar-core.pdf , page42 used on input line 1422.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 42>
+Package pdftex.def Info: Suites_clar-core.pdf , page42 used on input line 1422.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1422.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 42>
+Package pdftex.def Info: Suites_clar-core.pdf , page42 used on input line 1422.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[50
+
+ <./Suites_clar-core.pdf>]
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp78.abc'.
+
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp78.pdf  on input line 1461.
+<./abcsvgtmp/abcsvgintex-tmp78.pdf, id=1355, 293.095pt x 34.1275pt>
+File: ./abcsvgtmp/abcsvgintex-tmp78.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp78.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp78.pdf  used on input line 
+1461.
+(pdftex.def)             Requested size: 293.09427pt x 34.1274pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp79.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp79.pdf  on input line 1471.
+<./abcsvgtmp/abcsvgintex-tmp79.pdf, id=1356, 293.095pt x 30.1125pt>
+File: ./abcsvgtmp/abcsvgintex-tmp79.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp79.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp79.pdf  used on input line 
+1471.
+(pdftex.def)             Requested size: 293.09427pt x 30.11241pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp80.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp80.pdf  on input line 1484.
+<./abcsvgtmp/abcsvgintex-tmp80.pdf, id=1357, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp80.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp80.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp80.pdf  used on input line 
+1484.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp81.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp81.pdf  on input line 1497.
+<./abcsvgtmp/abcsvgintex-tmp81.pdf, id=1358, 293.095pt x 29.10875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp81.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp81.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp81.pdf  used on input line 
+1497.
+(pdftex.def)             Requested size: 293.09427pt x 29.10867pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp82.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp82.pdf  on input line 1510.
+<./abcsvgtmp/abcsvgintex-tmp82.pdf, id=1359, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp82.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp82.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp82.pdf  used on input line 
+1510.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp83.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp83.pdf  on input line 1521.
+<./abcsvgtmp/abcsvgintex-tmp83.pdf, id=1360, 293.095pt x 37.13875pt>
+File: ./abcsvgtmp/abcsvgintex-tmp83.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp83.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp83.pdf  used on input line 
+1521.
+(pdftex.def)             Requested size: 293.09427pt x 37.13866pt.
+\openout3 = `./abcsvgtmp/abcsvgintex-tmp84.abc'.
+
+
+*** Reusing ./abcsvgtmp/abcsvgintex-tmp84.pdf  on input line 1534.
+<./abcsvgtmp/abcsvgintex-tmp84.pdf, id=1361, 293.095pt x 33.12375pt>
+File: ./abcsvgtmp/abcsvgintex-tmp84.pdf Graphic file (type pdf)
+<use ./abcsvgtmp/abcsvgintex-tmp84.pdf>
+Package pdftex.def Info: ./abcsvgtmp/abcsvgintex-tmp84.pdf  used on input line 
+1534.
+(pdftex.def)             Requested size: 293.09427pt x 33.12366pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1538.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[51
+
+ <./abcsvgtmp/abcsvgintex-tmp78.pdf> <./abcsvgtmp/abcsvgintex-tmp79.pdf> <./abc
+svgtmp/abcsvgintex-tmp80.pdf> <./abcsvgtmp/abcsvgintex-tmp81.pdf> <./abcsvgtmp/
+abcsvgintex-tmp82.pdf> <./abcsvgtmp/abcsvgintex-tmp83.pdf> <./abcsvgtmp/abcsvgi
+ntex-tmp84.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1542.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1455, page=44, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 44>
+Package pdftex.def Info: Suites_clar-core.pdf , page44 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 44>
+Package pdftex.def Info: Suites_clar-core.pdf , page44 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 44>
+Package pdftex.def Info: Suites_clar-core.pdf , page44 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 44>
+Package pdftex.def Info: Suites_clar-core.pdf , page44 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1542.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 44>
+Package pdftex.def Info: Suites_clar-core.pdf , page44 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[52
+
+ <./Suites_clar-core.pdf>]
+<Suites_clar-core.pdf, id=1459, page=45, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 45>
+Package pdftex.def Info: Suites_clar-core.pdf , page45 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 45>
+Package pdftex.def Info: Suites_clar-core.pdf , page45 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1542.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 45>
+Package pdftex.def Info: Suites_clar-core.pdf , page45 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[53
+
+ <./Suites_clar-core.pdf>]
+<Suites_clar-core.pdf, id=1473, page=46, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 46>
+Package pdftex.def Info: Suites_clar-core.pdf , page46 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 46>
+Package pdftex.def Info: Suites_clar-core.pdf , page46 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1542.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 46>
+Package pdftex.def Info: Suites_clar-core.pdf , page46 used on input line 1542.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[54
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1545.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1478, page=47, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 47>
+Package pdftex.def Info: Suites_clar-core.pdf , page47 used on input line 1545.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 47>
+Package pdftex.def Info: Suites_clar-core.pdf , page47 used on input line 1545.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 47>
+Package pdftex.def Info: Suites_clar-core.pdf , page47 used on input line 1545.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 47>
+Package pdftex.def Info: Suites_clar-core.pdf , page47 used on input line 1545.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1545.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 47>
+Package pdftex.def Info: Suites_clar-core.pdf , page47 used on input line 1545.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[55
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1548.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1484, page=48, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 48>
+Package pdftex.def Info: Suites_clar-core.pdf , page48 used on input line 1548.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 48>
+Package pdftex.def Info: Suites_clar-core.pdf , page48 used on input line 1548.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 48>
+Package pdftex.def Info: Suites_clar-core.pdf , page48 used on input line 1548.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 48>
+Package pdftex.def Info: Suites_clar-core.pdf , page48 used on input line 1548.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1548.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 48>
+Package pdftex.def Info: Suites_clar-core.pdf , page48 used on input line 1548.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[56
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1551.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1489, page=49, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 49>
+Package pdftex.def Info: Suites_clar-core.pdf , page49 used on input line 1551.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 49>
+Package pdftex.def Info: Suites_clar-core.pdf , page49 used on input line 1551.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 49>
+Package pdftex.def Info: Suites_clar-core.pdf , page49 used on input line 1551.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 49>
+Package pdftex.def Info: Suites_clar-core.pdf , page49 used on input line 1551.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1551.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 49>
+Package pdftex.def Info: Suites_clar-core.pdf , page49 used on input line 1551.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[57
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1554.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1494, page=50, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 50>
+Package pdftex.def Info: Suites_clar-core.pdf , page50 used on input line 1554.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 50>
+Package pdftex.def Info: Suites_clar-core.pdf , page50 used on input line 1554.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 50>
+Package pdftex.def Info: Suites_clar-core.pdf , page50 used on input line 1554.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 50>
+Package pdftex.def Info: Suites_clar-core.pdf , page50 used on input line 1554.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1554.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 50>
+Package pdftex.def Info: Suites_clar-core.pdf , page50 used on input line 1554.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[58
+
+ <./Suites_clar-core.pdf>]
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf>
+Package pdftex.def Info: Suites_clar-core.pdf  used on input line 1557.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<Suites_clar-core.pdf, id=1499, page=51, 597.19106pt x 845.07718pt>
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 51>
+Package pdftex.def Info: Suites_clar-core.pdf , page51 used on input line 1557.
+
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 51>
+Package pdftex.def Info: Suites_clar-core.pdf , page51 used on input line 1557.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 51>
+Package pdftex.def Info: Suites_clar-core.pdf , page51 used on input line 1557.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 51>
+Package pdftex.def Info: Suites_clar-core.pdf , page51 used on input line 1557.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1557.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+File: Suites_clar-core.pdf Graphic file (type pdf)
+<use Suites_clar-core.pdf, page 51>
+Package pdftex.def Info: Suites_clar-core.pdf , page51 used on input line 1557.
+
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+[59
+
+ <./Suites_clar-core.pdf>]
+
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1563.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[60
+
+]
+File: inc/by-sa.pdf Graphic file (type pdf)
+<use inc/by-sa.pdf>
+Package pdftex.def Info: inc/by-sa.pdf  used on input line 1619.
+(pdftex.def)             Requested size: 121.45343pt x 43.16113pt.
+<inc/share.pdf, id=1516, 56.21pt x 56.21pt>
+File: inc/share.pdf Graphic file (type pdf)
+<use inc/share.pdf>
+Package pdftex.def Info: inc/share.pdf  used on input line 1626.
+(pdftex.def)             Requested size: 22.4999pt x 22.49992pt.
+<inc/remix.pdf, id=1517, 56.21pt x 56.21pt>
+File: inc/remix.pdf Graphic file (type pdf)
+<use inc/remix.pdf>
+Package pdftex.def Info: inc/remix.pdf  used on input line 1630.
+(pdftex.def)             Requested size: 22.4999pt x 22.49992pt.
+<inc/by.pdf, id=1518, 56.21pt x 56.21pt>
+File: inc/by.pdf Graphic file (type pdf)
+<use inc/by.pdf>
+Package pdftex.def Info: inc/by.pdf  used on input line 1638.
+(pdftex.def)             Requested size: 22.4999pt x 22.49992pt.
+<inc/sa.pdf, id=1519, 56.21pt x 56.21pt>
+File: inc/sa.pdf Graphic file (type pdf)
+<use inc/sa.pdf>
+Package pdftex.def Info: inc/sa.pdf  used on input line 1643.
+(pdftex.def)             Requested size: 22.4999pt x 22.49992pt.
+
+
+[61 <./inc/share.pdf> <./inc/remix.pdf> <./inc/by.pdf> <./inc/sa.pdf>]
+
+[62
+
+]
+
+[63
+
+]
+
+
+
+
+<QR code requested for "https://www.oclaribou.fr/MusicBJS/BJSCelloSuites" in ve
+rsion 0-M.>
+
+<Copying the QR code for "https://www.oclaribou.fr/MusicBJS/BJSCelloSuites" in 
+version 4-M as previously calculated.>
+File: inc/by-sa_small.pdf Graphic file (type pdf)
+<use inc/by-sa_small.pdf>
+Package pdftex.def Info: inc/by-sa_small.pdf  used on input line 1691.
+(pdftex.def)             Requested size: 45.56328pt x 8.99997pt.
+[64] (./Suites_clar.aux
+<Reading QR code for "https://www.oclaribou.fr/MusicBJS/BJSCelloSuites" at leve
+l 4-M from aux file.>
+)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 7657 strings out of 473190
+ 141627 string characters out of 5715801
+ 541135 words of memory out of 5000000
+ 30705 multiletter control sequences out of 15000+600000
+ 626813 words of font info for 132 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,17n,79p,1270b,656s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
+ive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on Suites_clar.pdf (64 pages, 2562091 bytes).
+PDF statistics:
+ 1580 PDF objects out of 1728 (max. 8388607)
+ 993 compressed objects within 10 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 856 words of extra memory for PDF output out of 10000 (max. 10000000)
+
