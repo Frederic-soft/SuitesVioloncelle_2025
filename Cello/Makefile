@@ -60,6 +60,9 @@ MIDI = $(SOURCES:.abc=.mid)
 XML  = $(SOURCES:.abc=.xml)
 PDFS = $(SOURCES:.abc=.pdf)
 
+BOOKSRC = $(DOCUMENT)_inside.tex $(DOCUMENT)_cover.tex
+BOOKPDF = $(BOOKSRC:.tex=.pdf)
+
 all :
 	make pdf
 	make xml
@@ -115,13 +118,13 @@ $(DOCUMENT)_cover.pdf : $(DOCUMENT)_cover.tex $(DOCUMENT).pdf
 $(DOCUMENT)_inside.pdf : $(DOCUMENT)_inside.tex $(DOCUMENT).pdf
 	$(PDFLATEX) $(DOCUMENT)_inside.tex
 
-$(DOCUMENT).zip : $(DOCUMENT).pdf $(MIDI) $(XML) $(DOCUMENT).tex Makefile $(SOURCES) $(DOCUMENT)-core.abc $(INCLUDES)
+$(DOCUMENT).zip : $(DOCUMENT).pdf $(MIDI) $(XML) $(DOCUMENT).tex $(BOOKSRC) Makefile $(SOURCES) $(DOCUMENT)-core.abc $(INCLUDES)
 	$(RM) $(DOCUMENT).zip
-	zip -r $(DOCUMENT).zip $(DOCUMENT).pdf $(MIDI) $(XML) $(DOCUMENT).tex Makefile $(SOURCES) $(DOCUMENT)-core.abc $(INCLUDES)
+	zip -r $(DOCUMENT).zip $(DOCUMENT).pdf $(MIDI) $(XML) $(DOCUMENT).tex $(BOOKSRC) Makefile $(SOURCES) $(DOCUMENT)-core.abc $(INCLUDES)
 
 clean :
 	$(RM) *.log *.aux *.ps *.synctex.gz $(DOCUMENT)-core.pdf abcsvgtmp/*.* *.abcpp $(PDFS)
 
 clobber : clean
-	$(RM) $(DOCUMENT).pdf $(DOCUMENT)_cover.pdf $(DOCUMENT)_inside.pdf
+	$(RM) $(DOCUMENT).pdf $(BOOKPDF)
 	$(RM) *.mid *.xml
