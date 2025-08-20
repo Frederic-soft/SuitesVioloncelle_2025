@@ -36,7 +36,7 @@ _E>CD | B,3/2(A,/2G,/2^F,/2) | G,>B,=F, | E,>G,B, | D>B,C | A,3/2(G,/2F,/2E,/2 |
 %% 48
 F,>)A,C | =B,3/2(G,/2F,/2E,/2 | F,>)=B,D | ^C3/2(A,/2G,/2F,/2 | G,>)^CE |
 % 53
-D>A,F | E>A,G | !trill(!F3 | ^F3 !trill)!|$
+D>A,F | E>A,G | !trill!!trill(!F3 | ^F3 !trill)!|$
 % 57
 G>E=F | E>^CD | !trill!^C>DE |
 %% 60
